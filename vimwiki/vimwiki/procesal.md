@@ -12,7 +12,7 @@
     planteando pretensiones procesales.
 
 - contenido
-    - organico
+    - orgánico
 
 	es aquella rama del derecho procesal que comprende el estudio de la
 	organización de los TRB de justicia y de sus atribuciones y competencia
@@ -32,7 +32,7 @@
        práctica de las normas substantivas.
 - fuentes
     1. directas = CPR, ley procesal, AA, TI
-    2. indirectas = dº historico, dº extranjero, jurisprudencia, doctrina,
+    2. indirectas = dº histórico, dº extranjero, jurisprudencia, doctrina,
        usos, costumbre y equidad.
 
 # 2. Jurisdicción
@@ -133,8 +133,8 @@
 
 # 4. Órganos Jurisdiccionales
 
-- Buscar ítem del Temario "BASES DE LA ADMINISTRACIÓN DE JUSTÍCIA"
-- Qué se entiende por Organo Jurisdiccional?
+- Buscar ítem del Temario "BASES DE LA ADMINISTRACIÓN DE JUSTICIA"
+- Qué se entiende por Órgano Jurisdiccional?
 
     Son órganos públicos, que realizan la función de jurisdicción, es decir, la
     de resolver litigios con eficacia de cosa juzgada y eventual posibilidad de
@@ -353,7 +353,7 @@
     lleguen a JO y funcionan colegiadamente en una o más salas integradas por 3
     de sus miembros.
 
-- Tribunales Unipersonales Accidentales o de Excepcción
+- Tribunales Unipersonales Accidentales o de Excepción
 
     Aquellos formados por un juez del TRB superior colegiado, de competencia
     territorial que sólo se constituyen para conocer de determinadas causas una
@@ -649,7 +649,7 @@
 	    2. Se designará el TRB mediante sistema informático asignando a
 	       cada causa el número de orden según su naturaleza, velando por
 	       una distribución equitativa
-	    3. Los TRB criminales se rigen por normas de distribución própias
+	    3. Los TRB criminales se rigen por normas de distribución propias
 	- En lugares donde existe Corte de Apelaciones
 	    1. Se deberá presentar a la Corte toda demanda o gestión judicial a
 	       fin que esta designe el juez quien corresponda
@@ -776,7 +776,7 @@
     el **análisis** y **mayor comprensión** de los asuntos sometidos a su
     conocimiento en el ámbito de su especialidad.
 
-- Los Bibliotecários Judiciales
+- Los Bibliotecarios Judiciales
 
     Auxiliares de la administración de justicia cuya función es la **custodia,
     mantenimiento y atención de la Biblioteca de la Corte** en que desempeñen
@@ -817,13 +817,13 @@
 	Es fuente en los casos de arbitraje forzoso art. 227
 
 - Como se clasifican?
-    - Arbitros de derecho
+    - Árbitros de derecho
 
 	El cual falla con arreglo a la ley y se somete tanto en la tramitación
 	como en el pronunciamiento de la sentencia definitiva a las reglas
 	establecidas para los jueces ordinarios, según la acción deducida.
 
-    - Arbitros arbitradores o amigables componedores
+    - Árbitros arbitradores o amigables componedores
 
 	Es el que falla obedeciendo a lo que su prudencia y equidad le
 	dictaren, y no está obligado a guardar en su procedimiento y en su
@@ -831,7 +831,7 @@
 	constitutivo** del compromiso y si estas nada han expresado se
 	sujetarán **a las normas mínimas señaladas en el art. 636 - 642 CPC**
 
-    - Arbitros mixtos
+    - Árbitros mixtos
 
 	Aquellos que tramitan como árbitros arbitradores y que fallan como
 	árbitros de derecho
@@ -905,7 +905,7 @@
     Está constituido por el juez y el actuario, que realiza las funciones de
     ministro de fe
 
-- Expiración de las funciones de los arbitros
+- Expiración de las funciones de los árbitros
 
     Normalmente expiran con el pronunciamiento de la sentencia arbitral
 
@@ -1188,7 +1188,7 @@
     1. presentación de la **demanda**
     2. el **proveído** del TRB que la tenga por presentada y de la cual se
        confiera traslado al demandado
-    3. el **emplazamento** del demandado
+    3. el **emplazamiento** del demandado
 - Procedimiento
 
     Es el conjunto de formalidades específicas a que debe someterse tanto los
@@ -1364,7 +1364,7 @@
 	   apoya
 	5. la enunciación precisa y clara, consignada en la conclusión de las
 	   peticiones que se sometan al fallo del TRB.
-- Pretensiones multiples
+- Pretensiones múltiples
 
     art. 17 en un mismo juicio se podrán entablar dos o más acciones con tal
     que no sean incompatibles.
@@ -1472,7 +1472,7 @@
 	intervenido, la cual se digitalizará e incorporará a la carpeta
 	electrónica
 
-	se podrán registrar las audiencias mediante audio digital o video
+	se podrán registrar las audiencias mediante audio digital o vídeo
 
     - autorizada por funcionario competente
 
@@ -1496,7 +1496,7 @@
 	no puede llevarse a efecto sino pasado 3 días después de la
 	notificación de la parte contraria
 
-	ej. aumento extraordinário para rendir prueba dentro de la República,
+	ej. aumento extraordinario para rendir prueba dentro de la República,
 	cumplimiento ejecutivo de la sentencia
 
     - con audiencia
@@ -1540,7 +1540,7 @@
     considerando el rol que puede tener el juez respecto a la iniciativa en el
     aporte, reconstrucción y comprobación de los hechos trascendentes para la
     resolución final del juicio. Si el juez o TRB tiene un rol preponderante en
-    dicha inciativa estamos frente al principio inquisitivo y si tiene un rol
+    dicha iniciativa estamos frente al principio inquisitivo y si tiene un rol
     pasivo estamos frente al principio dispositivo.
 
 - continuidad y de concentración
@@ -1730,7 +1730,7 @@
 
 	deberán agregar a la carpeta un testimonio dando cuenta de la actuación
 	dentro de los 2 día siguientes a la realización de la diligencia. En
-	caso de retiro de especies incluirán un registro fotográfico o de video
+	caso de retiro de especies incluirán un registro fotográfico o de vídeo
 	con fecha y hora a menos que exista oposición de parte del deudor o
 	depositario.
 
@@ -1940,7 +1940,7 @@
 
 # 16. Representación Procesal
 
-- ambito
+- ámbito
 
     toda persona que deba comparecer en juicio a su propio nombre o como
     representante legal de otra, deberá hacerlo en la forma que establece la
@@ -2039,7 +2039,7 @@
 
 		la que confiere al procurador para desenvolver de manera
 		continua y normal la relación procesal sin que sea posible el
-		poderdante regularlas a su voluntad, porlo que las cláusulas en
+		poderdante regularlas a su voluntad, por lo que las cláusulas en
 		que se nieguen o limiten son nulas.
 
 	    - natural
@@ -2366,7 +2366,7 @@
 		   hecha valer en diversas oportunidades
 		4. la acción prescribe en 3 años (como ejecutiva, o 1 como
 		   incidente), y 5 como acción ordinaria. La excepción es
-		   inprescriptible
+		   imprescriptible
 		5. la excepción solo proviene de una sentencia interlocutoria o
 		   definitiva firme, sea ésta condenatoria o absolutoria. La
 		   acción emana de definitivas e interlocutorias firmes, que
@@ -2413,8 +2413,8 @@
 	Es el caso de las medidas precautorias. Antes estaban los casos de la
 	deserción del recurso de apelación y la rebeldía en 2ª instancia.
 
-- reglas comúnes
-    1. no requiere consentimento del notificado
+- reglas comunes
+    1. no requiere consentimiento del notificado
     2. no debe contener declaración alguna del notificado, salvo que la
        resolución lo ordene o que por su naturaleza requiera de esa declaración
     3. requisitos comunes a toda actuación judicial
@@ -2511,7 +2511,7 @@
 	    las notificación que debiesen hacerse por cédula se harán por el
 	    estado diario
 
-    - estado diário
+    - estado diario
 
 	es aquella que se incluye en un estado que deberá formarse
 	electrónicamente en la página web del Pjud.
@@ -3155,7 +3155,7 @@
 
 		pueden ser inhabilitados por vía de recusación sin necesidad de
 		expresión de causa, por el solo hecho de presentarse el escrito
-		o haciendolo presente al relator de forma verbal (dos veces
+		o haciéndolo presente al relator de forma verbal (dos veces
 		cada una de las partes), para lo cual se deberá pagar un
 		impuesto fiscal especial en estampillas
 
@@ -3346,7 +3346,7 @@
 
 # 21. Medidas Cautelares, Prejudiciales y Precautorias
 
-# 22. Del Juicio Ordinário
+# 22. Del Juicio Ordinario
 
 # 23. Juicio Sumario
 
@@ -3356,7 +3356,7 @@
 
 # 26. Juicios de Hacienda
 
-# 27. Juicios ante Arbitros y Particiones
+# 27. Juicios ante Árbitros y Particiones
 
 # 28. Los Actos Judiciales no Contenciosos
 
@@ -3373,7 +3373,7 @@
 
 	+ El tribunal u órgano jurisdiccional
 	+ El ministerio público
-	+ La policia
+	+ La policía
 	+ El imputado
 	+ La defensa
 	+ La víctima
@@ -3384,7 +3384,7 @@
 - Forma de actuar de los Tribunales
 
 	La regla general es que las resoluciones se deben dar en audiencias con
-	la participación de todos los intervinientes, por excepcion puede
+	la participación de todos los intervinientes, por excepción puede
 	resolver sin audiencia (como en el caso de la inadmisibilidad de una
 	querella) o sin la participación de todos los intervinientes como es el
 	caso de lo establecido en el artículo 236.
@@ -3393,18 +3393,18 @@
 
   + Comité de jueces, aprueba forma de distribución de causas
   + Juez presidente, 2 años, correcto funcionamiento del TRB
-  + Administrador general, funcionario auxiliar, organiza y controla gestion
+  + Administrador general, funcionario auxiliar, organiza y controla gestión
     administrativa
-  + Subadministrador, apoya gestion administrador
+  + Subadministrador, apoya gestión administrador
   + Unidades administrativas, TRB se organizan para su cumplimiento eficaz y
     eficiente
 	+ Sala, organización y asistencia de las audiencias
-	+ Atencion al publico
+	+ Atención al publico
 	+ Servicio, soporte técnico
 	+ Administración de causas, manejo y registro, fechas y salas
-	  audiencias, ingreso, su jefe autoriza mandato y efectua
+	  audiencias, ingreso, su jefe autoriza mandato y efectúa
 	  certificaciones
-	+ Testigos y peritos, sólo en TOP, atención información y orientacion a
+	+ Testigos y peritos, sólo en TOP, atención información y orientación a
 	  testigos y peritos citados
 
 ## Policía
@@ -3416,7 +3416,7 @@
   registro, siempre que su propietario o encargado consintiere expresamente,
   causando el menor daño y molestias posibles, entregando un certificado que
   acredite el hecho del registro y la identificación de los funcionarios.  Si
-  no permitiere la entrada la policia tomará las medidas para evitar la posible
+  no permitiere la entrada la policía tomará las medidas para evitar la posible
   fuga del imputado y el fiscal solicitará autorización.
 
 - Entrada y registro en lugares cerrados sin autorización u orden cuando
@@ -3428,16 +3428,16 @@
 	  Comunicándose inmediatamente al fiscal terminado el registro y
 	  levantándose un acta que deberá ser enviada dentro de las 12 hrs, que
 	  también será entregada al propietario o encargado del lugar.  En el
-	  caso del albigeato, podrá ingresar cuando existan indicios o
+	  caso del abigeato, podrá ingresar cuando existan indicios o
 	  sospechas de que se está perpetrando dicho ilícito, siempre que las
 	  circunstancias hagan de temer que la demora en obtener la
-	  autorización del propietário o juez facilitaría la concreción del
+	  autorización del propietario o juez facilitaría la concreción del
 	  mismo o su impunidad.
 
 
 - Entrada y registro en lugares especiales art.208 son lugares especiales =
-  religiosos, edificios en que funcione alguna altoridad pública, o recinto
-  militar.  Comunicandose el fiscal con 48hrs con anticipación conteniendo
+  religiosos, edificios en que funcione alguna autoridad pública, o recinto
+  militar.  Comunicándose el fiscal con 48 horas con anticipación conteniendo
   señas de lo que hubiere de ser objeto del registro y las personas que
   acompañarán, invitando a la autoridad que asista, a menos que con dicha
   comunicación se pudiera frustrar la diligencia.  Sin embargo, si implican:
@@ -3466,17 +3466,17 @@
 	  compartiere la decisión, solicitará a la Corte de Apelaciones, previo
 	  informe de la autoridad, que resuelva la controversia.  En el caso de
 	  que la publicidad pudiera afectar la seguridad nacional será resuelta
-	  por la Corte Suprema.  Aun cuando rechaze el requerimiento, podrá
+	  por la Corte Suprema.  Aun cuando rechace el requerimiento, podrá
 	  ordenar que se suministren al ministerio público o al tribunal los
 	  datos que le parecieren necesarios para la adopción de decisiones
 	  relativas a la investigación o para el pronunciamiento de
 	  resoluciones judiciales.
 
-- Entrada y registro en lugares que gozan de inviolabilidad diplomatica Juez
+- Entrada y registro en lugares que gozan de inviolabilidad diplomática Juez
   pedirá, por conducto del Ministerio de Relaciones Exteriores, su
-  consentimiento al **jefe de misión** para que lo conteste dentro de 24 hrs.
+  consentimiento al **jefe de misión** para que lo conteste dentro de 24 horas.
   De no hacerlo lo reiterará al Ministro de Relaciones Exteriores,
-  absteniendose de autorizar la entrada, sin perjuicio de poder autorizar la
+  absteniéndose de autorizar la entrada, sin perjuicio de poder autorizar la
   adopción de medidas de vigilancia.  Casos urgentes = juez puede solicitar la
   autorización directamente o por intermedio del fiscal.
 
@@ -3562,7 +3562,7 @@
 
 	Art. 425, los procedimientos del trabajo serán orales, públicos y
 	concentrados. primarán en ellos los principios de la inmediación,
-	impulso procesal de ofício, celeridad, buena fe, bilateralidad de la
+	impulso procesal de oficio, celeridad, buena fe, bilateralidad de la
 	audiencia y gratuidad.  Respecto al principio de impulso procesal de
 	oficio tener presente el art. 429 que señala que una vez reclamada su
 	intervención, el TRB actuará de oficio, decretando pruebas, adoptando

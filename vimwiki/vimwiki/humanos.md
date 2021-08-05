@@ -13,7 +13,7 @@
 
     La CPR art. 5.2 utiliza el término "derechos esenciales que emanan de la
     naturaleza humana". En el plano internacional la Declaración de los
-    Derechos y Deberes del Hombre 48 (Declaración de Bogotá) se refiere en su
+    Derechos y Deberes del Hombre 48 (Declaración de Bagota) se refiere en su
     preámbulo a "derechos esenciales del hombre".
 
     - ¿por qué existe esa imprecisión terminológica?
@@ -116,7 +116,7 @@
     Acción de poner un derecho por escrito, transformándolo en una norma
     jurídica.
 
-- Reinvindicaciones
+- reivindicaciones
 
     Solicitud de hacer efectivas soluciones a necesidades que terminan
     constituyéndose en derechos.
@@ -168,7 +168,7 @@
 - ¿Cuales son las Características de los DD.HH.?
     - Intrínsecos
 
-	DUDH 48 o Declaración de Paris art. 1, dispone que basta la condición
+	DUDH 48 o Declaración de París art. 1, dispone que basta la condición
 	humana para ser titular de los derechos esenciales. Consiste en la
 	calidad de pertenencia de estos derechos a todos los miembros de la
 	especie humana, sin ninguna distinción.
@@ -178,7 +178,7 @@
 	Los DD.HH. son atribuidos a todos los seres humanos, **erga omnes**,
 	sin distinción alguna, como nacionalidad, u opción política,
 	orientación sexual, creencia u otra. Afirmada en la DUDH 48, y
-	continuamente reafirmado como en la Proclama de Teera en el marco de la
+	continuamente reafirmado como en la Proclama de Teherán en el marco de la
 	1ª Conferencia Mundial de los DD.HH. de la ONU 68, en la Declaración de
 	Viena 93 en el marco de la 2ª Conferencia Mundial de los DD.HH. de la
 	ONU.
@@ -213,7 +213,7 @@
 	- ¿En qué Instrumentos Internacionales se afirman las características
 	  de Indivisibilidad e Interdependencia de los DD.HH.?
 
-	    En la Declaración de Teera 68, luego en la Declaración sobre el
+	    En la Declaración de Teherán 68, luego en la Declaración sobre el
 	    Derecho al Desarrollo 86, en la Declaración de Viena 93.
 
     - Igualitarios
@@ -281,15 +281,15 @@
 	Si bien es cierto que existe una teoría que señala que los derechos
 	fundamentales jamás son absolutos dado que siempre deben ser ponderados
 	con los demás derechos fundamentales (dado que ni uno ni otro implica
-	una superioridad), existe un cierto concenso en decir que existen
+	una superioridad), existe un cierto consenso en decir que existen
 	derechos humanos que si bien pudiesen ser entendidos como principios
 	ellos operan como reglas, tal como sería la prohibición a la
-	esclavitud, es decir, derechos que no aceptan ningun tipo de
-	poderación.
+	esclavitud, es decir, derechos que no aceptan ningún tipo de
+	ponderación.
 
 # 4. Clasificación de los Derechos Humanos
 
-- Teoría de los Status - Jellinek
+- Teoría de los Estatus - Jellinek
 
     Se trata de una teoría de los derechos constitucionales del siglo XIX en
     repudio de su autor a las teorías iusnaturalistas. Concibe que los DD.HH
@@ -299,24 +299,24 @@
     Dado lo anterior el individuo puede encontrarse en 4 situaciones frente al
     Estado:
 
-    - Status pasivo o de sumisión
+    - Estatus pasivo o de sumisión
 
-	El Estado tiene atribuciones para vincular al indivíduo y exigir
+	El Estado tiene atribuciones para vincular al individuo y exigir
 	determinadas conductas e imponer prohibiciones, estableciendo deberes
 	para contribuir al bien común.
 
-    - Status negativo o de libertad
+    - Estatus negativo o de libertad
 
 	Un conjunto de limitaciones a la acción del Estado para asegurar una
 	dimensión subjetiva en su vida privada, impone un deber de abstención
 	al Estado
 
-    - Status positivo o civil
+    - Estatus positivo o civil
 
 	Un conjunto de pretensiones del individuo para invocar la actuación del
 	Estado para garantizar sus derechos
 
-    - Status activo
+    - Estatus activo
 
 	Conjunto de prerrogativas y facultades que tiene el individuo para
 	participar en la formación de la voluntad del Estado que se refleja en
@@ -340,7 +340,7 @@
 
     - 2ª generación
 
-	Son los derechos a la educación, salud, previsión social, vivenda. Los
+	Son los derechos a la educación, salud, previsión social, vivienda. Los
 	cuales exigen una prestación positiva por parte del Estado y están
 	basados en la idea de igualdad
 
@@ -406,7 +406,7 @@
 - Clasificación según bien jurídico protegido en Chile
 - Clasificación en cuando al desarrollo del DIDH según bienes protegidos
     - Derechos de carácter políticos
-    - Derechos económicos, sociale y culturales
+    - Derechos económicos, social y culturales
     - Derechos de los pueblos
     - Derechos de lo común
 
@@ -420,7 +420,7 @@
 
 - clasificación de las limitaciones a los dº fundamentales
 
-    - limitaciones ordinárias y extraordinarias
+    - limitaciones ordinarias y extraordinarias
 
 	- ordinarias
 
@@ -438,7 +438,7 @@
 	      caso de reuniones en lugares públicos, **deberán respetarse las
 	      disposiciones generales de la policía**
 
-	- extraordinárias
+	- extraordinarias
 
 	    son aquellas que se producen **sólo durante circunstancias de
 	    emergencia social o institucional** y que han dado curso a la
@@ -479,7 +479,7 @@
 		- reunión
 		- requisición de bienes
 		- establecer limitaciones al ejercicio del derecho de propiedad
-		- adoptar medidas extraordinárias de carácter administrativo
+		- adoptar medidas extraordinarias de carácter administrativo
 		  que sean
 
 	    - **emergencia**
@@ -487,7 +487,7 @@
 		- reunión
 
 	Sin perjuicio de lo anterior, quedarán a salvo, siempre la garantía de
-	recurrir ante las autoridades judiciales a traves de los recursos que
+	recurrir ante las autoridades judiciales a través de los recursos que
 	corresponda, y de indemnización respecto a afectaciones que se
 	produzcan respecto al derecho de propiedad.
 
@@ -558,7 +558,7 @@
 		Están sometidas a 2 circunstancias especiales: el contenido
 		esencial de los derechos y la exigencia de justificación
 
-		- condición de carácter competencial
+		- condición respecto a su carácter de competencia
 
 		    sólo podrán proceder a limitar un derecho fundamental
 		    cuando previamente hayan sido habilitados
@@ -675,7 +675,7 @@
 
 	Para establecer que se ha producido una violación de los derechos
 	asegurados en un tratado internacional de derechos humanos basta con la
-	demonstración de que ha habido **apoyo o tolerancia** del poder público
+	demostración de que ha habido **apoyo o tolerancia** del poder público
 	en la infracción de los derechos reconocidos.  El Estado puede ser
 	responsable tanto por acción, omisión o negligencia.  Se genera de
 	inmediato con el ilícito internacional, aunque sólo puede ser exigida
@@ -725,7 +725,7 @@
 	esferas individuales que el Eº no puede vulnerar o en los que sólo
 	puede penetrar limitadamente.
 
-	Está direccionado tanto a los Eº como a los indivíduos o entidades no
+	Está direccionado tanto a los Eº como a los individuos o entidades no
 	estatales.
 
     - Obligación de Proteger
@@ -897,7 +897,7 @@
 	sean los propios titulares, se relaciona con la idea de que en último
 	término son los propios ciudadanos quienes tienen la oº de modificar o
 	reorganizar la institucionalidad estatal para respetar y proteger de
-	mejor manera los derechos funamentales
+	mejor manera los derechos fundamentales
 
 - posición de garante como modificador de la responsabilidad
 
@@ -951,7 +951,7 @@
 - Resolución de Ayuda al Desarrollo
 
 	En mayo de 1972, en el marco de una conferencia sobre el comercio y el
-	desarrollo las NU adoptaron en RES. 61 el objetivo de destivar el 0,7%
+	desarrollo las NU adoptaron en RES. 61 el objetivo de destinar el 0,7%
 	del PIB de los países industrializados a *Ayuda Oficial al desarrollo
 	para los países empobrecidos del Sur
 
@@ -984,7 +984,7 @@
 	de violación manifiesta de los derechos humanos. Este derecho se
 	aplica a todas las violaciones manifiestas de los derechos humanos y a
 	las infracciones graves del derecho internacional humanitario.  Para
-	más información, revisar el pdf de juristas colombianos sobre el
+	más información, revisar el documento de juristas colombianos sobre el
 	derecho a la verdad.
 
 - Declaración sobre el Derecho al Desarrollo
@@ -1035,15 +1035,15 @@
 	Estados, al serles reconocido un eventual derecho de secesión.  Por
 	último, este tratado tiene un mecanismo que dificulta la denuncia por
 	parte de un Estado, estableciendo una prohibición a ella por un período
-	de 10 años, pudiendo hacer la denucia durante ese año y si no lo hace
+	de 10 años, pudiendo hacer la denuncia durante ese año y si no lo hace
 	deberá esperar 10 años nuevamente y así sucesivamente.
 
-- Declaración de las Naciones Unidas sobre los Derechos de los Prueblos
+- Declaración de las Naciones Unidas sobre los Derechos de los Pueblos
   Indígenas
 
-	Compone la llamada soft law primária del Derecho Internacional, ya que
+	Compone la llamada soft law primaria del Derecho Internacional, ya que
 	sus normas no son vinculantes a los Estados pero pueden llegar a servir
-	de base de costumbre internacional y para auxilar la interpretación de
+	de base de costumbre internacional y para auxiliar la interpretación de
 	normas internacionales vinculantes.  Reconoce el derecho de los pueblos
 	indígenas a su libre determinación, entendiéndose por tal, aquella que
 	los permite establecer su condición política y su desarrollo económico,
@@ -1053,7 +1053,7 @@
 	pueda afectar.
 
 - Declaración sobre la Protección de Todas las Personas contra la Desaparición
-  Forzadas o Involuntárias
+  Forzadas o Involuntarias
 
 	Este instrumento internacional tiene como antecedentes:
 
@@ -1061,7 +1061,7 @@
 	  Res. 33/173 del 78 informes procedentes de diversas partes del mundo.
 	+ Los Convenios de Ginebra del 49 y los Protocolos Adicionales del 77.
 	+ La DUDH y el PIDCP.
-	+ Convennción contra la Tortura y otros Tratos Crueles Inhumanos y
+	+ Convención contra la Tortura y otros Tratos Crueles Inhumanos y
 	  degradantes.
 	+ Código de Conducta para Funcionarios Encargados de Hacer Cumplir la
 	  Ley.
@@ -1080,7 +1080,7 @@
 	forzada como: el arresto, la detención, el secuestro o cualquier otra
 	forma de privación de libertad, cometida por agentes del Estado o por
 	partes o grupos de personas que actúan con la autorización, el apoyo o
-	la aquescencia del Estado, seguida de la negativa a reconocer dicha
+	la aquiescencia del Estado, seguida de la negativa a reconocer dicha
 	privación de libertad o del ocultamiento de la suerte o del paradero de
 	la persona desaparecida, sustrayéndola a la protección de la ley.
 
@@ -1140,7 +1140,7 @@
 	+ Lograr la igualdad y equidad entre la mujer y el hombre
 	+ Acceso universal y equitativo a una educación de calidad y la
 	  atención primaria de la salud
-	+ Acelerar el desarrollo en Africa y en los países menos adelantados
+	+ Acelerar el desarrollo en África y en los países menos adelantados
 	+ Velar por que los programas de ajuste estructural incluyan objetivos
 	  de desarrollo social
 	+ Aumentar y utilizar con mayor eficacia los recursos asignados al
@@ -1160,38 +1160,38 @@
 	tuvo una ratificación.  Finalmente en 1945 en Londres se estableció el
 	Tribunal Internacional Militar, con sede en Berlín, el conocido al día
 	de hoy como el Tribunal de Nuremberg. El fundamento de su jurisdicción
-	es resultado del *derecho consuetudinário* de castigo a aquellos que
+	es resultado del *derecho consuetudinario* de castigo a aquellos que
 	cometan crímenes contra los *valores esenciales de la comunidad
 	internacional*.  Finalmente en 1945 en Londres se estableció el
 	Tribunal Internacional Militar, con sede en Berlín, el conocido al día
 	de hoy como el Tribunal de Nuremberg. El fundamento de su jurisdicción
-	es resultado del *derecho consuetudinário* de castigo a aquellos que
+	es resultado del *derecho consuetudinario* de castigo a aquellos que
 	cometan crímenes contra los *valores esenciales de la comunidad
 	internacional*.  Finalmente en 1945 en Londres se estableció el
 	Tribunal Internacional Militar, con sede en Berlín, el conocido al día
 	de hoy como el Tribunal de Nuremberg. El fundamento de su jurisdicción
-	es resultado del *derecho consuetudinário* de castigo a aquellos que
+	es resultado del *derecho consuetudinario* de castigo a aquellos que
 	cometan crímenes contra los *valores esenciales de la comunidad
 	internacional*.  Luego en 1947, la Comisión de Derecho Internacional de
-	la ONU aprovó los **principios de Nuremberg**:
+	la ONU aprobó los **principios de Nuremberg**:
 	+ todos los que cometan crimen internacional es capaz de castigo
 	+ la ley nacional que no considere el hecho como crimen es irrelevante
 	+ las inmunidades nacionales son irrelevantes
 	+ la obediencia a las órdenes superiores no son eximentes
 	+ todos los acusados tienen derecho a un debido proceso legal
-	+ son crimenes internacionales los juzgados en Nuremberg
+	+ son crímenes internacionales los juzgados en Nuremberg
 	+ la conspiración para cometer dichos delitos es crimen.
 
 	El segundo Tribunal Internacional de la historia fue el *Tribunal
 	Internacional Militar para el Extremo Oriente*, 1946.  Al terminar la
 	guerra fría se crearon dos tribunales internacionales penales ad hoc y
 	temporales, por parte del Consejo de Seguridad de la ONU.  En 1993 el
-	Tribunal Penal Internacional para los crimenes contra el Derecho
+	Tribunal Penal Internacional para los crímenes contra el Derecho
 	Humanitario cometidos en la ex Yuguslavia y en 1994 el Tribunal Penal
-	Internacional para los crimenes ocurridos en Ruanda.  Estos tribunales
-	son importantes porque codificaron los elementos de crimenes
-	internacionales, como el genocidio, crimenes contra la humanidad  y
-	crimenes de guerra, relacionándolos con el debido proceso legal y el
+	Internacional para los crímenes ocurridos en Ruanda.  Estos tribunales
+	son importantes porque codificaron los elementos de crímenes
+	internacionales, como el genocidio, crímenes contra la humanidad  y
+	crímenes de guerra, relacionándolos con el debido proceso legal y el
 	derecho a la defensa. Adpotaron el principio de la primacia de la
 	jurisdicción internacional por sobre la jurisdicción nacional, por la
 	desconfianza contra las instituciones locales.  Ambos tribunales
@@ -1204,12 +1204,12 @@
 	determinadas ordenes del Consejo de Seguridad respecto al inicio o
 	suspención de un trámite.  Respecto a la materia entregada a su
 	jurisdicción, está limitada a los delitos de *ius cogens*, los cuales
-	consisten en crimenes que ofenden los valores de la comunidad
+	consisten en crímenes que ofenden los valores de la comunidad
 	internacional, se entiende por tales:
 	+ genocidio
-	+ crimenes contra la humaidad
-	+ crimenes de guerra
-	+ crimenes de agresión (acordado en 2010, Kampala, Uganda)
+	+ crímenes contra la humaidad
+	+ crímenes de guerra
+	+ crímenes de agresión (acordado en 2010, Kampala, Uganda)
 
 	Respecto al territorio:
 	+ cometido en territorio de un Estado Parte
@@ -1285,7 +1285,7 @@ respetar, promover, cumplir y exigir el respeto a los derechos humanos.
 	  INDH, SIDH y el SUDH.  Abordando al menos especialmente las
 	  siguientes materias:
 	+ la promoción de la investigación, sanción y reparación de los
-	  crímenes de lesa humanidad y genocidios, y crimenes y delitos de
+	  crímenes de lesa humanidad y genocidios, y crímenes y delitos de
 	  guerra
 	+ la preservación de la memoria historica de las violaciones de los
 	  derechos humanos
@@ -1455,7 +1455,7 @@ respetar, promover, cumplir y exigir el respeto a los derechos humanos.
 	+ hacer de enlace con el sistema de las NU respecto de actividades para
 	  prevenir el genocidio y tratar de aumentar la capacidad de las NU
 	  para analizar y manejar información relativa al genocidio y a
-	  crimenes conexos.
+	  crímenes conexos.
 
 
 
@@ -1467,12 +1467,12 @@ respetar, promover, cumplir y exigir el respeto a los derechos humanos.
 	Es un órgano principal y autónomo de la OEA creado en 1959, cuyo
 	mandato surge de la Carta de la OEA, está integrada por 7 miembros que
 	no representan a ningún país y que son elegidos por la Asamblea General
-	de la OEA.  Tiene por funcion principal promover la observancia y la
+	de la OEA.  Tiene por función principal promover la observancia y la
 	defensa de los derechos humanos en las Américas. Esta función la
 	realiza a través de:
 
 	+ visitas a los países
-	+ actividades o iniciatívas temáticas
+	+ actividades o iniciativas temáticas
 	+ preparación de informes sobre la situación de los DD.HH. en un país o
 	  sobre un tema en especial
 	+ adopción de medidas cautelares
