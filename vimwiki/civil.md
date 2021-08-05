@@ -61,7 +61,7 @@ author: Lucas Fernandez
     1. Normativas, Modificatorias, Interpretativas
     - prohibitivas
 
-        contiene un mandato de no hacer algo y no lo permite bajo ninguna circunstancia
+        Contiene un mandato de no hacer algo y no lo permite bajo ninguna circunstancia
 
         art. 10 los actos que prohibe la ley son nulos y de ningún valor (absoluta), excepto que el legislador haya asignado otra sanción
 
