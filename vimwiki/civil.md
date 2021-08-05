@@ -1,4 +1,4 @@
----
+--
 title: Derecho Civil
 author: Lucas Fernandez
 ---
@@ -53,7 +53,7 @@ author: Lucas Fernandez
 
     - Concepto legal
 
-        art. 1 CC La ley es una declaración de la voluntad soberana que manifestada en la forma prescrita por la CPR, manda prohibe o permite.
+        art. 1 CC La ley es una declaración de la voluntad soberana que manifestada en la forma prescrita por la CPR, manda prohíbe o permite.
 
         art. 63 Sólo son materias de ley: Nº 20, toda otra norma de carácter general y obligatoria que estatuya las bases esenciales de un ordenamiento jurídico.
 
@@ -63,7 +63,7 @@ author: Lucas Fernandez
 
         Contiene un mandato de no hacer algo y no lo permite bajo ninguna circunstancia
 
-        art. 10 los actos que prohibe la ley son nulos y de ningún valor (absoluta), excepto que el legislador haya asignado otra sanción
+        art. 10 los actos que prohíbe la ley son nulos y de ningún valor (absoluta), excepto que el legislador haya asignado otra sanción
 
     - imperativas
 
@@ -72,15 +72,15 @@ author: Lucas Fernandez
         - sanción
             - orden público
 
-                nulidad absoluta o relativa
+                Nulidad absoluta o relativa
 
             - interés privado
 
-                sera generalmente la responsabilidad
+                Sera generalmente la responsabilidad
 
     - permisivas
 
-        son aquellas que confieren un derecho que queda entregado al arbitrio del titular, y otorgan a el, los medios para obtener el reconocimiento de su derecho o la indemnización de los perjuicios que le acarrea su desconocimiento.
+        Son aquellas que confieren un derecho que queda entregado al arbitrio del titular, y otorgan a el, los medios para obtener el reconocimiento de su derecho o la indemnización de los perjuicios que le acarrea su desconocimiento.
 
 - Efectos en el tiempo
 
@@ -96,7 +96,7 @@ author: Lucas Fernandez
 
     - La retroactividad en materia civil
 
-        Se encuentra principalmente limitada por el art. 19 Nª 24. Nadie puedem en caso alguno, **ser privado de su propiedad**, **del bien sobre que recae** o de **alguno de los atributos o facultades** esenciales del dominio, sino en virtud de una **ley** general o especial que **autorice la expropiación** por causa de **utilidad pública o de interés nacional**, calificada por el juez.
+        Se encuentra principalmente limitada por el art. 19 Nª 24. Nadie pueden en caso alguno, **ser privado de su propiedad**, **del bien sobre que recae** o de **alguno de los atributos o facultades** esenciales del dominio, sino en virtud de una **ley** general o especial que **autorice la expropiación** por causa de **utilidad pública o de interés nacional**, calificada por el juez.
 
     - Ley de Efecto Retroactivo de las Leyes
 
@@ -164,25 +164,25 @@ author: Lucas Fernandez
 
     - Elemento gramatical
 
-        implica el análisis de la semántica y de la sintaxis del precepto. Señala el art. 19: "cuando el sentido de la ley es claro no se desatenderá su tenor literal, a pretexto de consultar su espíritu. Pero bien se puede, para interpretar una expresión obscura de la ley, recurrir a su intención o espíritu.
+        Implica el análisis de la semántica y de la sintaxis del precepto. Señala el art. 19: "cuando el sentido de la ley es claro no se desatenderá su tenor literal, a pretexto de consultar su espíritu. Pero bien se puede, para interpretar una expresión obscura de la ley, recurrir a su intención o espíritu.
 
         El art. 20 "las palabras de la ley se entenderán en su sentido natural y obvio, según el uso general de las mismas palabras, pero cuando el legislador las haya definido expresamente para ciertas materias, se les dará en éstas su significado legal.
 
     - Elemento histórico
 
-        se refiere a la historia fidedigna del establecimiento de la ley
+        Se refiere a la historia fidedigna del establecimiento de la ley
 
     - Elemento lógico
 
-        consiste en la **concordancia** que debe existir entre las diversas partes de la ley, que exista una unidad conceptual y de criterio
+        Consiste en la **concordancia** que debe existir entre las diversas partes de la ley, que exista una unidad conceptual y de criterio
 
     - Elemento sistemático
 
-        debe existir una **correspondencia** más allá de la propia ley interpretada a otras leyes sobretodo si versan sobre la misma materia
+        Debe existir una **correspondencia** más allá de la propia ley interpretada a otras leyes sobretodo si versan sobre la misma materia
 
     - Espíritu general del legislador y equidad natural
 
-        la equidad es la justicia del caso concreto
+        La equidad es la justicia del caso concreto
 
 # 2. Acto Jurídico
 
@@ -208,14 +208,14 @@ author: Lucas Fernandez
             3. la causa
             4. solemnidades cuando lo exige la ley
         - de validez
-            1. voluntad exenta de vícios
+            1. voluntad exenta de vicios
             2. objeto lícito
             3. causa lícita
             4. capacidad de las partes
     - elementos
         - de la esencia
 
-            son aquellos que sin los cuales el acto no produce efecto alguno o se degenera en otro diferente
+            Son aquellos que sin los cuales el acto no produce efecto alguno o se degenera en otro diferente
 
             - generales
 
@@ -235,71 +235,71 @@ author: Lucas Fernandez
 
         - accidentales
 
-            son aquellos que sin ser de la esencia o de la naturaleza se pueden incorporar a los actos a través de cláusulas especiales, como ocurre en el caso de que las partes deseen establecer un plazo, condición o modo. Está fundado en el ppio de autonomía de la voluntad
+            son aquellos que sin ser de la esencia o de la naturaleza se pueden incorporar a los actos a través de cláusulas especiales, como ocurre en el caso de que las partes deseen establecer un plazo, condición o modo. Está fundado en el ppio. de autonomía de la voluntad
 
 - Clasificación
     - unilaterales o bilaterales
 
-        conforme al número de voluntades que requiere el acto, entendiendo que cada parte puede contar con una o varias personas. Son bilaterales los que requieren la manifestación de voluntad de dos o más partes que representen intereses contrapuestos o complementarios.
+        Conforme al número de voluntades que requiere el acto, entendiendo que cada parte puede contar con una o varias personas. Son bilaterales los que requieren la manifestación de voluntad de dos o más partes que representen intereses contrapuestos o complementarios.
 
     - entre vivos y por mortis causa
 
         Conforme a si requiere o no de la muerte de quien lo otorga, como sería el caso del testador.
 
-    - patrimoniales y de família
+    - patrimoniales y de familia
 
         Conforme a si existe un interés preponderantemente pecuniario u otro de orden familiar con un interés general y común de fondo
 
     - gratuitos y onerosos
 
-        conforme a si tiene por objeto la utilidad de una de las partes sufriendo la otra el gravamen, o si ambas partes se gravan a favor de la utilidad de ambas.
+        Conforme a si tiene por objeto la utilidad de una de las partes sufriendo la otra el gravamen, o si ambas partes se gravan a favor de la utilidad de ambas.
 
         - onerosos conmutativos
 
-            son conmutativos aquellos en que el gravamen soportado se mira como equivalente a la utilidad percibida
+            Son conmutativos aquellos en que el gravamen soportado se mira como equivalente a la utilidad percibida
 
         - onerosos aleatorios
 
-            se denominan así aquellos actos bilaterales onerosos en que existe una contingencia incierta de ganancia o perdida
+            Se denominan así aquellos actos bilaterales onerosos en que existe una contingencia incierta de ganancia o perdida
 
     - principales y accesorios
 
-        conforme a si subsisten por sí mismos o si requieren de otro para subsistir. pueden ser de garantía asegurando el cumplimiento de una obligación principal, como en el caso de las cauciones tanto personales como reales. Como también pueden dependientes como en el caso de las capitulaciones matrimoniales
+        Conforme a si subsisten por sí mismos o si requieren de otro para subsistir. Pueden ser de garantía asegurando el cumplimiento de una obligación principal, como en el caso de las cauciones tanto personales como reales. Como también pueden dependientes como en el caso de las capitulaciones matrimoniales
 
     - solemnes y no solemnes
 
-        conforme a si requieren formalidades para su perfeccionamiento, los no formales son la r. general.
+        Conforme a si requieren formalidades para su perfeccionamiento, los no formales son la r.g.
 
     - puros y simples y sujetos a modalidad
 
-        conforme a si están sujetos a modalidad, la r. general es que sean puros y simples
+        Conforme a si están sujetos a modalidad, la r. general es que sean puros y simples
 
-    - nominados e inominados
+    - nominados e innominados
 
-        conforme a si se encuentran o no regulados por la ley
+        Conforme a si se encuentran o no regulados por la ley
 
     - actos de conservación, de administración y de disposición
 
-        administración = aquellos que tienden a la conservación y eventual incremento del patrimonio ajeno
+        Administración = aquellos que tienden a la conservación y eventual incremento del patrimonio ajeno
 
-        disposición = aquellos que permiten al titular disminuir el patrimonio o el conjunto de bienes o una cosa determinada que una persona tiene a su cargo, mediante renuncia, abandono o enajenación
+        Disposición = aquellos que permiten al titular disminuir el patrimonio o el conjunto de bienes o una cosa determinada que una persona tiene a su cargo, mediante renuncia, abandono o enajenación
 
     - actos simulados o verdaderos
 
-        conforme a la sinceridad de los contratantes
+        Conforme a la sinceridad de los contratantes
 
-        son simulados aquellos en los que la voluntad expresada o declarada no es coincidente con la verdadera voluntad del autor o de las partes
+        Son simulados aquellos en los que la voluntad expresada o declarada no es coincidente con la verdadera voluntad del autor o de las partes
 
-        son verdaderos aquellos que reflejan la verdadera voluntad de las partes.
+        Son verdaderos aquellos que reflejan la verdadera voluntad de las partes.
 
 - Teorías y relación de ellas frente a las nuevas formas de contratación
     - contratos celebrados mediante intermediarios
 
-        si son representantes, y actúan dentro de los límites de su representación, es cómo si los representados hubiesen celebrado el contrato directamente. Si no lo son, se tendrá por perfecto desde el momento en que los interesados aceptaren pura y simplemente la propuesta.
+        Si son representantes, y actúan dentro de los límites de su representación, es cómo si los representados hubiesen celebrado el contrato directamente. Si no lo son, se tendrá por perfecto desde el momento en que los interesados aceptaren pura y simplemente la propuesta.
 
     - contratos de adhesión
 
-        una de las partes, el oferente, fija de antemano todas las condiciónes del contrato y la otra parte sólo puede adherir a ellas o rechazarlas en bloque. El adherente nada puede cambiar. Son dirigidos al público en general, la oferta se formula por un tiempo prolongado. El CC no los regula. Para impedir o morigerar la inequidad se promulgó la ley del consumidor.
+        Una de las partes, el oferente, fija de antemano todas las condiciones del contrato y la otra parte sólo puede adherir a ellas o rechazarlas en bloque. El adherente nada puede cambiar. Son dirigidos al público en general, la oferta se formula por un tiempo prolongado. El CC no los regula. Para impedir o morigerar la iniquidad se promulgó la ley del consumidor.
 
 ## 2.4. Requisitos del Acto Jurídico
 
@@ -307,11 +307,11 @@ author: Lucas Fernandez
     - requisitos
         - exteriorizarse
 
-            la voluntad debe manifestarse ya sea de manera expresa o tácita. El silencio no se considera expresión de voluntad. Se entiende que es en términos expresos aquella que se manifiesta en términos claros, directos. Se entiende que es tácita aquella que se deduce inequívocamente del comportamiento de la persona.
+            La voluntad debe manifestarse ya sea de manera expresa o tácita. El silencio no se considera expresión de voluntad. Se entiende que es en términos expresos aquella que se manifiesta en términos claros, directos. Se entiende que es tácita aquella que se deduce inequívocamente del comportamiento de la persona.
 
             - casos excepcionales en que el silencio se considera como manifestación de voluntad.
-                1. cuando las partes lo hayan acordado, como en el caso de la cláusula de renovación automática en la sociedad
-                2. cuando la ley le reconoce eficacia como en el caso del art. 2125 (caso del mandado respecto a aquellas personas que por su profesión u oficio se encargan de negocios ajenos, de aceptar o no el encargo, su silencio se mirará como aceptación), o art. 1956 inc. 3 en el caso de la tácita reconducción.
+                1. Cuando las partes lo hayan acordado, como en el caso de la cláusula de renovación automática en la sociedad
+                2. Cuando la ley le reconoce eficacia como en el caso del art. 2125 (caso del mandado respecto a aquellas personas que por su profesión u oficio se encargan de negocios ajenos, de aceptar o no el encargo, su silencio se mirará como aceptación), o art. 1956 inc. 3 en el caso de la tácita reconducción.
                 3. Silencio circunstanciado, el que va acompañado de otras circunstancias que permiten considerarlo como manifestación
         - debe ser seria
 
@@ -319,19 +319,19 @@ author: Lucas Fernandez
 
     - consentimiento
 
-        en los actos jurídicos bilaterales el análisis de la voluntad es doble. Es decir, se estudia el acuerdo de dos o más voluntades sobre un mismo acto jurídicos que se complementan. La voluntad aquí se denomina consentimiento. Se rigen por las normas establecidas en el C. de Com. art. 97 y ss. y solamente se aplica a los actos consensuales y no a los formales ni a los reales.
+        En los actos jurídicos bilaterales el análisis de la voluntad es doble. Es decir, se estudia el acuerdo de dos o más voluntades sobre un mismo acto jurídicos que se complementan. La voluntad aquí se denomina consentimiento. Se rigen por las normas establecidas en el C. de Com. art. 97 y ss. y solamente se aplica a los actos consensuales y no a los formales ni a los reales.
 
         - formación del consentimiento
             - oferta
 
                 Acto jurídico unilateral en que una persona le **propone** la celebración de un acto o contrato a otra.
 
-                1. seria
-                2. completa
-                3. destinada a celebrar un acto j.
+                1. Seria
+                2. Completa
+                3. Destinada a celebrar un acto j.
             - aceptación
 
-                acto j. unilateral por el cual la persona a quien va dirigida la oferta se adhiere o manifiesta su conformidad.
+                Acto j. unilateral por el cual la persona a quien va dirigida la oferta se adhiere o manifiesta su conformidad.
 
                 1. pura y simple
                 2. en tiempo oportuno (dentro del plazo)
@@ -339,11 +339,11 @@ author: Lucas Fernandez
         - momento en que se perfecciona
             - aceptación
 
-                desde el momento en que el destinatario de la oferta da su aceptación. R.G. en Chile.
+                Desde el momento en que el destinatario de la oferta da su aceptación. R.G. en Chile.
 
             - expedición
 
-                desde el momento en que se envía la aceptación
+                Desde el momento en que se envía la aceptación
 
             - información
 
@@ -446,7 +446,7 @@ author: Lucas Fernandez
 
         - incapacidad absoluta
             1. dementes
-            2. impuberes
+            2. impúberes
             3. sordos o sordomudos que no puedan darse a entender claramente
             - cómo deben actuar?
 
@@ -487,7 +487,7 @@ author: Lucas Fernandez
             4. lícita
         - sobre un hecho
             1. determinado
-            2. fisicamente posible
+            2. físicamente posible
             3. moralmente posible
             4. lícito
     - casos de objeto ilícito
@@ -539,7 +539,7 @@ author: Lucas Fernandez
         1. Bilaterales, la razón de la nulidad (por falta de objeto) está precisamente en la noción de causa y su interdependencia de ambas obligaciones por la causalidad
         2. De la causa de los contratos bilaterales se desprende la acción resolutoria, la teoría de los riesgos, la excepción de contrato no cumplido
         3. La capacidad, el consentimiento y el objeto están al servicio de la causa ya que este es el fin perseguido, luego sería el elemento principal y primario del acto.
-    - Acepciones de la palabra causa en la docrina
+    - Acepciones de la palabra causa en la doctrina
         - Causa eficiente
 
             Es el elemento generador del acto, es el antecedente y origen de algo, la causa de las obligaciones en este caso son el contrato, el cuasicontrato, el delito, el cuasidelito y la ley.
@@ -749,7 +749,7 @@ author: Lucas Fernandez
         1. Cuando la norma de derecho emana de la costumbre. (es excepción porque se debe probar derecho)
         2. Los hechos pacíficos (no controvertidos) no requieren prueba. (es excepción porque no se debe probar un hecho)
         3. Los hechos notorios no requieren prueba (es excepción por lo mismo de lo anterior)
-- Qué es el Onus probandi?
+- Qué es el onus probandi?
 
     Es una carga, una subordinación de los intereses del titular de ellos a otro interés de el mismo. Es decir, no está obligado a probar, pero si no se prueba, sus pretensiones no serán acogidas por el juez.
 
@@ -1019,7 +1019,7 @@ author: Lucas Fernandez
 
                 Es una universalidad de bienes y deudas apreciables en dinero que constituye un atributo de la personalidad
 
-                - caracteristicas
+                - características
                     1. se deduce de la idea de personalidad
                     2. todas las personas lo tienen por ser tal
                     3. aun cuando no se posea nada, es una aptitud para poseer
@@ -1075,7 +1075,7 @@ author: Lucas Fernandez
                 4. demás causas previstas en los estatutos o leyes
         - Fundaciones
 
-            son establecimientos y obras creadas por una persona habiéndoseles dotado de un patrimonio a tal objeto destinado, y conformándose en su acción a un estatuto establecido en el acta de constitución
+            son establecimientos y obras creadas por una persona habiéndoselos dotado de un patrimonio a tal objeto destinado, y conformándose en su acción a un estatuto establecido en el acta de constitución
 
             - constitución
                 1. acto entre vivos = fundador establecerá quién se queda con su dinero y con cuales obligaciones
@@ -1100,7 +1100,7 @@ author: Lucas Fernandez
                 1. disolución de la p. jurídica o cancelación de la p. jurídica\
                 2. prohibición temporal o perpetua de celebrar actos y contratos con los organismos del Eº
                 3. perdida total o parcial de beneficios fiscales o prohibición absoluta de recepción de los mismos por un período determinado
-                4. multa a benefício fiscal de 200 a 20.000 UTM
+                4. multa a beneficio fiscal de 200 a 20.000 UTM
             - responsabilidad civil
                 - contractual
 
@@ -1143,7 +1143,7 @@ author: Lucas Fernandez
 
                 por naturaleza = no pueden transportarse de un lugar a otro
 
-                por adherencia = m. por naturaleza, se reputan inmuebles por estar **permanentemente aheridos**
+                por adherencia = m. por naturaleza, se reputan inmuebles por estar **permanentemente adheridos**
 
                 por destinación = m. por naturaleza, **permanentemente destinados al uso, cultivo o beneficio** de un inmueble
 
@@ -1197,7 +1197,7 @@ author: Lucas Fernandez
 
     art. 582 es el derecho real en una cosa corporal, para gozar y disponer de ella arbitrariamente, no siendo contra ley o contra derecho ajeno. Sobre las cosas incorporales hay también una especie de propiedad.
 
-    - caracteristicas
+    - características
         1. derecho real, amparado por la acción reivindicatoria
         2. absoluto, las más amplias facultades (usar, gozar y disponer)
         3. exclusivo y excluyente, impide que terceros limiten o coarten el ejercicio de sus facultades
@@ -1299,11 +1299,11 @@ author: Lucas Fernandez
 
         es un modo de adquirir el dominio de las cosas y consiste en la entrega que el dueño hace de ellas a otro, habiendo por una parte la facultad e intención de transferir el dominio y por la otra la capacidad e intención de adquirirlo, lo que se dice respecto al dominio también se extiende a los otros derechos reales.
 
-        - epoca de pedir la tradición
+        - época de pedir la tradición
 
             RG inmediatamente, excepción:
 
-            1. titulo condiciónal
+            1. titulo condicional
             2. existencia de plazo para el pago
             3. cuando ha intervenido decreto judicial en contrario
         - título
@@ -1352,7 +1352,7 @@ author: Lucas Fernandez
 
                     es viciosa la violenta o clandestina y no permiten prescribir
 
-                - posesión contínua / interrumpida
+                - posesión continua / interrumpida
 
                     es continua la que no ha sido perdida, impedida o desconocida
 
@@ -1363,7 +1363,7 @@ author: Lucas Fernandez
 
                     conservación = basta el animus
 
-                    perdida = se puede perder por falta de uno u otro (corpus = otro se apodera con animo de hacerla suya, imposible su ejercicio, se arrojan al mar, se pierden materialmente y no están bajo poder), (animus = consituto posesorio), (corpus y animus = cuando se enajena la cosa por tradición o se abandona para que la haga suya el primer ocupante)
+                    perdida = se puede perder por falta de uno u otro (corpus = otro se apodera con animo de hacerla suya, imposible su ejercicio, se arrojan al mar, se pierden materialmente y no están bajo poder), (animus = constituto posesorio), (corpus y animus = cuando se enajena la cosa por tradición o se abandona para que la haga suya el primer ocupante)
 
                 - inmuebles no inscritos
 
@@ -1399,7 +1399,7 @@ author: Lucas Fernandez
 
     art. 889, o acción de dominio es la que tiene el dueño de una cosa singular, de que no está en posesión, para que el poseedor de ella sea condenado a restituírsela.
 
-    - pretención
+    - pretensión
 
         que se le reconozca su dominio y que se ordene, por parte del juez, al que se encuentra poseyendo la cosa, que lo restituya en la posesión perdida.
 
@@ -1416,12 +1416,12 @@ author: Lucas Fernandez
         RG todas las cosas, muebles e inmuebles, corporales e incorporales. Salvo:
 
         1. cosas compradas en feria, tienda, almacén u otro establecimiento industrial en que se vendan cosas muebles de la misma clase. Deberá reembolsar al poseedor lo que haya dado por ella y lo que haya gastado en repararla y mejorarla
-        2. solamente cosas singulares y  universalidades de hecho. No se pueden reinvindicar las universalidades de derecho.
-        3. la herencia se reinvindica por una acción especial denominada "acción de petición de herencia". Se diferencia con la reinvindicatoria en que no puede accionar indistintamente, debe ser en contra del heredero putativo u otro título.
+        2. solamente cosas singulares y  universalidades de hecho. No se pueden reivindicar las universalidades de derecho.
+        3. la herencia se reivindica por una acción especial denominada "acción de petición de herencia". Se diferencia con la reivindicatoria en que no puede accionar indistintamente, debe ser en contra del heredero putativo u otro título.
 
     - acción publiciana
 
-        se concede la misma acción (reinvindicatoria) aun que no se pruebe el dominio, al que ha perdido la posesión regular de la cosa, y se hallaba en el caso de poderla ganar por prescripción, pero no contra el verdadero dueño ni contra quien lo posea con igual o mejor derecho.
+        se concede la misma acción (reivindicatoria) aun que no se pruebe el dominio, al que ha perdido la posesión regular de la cosa, y se hallaba en el caso de poderla ganar por prescripción, pero no contra el verdadero dueño ni contra quien lo posea con igual o mejor derecho.
 
         - prueba
             1. el poseedor se reputa dueño
@@ -1431,9 +1431,9 @@ author: Lucas Fernandez
             5. determinación e identificación de la cosa
         - prestaciones mutuas
 
-            terminado el juicio reinvindicatório, vencido el demandado, se da lugar a las prestaciones mutuas
+            terminado el juicio reivindicatorio, vencido el demandado, se da lugar a las prestaciones mutuas
 
-            consiste en los hechos y pagos que el poseedor vencido debe hacer en favor del reinvindicante y que éste a su vez debe hacer en favor del poseedor.
+            consiste en los hechos y pagos que el poseedor vencido debe hacer en favor del reivindicante y que éste a su vez debe hacer en favor del poseedor.
 
             estas reglas se aplican también la **nulidad, accesión de mueble a inmueble y ala acción de petición de herencia**.
 
@@ -1483,7 +1483,7 @@ author: Lucas Fernandez
 
     - usufructo
 
-        es un derecho real que consiste en la facultad de gozar de una cosa con cargo de conservar su forma y substancia, y de restituirsela a su dueño, si la cosa no es fungible, o con cargo de devolver igual cantidad y calidad del mismo genero, o de pagar su valor si es fungible
+        es un derecho real que consiste en la facultad de gozar de una cosa con cargo de conservar su forma y substancia, y de restituírsela a su dueño, si la cosa no es fungible, o con cargo de devolver igual cantidad y calidad del mismo genero, o de pagar su valor si es fungible
 
     - servidumbre
 
@@ -1587,7 +1587,7 @@ author: Lucas Fernandez
 
         con unidad de sujeto solo existe un acreedor y un deudor, lo que no exige mucho análisis, a diferencia de pluralidad sujetos que se pueden clasificar en:
 
-        - simplemente conjuntas o mancumunadas
+        - simplemente conjuntas o mancomunadas
 
             son aquellas en que cada uno de los deudores es obligado solamente a su parte o cuota en la deuda y cada uno de los acreedores sólo tiene derecho para demandar su parte o cuota en el crédito.
 
@@ -1691,7 +1691,7 @@ author: Lucas Fernandez
 
                 1. positiva, física o moralmente imposible = no escrita
                 2. negativa, física o moralmente imposible = no escrita
-                - ordinária
+                - ordinaria
 
                     es la que consiste en un hecho futuro e incierto del cual depende la extinción de un derecho, no consistiendo en el incumplimiento de una obligación - opera de pleno derecho.
 
@@ -1710,12 +1710,12 @@ author: Lucas Fernandez
                     2. fallida = se consolida definitivamente el dº y el acto se reputa puro y simple
                     3. cumplida = se extingue el dº y desaparece la oº.
                     4. entre las partes = restitución de la cosa, conserva los frutos (salvo la ley o estipulación en contra)
-                    5. respecto de terceros = si es mueble no dará dº a reivindicarla contra 3º de buena fe, si es inmueble, solo podrá reinvindicarla cuando la condición constaba en el título respectivo, inscrito u otorgado por escritura pública.
+                    5. respecto de terceros = si es mueble no dará dº a reivindicarla contra 3º de buena fe, si es inmueble, solo podrá reivindicarla cuando la condición constaba en el título respectivo, inscrito u otorgado por escritura pública.
                 - acción resolutoria
 
                     es la que nace de la CRT y del pacto comisorio para pedir la resolución del contrato por el incumplimiento de las oº contraídas. prescribe en los 5 años (CRT) y 4 años (o menos si emana del pacto comisorio)
 
-            - cumplimiento de las condiciónes
+            - cumplimiento de las condiciones
                 1. del modo en que las partes haya entendido que lo fuese
                 2. se presume que dicho modo es el más racional
                 3. literalmente en la forma convenida y no por equivalencia
@@ -1787,9 +1787,9 @@ author: Lucas Fernandez
                 3. si recae sobre bienes raíces o derechos reales sobre ellos debe inscribirse en el CBR donde estén ubicados.
             - efectos
                 1. priva al deudor de la administración de los bienes
-                2. priva al deudor de la facultad de disposición (pero no del domínio)
+                2. priva al deudor de la facultad de disposición (pero no del dominio)
                 3. habilita al acreedor para realizar los bienes embargados y pagarse con su producto
-        - prelación de credito
+        - prelación de crédito
 
             consiste en un conjunto de reglas establecidas por la ley que determinan el orden y forma en que deben pagarse los diversos acreedores de un deudor.
 
@@ -1820,7 +1820,7 @@ author: Lucas Fernandez
                     1. Créditos del fisco contra recaudadores o administradores de bienes fiscales
                     2. créditos de ciertas instituciones públicas contra recaudadores y administradores de sus bienes
                     3. los créditos de las mujeres casadas, por bienes de su propiedad administrados por su marido
-                    4. los de las personas que están bajo tutela o curadoría contra sus tutores o curadores
+                    4. los de las personas que están bajo tutela o curaduría contra sus tutores o curadores
                     5. del pupilo contra el que se casa con la madre o abuela, tutora o curadora art. 511
                 - Créditos de 5ª clase
 
@@ -1893,12 +1893,12 @@ author: Lucas Fernandez
 
                     - convencional art. 1553
 
-                        se trata de la **cláusula penal** es aquella en que una persona, para asegurar el cumplimiento de una obligación, se sujeta a una pena, que cpnsiste en **dar hacer algo en caso de no ejecutar o de retardar la obligación principal**
+                        se trata de la **cláusula penal** es aquella en que una persona, para asegurar el cumplimiento de una obligación, se sujeta a una pena, que consiste en **dar hacer algo en caso de no ejecutar o de retardar la obligación principal**
 
                         - efectos
                             1. debe existir mora del deudor
                             2. si se cumple parcialmente y se acepta por parte del acreedor, la pena se rebaja en forma parcial
-                            3. antes de lamora el acreedor solo puede demandar la obligación principal
+                            3. antes de la mora el acreedor solo puede demandar la obligación principal
                             4. después, puede a su arbitrio, la obligación principal o la pena, a menos que la pena se haya estipulado por el simple retardo o que por el pago de la pena no se extingue la obligación principal
                             5. en el caso de la transacción art. 2463 procede la pena y cumplimiento de la obligación principal, al igual que las hipótesis excepcionales establecidas en el nº 4.
                         - reducción de la pena
@@ -1913,7 +1913,7 @@ author: Lucas Fernandez
                         1. da lugar a la indemnización de perjuicios
                         2. agrava la responsabilidad del deudor
                         3. origina responsabilidad solidaria
-                        4. puede ser renunciada (no antecipadamente)
+                        4. puede ser renunciada (no anticipadamente)
 
                 - culpa
 
@@ -1966,7 +1966,7 @@ author: Lucas Fernandez
                         4. caso de hurto y robo
                 - teoría de la imprevisión
 
-                    se trata de una eximente de responsabilidad basada en la ocurrencia de un acontecimiento en condiciónes generales, imprevisible, ajeno a la voluntad de las partes trastorna gravemente el equilibrio de las prestaciones de un contrato de tracto sucesivo, haciéndolo excesivamente oneroso el cumplimiento
+                    se trata de una eximente de responsabilidad basada en la ocurrencia de un acontecimiento en condiciones generales, imprevisible, ajeno a la voluntad de las partes trastorna gravemente el equilibrio de las prestaciones de un contrato de tracto sucesivo, haciéndolo excesivamente oneroso el cumplimiento
 
             - mora deudor
 
@@ -2000,11 +2000,11 @@ author: Lucas Fernandez
     - 3. derechos auxiliares del acreedores
         - medidas conservativas
             - guarda y aposición de sellos
-            - derechos del acreedor condiciónal
+            - derechos del acreedor condicional
             - derecho legal de retención del arrendatario, vendedor, mandatario, depositario, comodatario
             - la herencia yacente
             - medidas precautorias
-            - fideicomisario, asignatário y el acreedor condición
+            - fideicomisario, asignatario y el acreedor condición
         - acción subrogatoria u oblicua
 
             consiste en el ejercicio por los acreedores de acciones y derechos que competen al deudor para incorporar al patrimonio de éste, bienes en que hacer afectivos sus créditos
@@ -2038,7 +2038,7 @@ author: Lucas Fernandez
                 4. sólo hasta el monto debido
                 5. los terceros pueden enervar, pagando
                 6. prescribe en un año
-        - benefício de separación
+        - beneficio de separación
 
             consiste en un derecho auxiliar de los acreedores hereditarios y testamentarios para pedir que no se confundan los bienes del difunto con los bienes del heredero. Con esto, tendrán derecho a que de los bienes del difunto se les cumplan las obligaciones hereditarias o testamentarias con preferencia a las deudas propias del heredero
 
@@ -2062,7 +2062,7 @@ author: Lucas Fernandez
         - a quién se debe realizar el pago?
             - al acreedor, herederos, legatarios o cesionarios
             - al representante del acreedor
-            - al poseedor del credito
+            - al poseedor del crédito
         - forma de pago
 
             debe ser de conformidad al tenor de la obligación y de forma íntegra, y específico, con la misma cosa debida (especie o cuerpo cierto).
@@ -2072,7 +2072,7 @@ author: Lucas Fernandez
                 2. obligaciones facultativas
                 3. dación en pago
                 4. total, salvo caso de convención en contrario
-                5. la perte no disputada
+                5. la parte no disputada
                 6. en la compensación
         - lugar del pago
             - lugar designado por la convención
@@ -2160,7 +2160,7 @@ author: Lucas Fernandez
 
                 es el abandono voluntario que el deudor hace de todos sus bienes a su acreedor o acreedores cuando, a consecuencia de accidentes inevitables, no se halla en estado de pagar sus deudas.
 
-            - pago con benefício de competencia
+            - pago con beneficio de competencia
 
                 es el que se concede a ciertos deudores para no ser obligados a pagar más de lo que buenamente puedan, dejándoseles en consecuencia lo indispensable para la modesta subsistencia, según clase y circunstancias, y con cargo de devolución, cuando mejoren de fortuna
 
@@ -2216,7 +2216,7 @@ author: Lucas Fernandez
         - prescripciones de largo tiempo
             - acciones de obligaciones
                 1. ejecutivas = 3 años
-                2. ordinárias = 5 años
+                2. ordinarias = 5 años
             - acciones de obligaciones accesorias
 
                 junto con la obligación principal 2516
@@ -2275,9 +2275,9 @@ author: Lucas Fernandez
         2. accesorios = cuando tienen por objeto asegurar el cumplimiento de una obligación principal, de manera que no puedan subsistir sin ella
         3. dependientes = no aseguran el cumplimiento. Capitulaciones matrimoniales, están subordinados en cuanto a sus efectos a otro contrato
 
-    - nominados e inominados
+    - nominados e innominados
         1. nominados = tienen un nombre y una reglamentación legal
-        2. inominados = son creados por las partes
+        2. Innominados = son creados por las partes
     - consensuales, reales y solemnes
         1. consensuales = se perfeccionan por el solo consentimiento
         2. reales = se perfeccionan por la entrega o tradición de la cosa. Comodato, depósito, mutuo
@@ -2286,10 +2286,10 @@ author: Lucas Fernandez
         1. ejecución instantánea = la obligación por su naturaleza solo puede cumplirse en un solo acto
         2. tracto sucesivo = la obligación por su naturaleza debe ser cumplida sucesivamente en el tiempo
     - de libre discusión y adhesión
-        1. libre discusión = ambas partes fijan las condiciónes
-        2. adhesión = una de las partes fija las condiciónes y la otra se limita a prestar su aprobación
+        1. libre discusión = ambas partes fijan las condiciones
+        2. adhesión = una de las partes fija las condiciones y la otra se limita a prestar su aprobación
     - individuales y colectivos
-        1. individuales = requieren el consentimiento unánime de todas las pertes
+        1. individuales = requieren el consentimiento unánime de todas las partes
         2. colectivos = aquellos que obligan no solo a los que concurrieron a él, sino a los que se agregan al mismo grupo
 - autocontrato
 
@@ -2397,7 +2397,7 @@ author: Lucas Fernandez
         - solemnidades en algunos casos
     - consentimiento
 
-        debe recair sobre:
+        debe recaer sobre:
 
         - la cosa
         - el precio
@@ -2405,9 +2405,9 @@ author: Lucas Fernandez
     - casos de compraventa solemnes
         - por escritura pública
             1. bienes raíces (salvo Serviu 14.171, caso de compraventa b. raíz por escritura privada)
-            2. sevidumbre
+            2. Servidumbre
             3. censos
-            4. sucesión hereditária
+            4. sucesión hereditaria
         - con arras
             - como garantía de la celebración o ejecución del contrato
             - como parte del precio o en señal de quedar convenidos
@@ -2462,7 +2462,7 @@ author: Lucas Fernandez
                         3. corresponde no solo al vendedor directo sino los antecesores a él en el dominio
                 - vicios redhibitorios
 
-                    derecho que tiene el comprador para que se rescinda la venta o se rebaje proporcionalmente el precio por los vicios ocultos de la cosa vendida, raiz o mueble
+                    derecho que tiene el comprador para que se rescinda la venta o se rebaje proporcionalmente el precio por los vicios ocultos de la cosa vendida, raíz o mueble
 
                     - efectos
                         1. acción redhibitoria (acción resolutoria del contrato)
@@ -2472,8 +2472,8 @@ author: Lucas Fernandez
 
                             Es un elemento de la naturaleza por lo que puede ser renunciado por su comprador, siempre que no haya estado en mala fe
 
-                        - prescripcion
-                            - accion redhibitoria
+                        - prescripción
+                            - acción redhibitoria
                                 - 6 meses muebles
                                 - 1 ano inmuebles
                             - quantis minoris
@@ -2490,31 +2490,31 @@ author: Lucas Fernandez
 
 - permuta
 
-    es el contrato por el cual las partes se obligan mutuamente a dar una especie o cuerpo cierto por otro
+    Es el contrato por el cual las partes se obligan mutuamente a dar una especie o cuerpo cierto por otro
 
 - cesión de derechos
 
-    consiste en el traspaso de un derecho por parte de su titular a otra persona por un acto entre vivos
+    Consiste en el traspaso de un derecho por parte de su titular a otra persona por un acto entre vivos
 
     - cesión de créditos personales
 
-         puede ser clasificada como a) al portador, b) a la orden, y, c) nominativo. El CC regula esta ultima, las dos primaras se encuentran reguladas por el C de Com.
+         Puede ser clasificada como a) al portador, b) a la orden, y, c) nominativo. El CC regula esta ultima, las dos primaras se encuentran reguladas por el C de Com.
 
-        se perfecciona por la entrega del título, anotándose en el documento el traspaso del derecho en la escritura, nombre del cesionario y firma del cedente, puede consistir en una entrega real o simbólica.
+        Se perfecciona por la entrega del título, anotándose en el documento el traspaso del derecho en la escritura, nombre del cesionario y firma del cedente, puede consistir en una entrega real o simbólica.
 
-        respecto al deudor de dicho crédito debe ser notificado judicialmente o haber aceptado (expresa o tácitamente)
+        Respecto al deudor de dicho crédito debe ser notificado judicialmente o haber aceptado (expresa o tácitamente)
 
     - cesión del derecho de herencia o legado
 
-        procede una vez que se encuentre abierta la sucesión (luego de la muerte del causante), que se traspase toda la herencia o una cuota de ella, que sea hecha por el heredero o un tercero, y que sea a título oneroso.
+        Procede una vez que se encuentre abierta la sucesión (luego de la muerte del causante), que se traspase toda la herencia o una cuota de ella, que sea hecha por el heredero o un tercero, y que sea a título oneroso.
 
     - cesión de derechos litigiosos
 
-        son aquellos derechos cuya existencia es discutida en juicio, evento incierto de la litis, solo le corresponde al demandante. Se efectúa apersonándose el cesonario al juicio, acompañando el título de la cesión
+        Son aquellos derechos cuya existencia es discutida en juicio, evento incierto de la litis, solo le corresponde al demandante. Se efectúa apersonándose el cesionario al juicio, acompañando el título de la cesión
 
 - arrendamiento
 
-    es un contrato en que las partes se obligan recíprocamente, la una a conceder el goce de una cosa, o a ejecutar una obra o prestar un servicio, y la otra a pagar por este goce, obra o servicio un precio determinado
+    Es un contrato en que las partes se obligan recíprocamente, la una a conceder el goce de una cosa, o a ejecutar una obra o prestar un servicio, y la otra a pagar por este goce, obra o servicio un precio determinado
 
 
 - El Contrato de Sociedad
@@ -2545,5 +2545,3 @@ author: Lucas Fernandez
 # 7. Derechos de Familia
 
 # 8. Derecho Sucesorio
-
--
