@@ -2,6 +2,9 @@
 
 ![Alt text](screenshot.png?raw=true "DOTS")
 
+# *
+
+
 ## Presentación
 
 Archivos básicos de configuración personal. Simplemente, se trata del esquema de colores de [Fmash16](https://github.com/fmash16/dotfiles) en [LARBS](https://larbs.xyz/) de [Luke Smith](https://lukesmith.xyz/).
@@ -19,15 +22,7 @@ Saludos!
 * xflux.
 
 
-
-
-
-
-
-
-
-
-# *	*	*
+# *	*
 
 
 # MATERIAL ESTUDIO
