@@ -26,11 +26,9 @@ Mandato dirigido a toda persona que viva en sociedad y mediante el cual, bajo am
 
 - Clasificación
 	- Normas de Derecho Público y de Derecho Privado
-
-Son de derecho público aquellas en que existe una relación de subordinación entre las partes, Estado y personas. En las de derecho privado existe una relación de igualdad entre las partes, que puede ser incluso el Estado una de ellas pero actuando como un privado.
+	Son de derecho público aquellas en que existe una relación de subordinación entre las partes, Estado y personas. En las de derecho privado existe una relación de igualdad entre las partes, que puede ser incluso el Estado una de ellas pero actuando como un privado.
 
         - Normas de Orden público y de Orden privado
-
 Las normas de orden público existe un interés superior que se resguarda por lo que no pueden ser disponibles por las partes, es decir, no son derogables ni renunciables por ellas. Las normas de orden privado están puestas en beneficio de las personas y ellas pueden renunciar y disponer cuando así lo quieran. art. 12 CC
 
 ## 1.1. Teoría de la Ley
