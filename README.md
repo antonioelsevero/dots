@@ -1,8 +1,9 @@
 # DOTS
 
+# *
+
 ![Alt text](screenshot.png?raw=true "DOTS")
 
-# *
 
 
 ## Presentación
@@ -22,9 +23,10 @@ Saludos!
 * xflux.
 
 
+# *	*
+
 ![Alt text](liq.png?raw=true)
 
-# *	*
 
 
 # MATERIAL ESTUDIO
