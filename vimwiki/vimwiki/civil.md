@@ -16,14 +16,12 @@ author: Lucas Fernandez
 ## Fuentes del Derecho
 
 	Derecho se debe entender como derecho objetivo y positivo, en sentido de sistema de normas y decisiones impuestas y tuteladas por el poder social. Por otro lado, la fuente del derecho subjetivo es en último término el **derecho objetivo**
+
 	+ **fuentes materiales** = son todos los factores que de forma directa o indirecta concurren en el nacimiento del derecho.
 	Por fuente material *directa* se entiende la sociedad por cuanto en ella se tiene origen la costumbre jurídica, los órganos legislativos, que dan nacimiento a la ley, y los tribunales de justicia, que generan sentencias.
 	Por fuente material *indirecta* se entiende todos aquellos elementos que de forma más o menos remota influye en el nacimiento o en la transformación del Derecho como los principios generales del derecho, las doctrinas religiosas, filosóficas y morales, los factores económicos-sociales, la labor de los juristas, las guerras, las revoluciones, el progreso técnico.
+
 	+ **fuentes formales** = son las formas en que el Derecho Positivo está contenido y se manifiesta en la vida social, se trata de la forma de expresión del derecho: la ley, la costumbre, las sentencias, la opinión de algunos tratadistas (doctrina) y los tratados internacionales.
-
-- Clasificación
-
-    Las normas pueden ser morales (personales, religiosas o filosoficas), de mero trato social y jurídicas.
 
 - La norma jurídica
 
