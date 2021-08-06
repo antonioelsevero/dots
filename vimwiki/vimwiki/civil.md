@@ -10,22 +10,16 @@ author: Lucas Fernandez
 
 # 1. Teoría de la Norma
 
-- Fuentes del Derecho
+![Alt text](wundt.png?raw=true)
+
+
+## Fuentes del Derecho
 
 	Derecho se debe entender como derecho objetivo y positivo, en sentido de sistema de normas y decisiones impuestas y tuteladas por el poder social. Por otro lado, la fuente del derecho subjetivo es en último término el **derecho objetivo**
 	+ **fuentes materiales** = son todos los factores que de forma directa o indirecta concurren en el nacimiento del derecho.
 	Por fuente material *directa* se entiende la sociedad por cuanto en ella se tiene origen la costumbre jurídica, los órganos legislativos, que dan nacimiento a la ley, y los tribunales de justicia, que generan sentencias.
 	Por fuente material *indirecta* se entiende todos aquellos elementos que de forma más o menos remota influye en el nacimiento o en la transformación del Derecho como los principios generales del derecho, las doctrinas religiosas, filosóficas y morales, los factores económicos-sociales, la labor de los juristas, las guerras, las revoluciones, el progreso técnico.
 	+ **fuentes formales** = son las formas en que el Derecho Positivo está contenido y se manifiesta en la vida social, se trata de la forma de expresión del derecho: la ley, la costumbre, las sentencias, la opinión de algunos tratadistas (doctrina) y los tratados internacionales.
-
-- Ley
-
-  	Santo Tomas = es una ordenación de la razón para el bien común, promulgada por el que tiene a su cargo la comunidad.
-	Marcel Planiol = la ley positiva es una regla social obligatoria establecida con el carácter permanente por la autoridad pública y sancionada por la fuerza.
-
-- Concepto
-
-    Regla que se debe seguir o ajustar, en un momento histórico determinado, por el cual se debe someter para la realización correcta de una determinada conducta o para dirigir o ajustar el comportamiento humano.
 
 - Clasificación
 
@@ -51,13 +45,14 @@ author: Lucas Fernandez
 
     Planiol. "Es una regla social obligatoria, establecida con carácter de permanente por la autoridad pública, y sancionada por la fuerza".
 
-    - Concepto legal
+    - Conceptos legales
 
         art. 1 CC La ley es una declaración de la voluntad soberana que manifestada en la forma prescrita por la CPR, manda prohíbe o permite.
 
         art. 63 Sólo son materias de ley: Nº 20, toda otra norma de carácter general y obligatoria que estatuya las bases esenciales de un ordenamiento jurídico.
 
 - Clasificación
+
     1. Normativas, Modificatorias, Interpretativas
     - prohibitivas
 
