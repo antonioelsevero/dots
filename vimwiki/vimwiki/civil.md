@@ -1,10 +1,15 @@
 ---
 title: Derecho Civil
 author: Lucas Fernandez
+bibliography: bib.bib
 ---
 # 1. Teoría de la Norma
 
 ![Alt text](wundt.png?raw=true)
+
+## El Derecho y la Sociedad
+
+La convivencia implica, inevitablemente, limitaciones a la esfera de la libertad y del poder de cada cual, ajustes de los individuos entre sí y de los
 
 
 ## Fuentes del Derecho
@@ -18,6 +23,9 @@ Por fuente material *indirecta* se entiende todos aquellos elementos que de form
 - **fuentes formales** = son las formas en que el Derecho Positivo está contenido y se manifiesta en la vida social, se trata de la forma de expresión del derecho: la ley, la costumbre, las sentencias, la opinión de algunos tratadistas (doctrina) y los tratados internacionales.
 
 ![Alt text](fuentes.png?raw=true)
+
+
+
 
 ## La norma jurídica
 
