@@ -1,7 +1,6 @@
 ---
 title: Derecho Civil
 author: Lucas Fernandez
-bibliography: bib.bib
 ---
 # 1. Teoría de la Norma
 
