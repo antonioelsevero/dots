@@ -9,12 +9,19 @@ bibliography: bib.bib
 
 ## El Derecho y la Sociedad
 
-La convivencia implica, inevitablemente, limitaciones a la esfera de la libertad y del poder de cada cual, ajustes de los individuos entre sí y de los
+La convivencia implica, inevitablemente, limitaciones a la esfera de la libertad y del poder de cada cual, ajustes de los individuos entre sí y de éstos con la sociedad, decía Máximo Pacheco en su libro Teoría del Derecho.
+Santo Tomás de Aquino por otro lado señalaba que "el objeto de la justicia es el Derecho".
+En términos generales podemos afirmar que el derecho consiste en aquella regulación externa de la conducta de las personas, que busca establecer un ordenamiento justo de la convivencia humana.
+Dado lo anterior, se afirma que la existencia del Derecho en la sociedad es algo consustancial, es decir, no puede existir sociedad sin derecho ni derecho sin sociedad.
 
+## Clasificación del Derecho
+
+- **Derecho Natural**: es la expresión de los primeros principios de justicia que rigen las relaciones de los hombres en sociedad, determinan las facultades que a cada uno pertenecen de conformidad con el orden natural, y sirven de fundamento a toda regulación positiva de la convivencia humana.
+- **Derecho Positivo**: es el conjunto de normas de conducta bilaterales, imperativas y coactivas que regulan efectivamente la conducta de las personas en una sociedad con el objetivo de establecer un ordenamiento justo de la convivencia.
 
 ## Fuentes del Derecho
 
-Derecho se debe entender como derecho objetivo y positivo, en sentido de sistema de normas y decisiones impuestas y tuteladas por el poder social. Por otro lado, la fuente del derecho subjetivo es en último término el **derecho objetivo**, el orden natural o positivo.
+Derecho, para estos efectos, debe ser entendido como *derecho objetivo y positivo*, en sentido de sistema de normas y decisiones impuestas y tuteladas por el poder social. Por otro lado, la fuente del derecho subjetivo es en último término el **derecho objetivo**, el orden natural o positivo.
 
 - **fuentes materiales** = son todos los factores que de forma directa o indirecta concurren en el nacimiento del derecho.
 Por fuente material *directa* se entiende la sociedad por cuanto en ella se tiene origen la costumbre jurídica, los órganos legislativos, que dan nacimiento a la ley, y los tribunales de justicia, que generan sentencias.
@@ -26,15 +33,36 @@ Por fuente material *indirecta* se entiende todos aquellos elementos que de form
 
 
 
+## La Norma
 
-## La norma jurídica
+Las normas que tienen por finalidad regular la conducta de la persona tienen por fin realizar valores.
+Pueden ser clasificadas de diversas maneras, siendo la clasificación más común:
+- Normas de **trato social**, las cuales tienen como fundamento la buena educación, decoro, protocolo o cortesía.
+- Normas **morales**, las cuales regulan la conducta libre de la persona que tienen por finalidad la trascendencia del ser conforme a su cosmovisión.
+- Normas **jurídicas**, las cuales pasaremos a estudiar en seguida.
 
-Mandato dirigido a toda persona que viva en sociedad y mediante el cual, bajo amenaza de sanción, se le conmina a observar una determinada conducta positiva o negativa. Además, tiene por finalidad: a) asegurar la **convivencia pacífica**; y b) **proteger sus intereses** materiales y espirituales.
-    Pacheco. "Es una norma de conducta exterior, bilateral, imperativa y coercitiva que regula la conducta de las personas con el fin de establecer un ordenamiento justo de convivencia humana".
 
-- Clasificación
-	- Normas de Derecho Público y de Derecho Privado: Son de derecho público aquellas en que existe una relación de subordinación entre las partes, Estado y personas. En las de derecho privado existe una relación de igualdad entre las partes, que puede ser incluso el Estado una de ellas pero actuando como un privado.
-	- Normas de Orden público y de Orden privado: Las normas de orden público existe un interés superior que se resguarda por lo que no pueden ser disponibles por las partes, es decir, no son derogables ni renunciables por ellas. Las normas de orden privado están puestas en beneficio de las personas y ellas pueden renunciar y disponer cuando así lo quieran. art. 12 CC
+### La norma jurídica
+
+Mandato dirigido a toda persona que viva en sociedad y mediante el cual, bajo amenaza de sanción, se le conmina a observar una determinada conducta positiva o negativa. Además, tiene por finalidad: a) asegurar la **convivencia pacífica**; y b) **proteger sus intereses** materiales y espirituales.  Pacheco. "Es una norma de conducta exterior, bilateral, imperativa y coercitiva que regula la conducta de las personas con el fin de establecer un ordenamiento justo de convivencia humana".
+
+### ¿Qué diferencia existe entre una ley y una norma?
+Según Pacheco, el concepto de normas es más **amplio**, dado que la norma puede expresarse también a través de la costumbre y de las sentencias de los tribunales de justicia. En segundo lugar, la ley requiere, necesariamente de un **legislador, promulgación y vigencia**.
+
+### Clasificación de las normas jurídicas
+
+- Normas de Derecho Público y de Derecho Privado: Son de derecho público aquellas en que existe una relación de subordinación entre las partes, Estado y personas. En las de derecho privado existe una relación de igualdad entre las partes, que puede ser incluso el Estado una de ellas pero actuando como un privado.
+- Normas de Orden público y de Orden privado: Las normas de orden público existe un interés superior que se resguarda por lo que no pueden ser disponibles por las partes, es decir, no son derogables ni renunciables por ellas. Las normas de orden privado están puestas en beneficio de las personas y ellas pueden renunciar y disponer cuando así lo quieran. art. 12 CC
+
+### Características de las normas jurídicas
+
+- *Exterioridad*: A la norma jurídica le preocupa la acción humana sólo desde el momento en que ella se ha **exteriorizado**.
+- *Bilateralidad*: las normas jurídicas imponen deberes y correlativamente conceden facultades.
+- *Determinación*: la norma jurídica generalmente se presenta con un contenido fijo cierto y reconocible. En su defecto, su sentido debe determinar su verdadero alcance.
+- *Imperatividad*: Es de la esencia de toda norma jurídica el **ordenar** la realización o la abstención de una determinada conducta. Las primeras se denominan: normas jurídicas imperativas y las segundas, prohibitivas.
+![Alt text](objkelsen.png?raw=true)
+- *Coactividad*: La norma jurídica constituye un imperativo que es susceptible de ser impuesto coactivamente.
+- *Finalidad*: Que busca establecer un ordenamiento justo por el cual se pueda lograr el bien común.
 
 ## 1.1. Teoría de la Ley
 
