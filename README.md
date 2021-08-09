@@ -38,6 +38,8 @@ Para acceder a los apuntes personales, ir:
 * [Apuntes Procesal](https://github.com/lucascfernandez/dots/blob/main/vimwiki/vimwiki/procesal.md)
 * [Apuntes Humanos](https://github.com/lucascfernandez/dots/blob/main/vimwiki/vimwiki/humanos.md)
 
+* [Glosario de Conceptos](https://github.com/lucascfernandez/dots/blob/main/vimwiki/vimwiki/conceptos.md)
+
 *Estos materiales están en constante modificación y no representan un trabajo concluido.*
 
 
