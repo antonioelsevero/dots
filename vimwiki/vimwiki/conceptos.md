@@ -1,8 +1,11 @@
- CONCEPTOS
+# CONCEPTOS
 
 *Este documento está ordenado alfabéticamente con los conceptos que el autor ha considerado que son relevantes.*
 
 *Consejo para búsqueda rápida*: los navegadores de internet tienen un buscador que se puede acceder fácilmente pulsado **Ctrl + F**. Si Usted está accediendo a este documento en el navegador de un celular, lo podrá encontrar en la opción "buscar".
+
+Tener presente que los conceptos empiezan en *mayúscula*.
+
 
 
 ## A
@@ -343,55 +346,12 @@
 
 **Igualitario**: Que tiene a la igualdad social que la implica.
 
-**Impugnación del Instrumento Público**: Es la actividad de la parte en contra de quién se hace valer ese instrumento en un proceso, destinada a destruir su fe probatoria.
-
-**Impunidad**: Se entiende por la inexistencia de hecho o derecho de responsabilidad penal por parte de los autores de violaciones, así como de responsabilidad civil, administrativa o disciplinaria, porque escapan a toda investigación con miras a su imputación, detención, procesamiento y en caso de ser reconocidos culpables, condena a penas apropiadas, incluso a la indemnización del daño causado a sus víctimas.
-
-**Impulso Procesal**: Fuerza o actividad que pone en movimiento el proceso y lo hace avanzar hasta su fin, una vez iniciado.
-
-**Indemnización de Perjuicios**: Es el derecho del acreedor para exigir del deudor el pago de una suma de dinero equivalente al beneficio que le habría reportado el cumplimiento íntegro y oportuno del la obligación.
-
-**Información Sumaria** (art. 818 inc. final CPC): Se entiende por tal la prueba de cualquier especie, rendida sin notificación ni intervención de contradictor y sin previo señalamiento de término probatorio.
-
-**Indicio**: O Bases de presunción judicial, son ciertos antecedentes conocidos o probados que por sí solos no permite establecer el hecho controvertido sino que requieren que el juez a través de un razonamiento lógico deduzca de ellos la forma como ocurrió el hecho controvertido.
-
-**Insinuación**: Es la autorización del juez competente, solicitada por el donante.
-
-**Inspección Personal del Tribunal**: Es aquél medio probatorio que consiste en el examen que realiza el tribunal por sí mismo de hechos o circunstancias materiales controvertidas en el proceso para adquirir la convicción acerca de su verdad.
-
-**Interrupción Civil**: Es todo recurso judicial intentado por el que se pretende dueño verdadero de una cosa contra su poseedor.
-
-**Interés Corriente**: Es el interés promedio cobrado por los bancos y sociedades financieras establecidas en Chile, en las operaciones que realicen en el país, con exclusión de las comprendidas en el art. 5, y que está establecida por la SBIF.
-
-**Interés en las Operaciones de Crédito de Dinero Reajustable**: Es toda suma que recibe o tiene derecho a recibir el acreedor por sobre el capital reajustado. Son frutos civiles.
-
-**Interés Máximo Convencional**: Límite de interés consistente en la prohibición de estipularse un interés que exceda en más de un 50% al corriente que rija al momento de la convención, ya sea tasa fija o variable.
-
-**Ínter Alia**: Entre otros.
-
-**Instrumento Público** (art. 1699): Es el autorizado con las solemnidades legales por el competente funcionario.
-
-**Inventario Solemne** (art. 858 CPC): Es el que se hace previo decreto judicial por el funcionario competente y con los requisitos que señalan la ley.
-
+**Indemnización **: Que tiene a la igualdad social que la implica.
 
 
 
 
 ## J
-
-**Juego**: Es un contrato aleatorio por el cual convienen dos o más personas en la que el que perdiere ha de pagar a la otra cierta cantidad de dinero u otra cosa fijada de antemano.
-
-**Juicio de Hacienda**: Son aquellos que son conocidos por un tribunal ordinario y en los que tiene interés el Fisco.
-
-**Juicio de Partición de Bienes**: Son aquellos que tienen por objeto liquidar una comunidad de bienes entre los diversos comuneros, entregando a cada uno de ellos lo que le corresponda según su derecho o cuota en la masa común.
-
-**Juicio Ejecutivo**: Es un procedimiento contencioso por cuyo medio se persigue el cumplimiento forzado de una obligación que consta de un título fehacientemente e indubitado.
-
-**Juicio Sumario**: Es aquél procedimiento declarativo de carácter común que debe ser aplicado en todos aquellos casos en que la acción deducida requiera por su naturaleza, una tramitación rápida para ser eficaz, siempre que no exista un procedimiento especial para ella y en los demás casos que señala la ley.
-
-**Jurisdicción**: Es la función pública realizada por órganos competentes del Estado con las formas requeridas por la ley en virtud de la cual por acto de juicio se determina el derecho de las partes, con el objetivo de resolver sus conflictos o controversias de relevancia jurídica mediante una decisión con autoridad de cosa juzgada eventualmente factibles de ejecución.
-
-**Juzgado de Garantía**: Son tribunales que tienen por objetivo decidir sobre la procedencia de todas las actuaciones que afecten los derechos básicos, tanto aquellas derivadas de la investigación, como aquellas medidas que se recaben respecto del imputado.
 
 
 ## K
@@ -399,343 +359,35 @@
 
 ## L
 
-**Lastar**: Suplir lo que alguien debe pagar con el derecho de reintegrarse.
-
-**Laudo y Ordenata**: Laudo es la sentencia propiamente tal que resuelve los puntos de hecho y de derecho que deben servir de base para la distribución de los bienes comunes y debe cumplir con sus requisitos de las sentencias del art. 170 CPC. Ordenata, por otro lado, es aquella parte del fallo en que se hacen los cálculos numéricos necesarios para la distribución de los bienes comunes.
-
-**Legítima**: Es aquella cuota de los bienes de una persona difunta que la ley asigna a ciertas personas llamadas legitimarias.
-
-**Legítima Efectiva**: Es la legitima rigurosa aumentada con la parte de mejoras o la parte de libre disposición de que el causante no dispuso o si lo hizo no tuvo efecto su disposición.
-
-**Legítima Rigurosa**: Es aquella parte que le cabe al legitimario dentro de la mitad legitimaria.
-
-**Legados con Causa Onerosa**: Son aquellos sujetos a un gravamen.
-
-**Lex Locus Regit Actum**: La ley del lugar rige el acto.
-
-**Ley** (Corte IDH): Norma jurídica de carácter general, ceñida al bien común emanada de los órganos legislativos constitucionalmente previstos y democráticamente elegidos y elaborados según el procedimiento establecido por las constituciones para la formación de las leyes.
-
-**Limitaciones a los Derechos Fundamentales**: Aquellas restricciones al ejercicio de un derecho básico, de manera tal que toda pretensión del atributo respectivo que vulnere los límites impuestos por las mismas, es por esencia antijurídica y puede derivar para el titular infractor en responsabilidades que para tal efecto, prevea el ordenamiento jurídico positivo.
-
-**Límite de los Derechos**: Es la determinación de los contornos de los derechos.
-
-**Liquidación**: Consiste en determinar a cuanto ascienden los bienes comunes y la suma que en esta cuota le corresponde a cada comunero.
-
-**Liquidación de la Sociedad Conyugal**: Es el conjunto de operaciones que tienen por objeto establecer si en la sociedad conyugal existen gananciales, repartirlos entre los cónyuges, previa liquidación de las recompensas, y reglamentar el pasivo de la sociedad.
-
-**Litigio**: Conflicto intersubjetivo de intereses con relevancia jurídica reglado por el derecho objetivo y caracterizado por la existencia de una pretensión resistida. Existe principalmente porque existe un quebrantamiento de las normas del ordenamiento jurídico.
-
-
 
 ## M
-
-**Materia**: Es la naturaleza del asunto controvertido, se utiliza para el establecimiento de tribunales especiales.
-
-**Matrimonio**: Es un contrato solemne por el cual un hombre y una mujer se unen actual e indisolublemente, y por toda la vida con el fin de vivir juntos , de procrear y de auxiliarse mutuamente.
-
-**Matrimonio Putativo**: El matrimonio nulo que ha sido celebrado o ratificado ante oficial del Registro Civil produce los mismo efectos civiles que el válido respecto del cónyuge que de buena fe y con justa causa de error lo contrajo pero que deja de producir efectos civiles desde que falte la buena fe.
-
-**Mecanismos Extraconvencionales del Sistema Universal de los Derechos Humanos**: Implican procedimientos que establecen órganos de control con miras a vigilar y examinar posibles violaciones a los derechos humanos fuera del marco convencional.
-
-**Medida Cautelar**: Son resoluciones que pueden ser dictadas durante el curso del proceso y que tienen por objeto otorgar al actor, la participación provisoria de ciertos efectos de la providencia definitiva, para prevenir un daño jurídico que podría derivar del retardo en la dictación de la misma.
-
-**Medida Precautoria**: Son medidas que puede solicitar el demandante en cualquier estado del juicio aún cuando no esté contestada la demanda, para asegurar el resultado de la acción.
-
-**Medida Prejudicial**: Consisten en ciertas diligencias o actuaciones que pueden practicarse antes de la iniciación  del juicio, con el fin de prepararlo o para asegurar que el actor no quede frustrado en sus derechos.
-
-**Medidas Para Mejor Resolver**: Son actos de instrucción realizados por iniciativa del órgano jurisdiccional para que éste pueda formar su propia convicción sobre el material del proceso.
-
-**Medios de Prueba**: Todos aquellos instrumentos cosas o circunstancias en las cuales el juez encuentra los motivos de su convicción frente a las proposiciones de las partes.
-
-**Ministerio Público**: Es un órgano constitucional de carácter autónomo responsable del destino de la investigación y debe disponer las diligencias que estime necesarias, relacionándose con la policía, la cual está sujeta a su dirección.
-
-**Mitad Legitimaria**: Es igual a la mitad de los bienes dejados por el difunto deducidas previamente las bajas generales de la herencia y hechas las agregaciones que legalmente correspondan.
-
-**Modo**: Gravamen o carga impuesta por el acreedor al deudor para que tenga por suyo el objeto de la obligación debiendo aplicarlo a un fin especial o sujetarse a un determinado gravamen.
-
-**Modo de Adquirir el dominio**: Determinados hechos materiales que la ley atribuye la virtud de hacer nacer o traspasar el derecho de dominio.
-
-**Modo de Extinguir las Obligaciones**: Es el hecho o acto al que la ley le atribuye el valor de hacer cesar los efectos de las obligaciones.
-
-**Mutatis Mutandis**: Cambiando lo que se deba cambiar.
-
-**Mutuo**: O préstamo de consumo es un contrato en que una de las partes entrega a la otra cierta cantidad de cosas fungibles con cargo de restituir otras tantas del mismo género y calidad.
 
 
 ## N
 
-**Normas de Trato Social**: Son prescripciones, originadas al interior de un grupo social al interior de un grupo social determinado que tienen en la realización de ciertos fines como la urbanidad, el decoro, la cortesía y otros semejantes, en las que la inobservancia de los deberes impuestos se traduce en tipo difuso de sanción consistente en el rechazo o repudio que el grupo de que se trate, hace en la persona, según el tipo de importancia en diferentes grados de intensidad.
-
-**Normas Morales Personales**: O autónomas, se forman a partir de la idea de bien o de perfección moral que cada individuo forja dentro de si, y de que derivan exigencias morales que se expresan en normas o pautas obligatorias para el respectivo sujeto.
-
-**Normas Morales de los Sistemas Filosóficos y Religiosos**: Se forman a partir del mensaje o testimonio de los fundadores de las religiones o del que dan y establecen determinados pensadores o filósofos, se expresan también en máximas, principios y normas por las que rigen su conducta moral las personas que adhieren al credo religioso o filosófico que se trate.
-
-**Normas Morales Sociales**: Se configura a partir de las ideas acerca de lo bueno prevalecen en una comunidad determinada y por lo mismo se expresa en un conjunto de exigencias de orden moral que el grupo dirige a sus miembros.
-
-**Nuevos Antecedentes**: Se entiende todo hecho jurídico que no estuvo en conocimiento del tribunal cuando se dictó la resolución que se desea reponer.
-
-
-
 
 ## O
-
-**Objeto de la Prueba**: Los hechos que se prueban, pertinentes y controvertidos.
-
-**Objeto del Juicio**: Es el beneficio jurídico inmediato que se reclama. Generalmente se encuentra en la parte petitoria de la demanda.
-
-**Obligación**: Consiste en un vínculo jurídico que implica la subordinación de un interés del obligado al interés de otra persona so pena de sanción si la subordinación se infringe.
-
-**Obligación Actualmente Exigible**: Se dice de aquella obligación que en su nacimiento o ejercicio no se encuentra sujeta a ninguna modalidad, es decir, a ninguna condición plazo o modo.
-
-**Obligaciones Indivisibles**: Son aquellas en que varios deudores o acreedores y la prestación recae sobre un objeto que no es susceptible de división física, intelectual o de cuota.
-
-**Obligaciones Simplemente Conjuntas o Mancomunadas**: Son aquellas en que cada uno de los deudores es obligado solamente a su parte o cuota en la deuda y cada uno de los acreedores sólo tiene derecho para demandar su parte o cuota en el crédito.
-
-**Ordenes Público**: Organización considerada como necesaria para el buen funcionamiento general de la sociedad.
-
-**Ordenes Sucesorios**: Es aquél grupo de parientes que excluye a otro conjunto de parientes de la sucesión pero que a su vez puede ser excluido por otro conjunto de parientes de igual o mejor derecho.
-
-**Otrosi**: Es una petición accesoria que se contiene en el escrito y sobre la cual el tribunal también debe emitir resolución.
 
 
 ## P
 
 
-**Pacto de no Mejorar**: Es aquél que puede celebrar el causante con sus descendientes, cónyuges y ascendientes, que a la sazón fuere legitimario y consiste en obligarse a no donar ni asignar parte alguna de la cuarta de mejoras por testamento.
-
-**Pacto de Retracto**: Las partes convienen en que se resuelve la venta si dentro de un plazo de 1 año se presenta un nuevo comprado que ofrezca condiciones más ventajosas y no se equipare la oferta por el comprador.
-
-**Pacto de Retroventa**: Convención accesoria en la cual el vendedor se reserva la facultad de recobrar la cosa vendida, reembolsando al comprador la cantidad determinada que se estipulare o en defecto de esta estipulación lo que haya costado la compra.
-
-**Pago con Beneficio de Competencia** (art. 1625 CC): Es el que se concede a ciertos deudores para no ser obligados a pagar más de lo que buenamente puedan, dejándoseles en consecuencia lo indispensable para una modesta subsistencia según su clase y circunstancia y con cargo de devolución, cuando mejoren de fortuna.
-
-**Pago con Subrogación** (art. 1608 CC): Es la transmisión de derechos de un acreedor a un tercero que le paga. Es una ficción legal, en cuya virtud el crédito que ha sido pagado con dineros de un tercero, extinguiendo la obligación respecto del acreedor se reputa subsistir con todos sus accesorios, en provecho del tercero para asegurarle el reembolso de los pagado.
-
-**Pago por Consignación**: Es el deposito de la cosa que se debe, hecho en virtud de la repugnancia o no comparecencia del acreedor a recibirla o de la incertidumbre acerca de la persona de este, y con las formalidades necesarias en manos de una tercera persona.
-
-**Pago por Cesión de Bienes** (art. 1614 CC): Es el abandono voluntario que el deudor hace de todos sus bienes a su acreedor o acreedores cuando a consecuencia de accidentes inevitables, no se halla en estado de pagar sus deudas.
-
-**Pena Aflictiva** (art. 37 CP): Es o se reputan así todas las penas de crimen y respecto de las de simple delito, las de presidio, reclusión, confinamiento, extrañamiento y relegación menores en sus grados máximos.
-
-**Partición de Bienes**: Es el conjunto complejo de actos encaminados a poner fin a la indivisión mediante la liquidación y distribución entre los copartícipes del caudal poseído proindiviso en partes o lotes que guarden relación con los derechos cuotativos de cada uno de ellos.
-
-**Participación en los Gananciales**: Es un régimen en que los patrimonios del marido y de la mujer se mantienen separados y cada uno de los cónyuges administra, goza y dispone libremente de lo suyo. Al finalizar la vigencia del régimen, se compensan el valor de los gananciales obtenidos por los cónyuges y éstos tienen derechos a participar por mitades en el excedente.
-
-**Patria Potestad**: Conjunto de derechos y deberes que corresponden al padre o a la madre sobre los bienes de sus hijos no emancipados. Se ejerce también sobre los derechos eventuales del hijo que está por nacer.
-
-**Perjuicio**: Cualquier detrimento o daño que experimente el patrimonio de una persona, sea que signifique una disminución real o efectiva de él sea que sólo importe la privación de obtener una utilidad o ganancia. Pérdida efectiva o daño emergente. Pérdida de ganancia o lucro cesante.
-
-**Persona Jurídica**: Es una persona ficticia capaz de ejercer derechos y contraer obligaciones civiles (y penales), y de ser representada judicial y extrajudicialmente.
-
-**Poder Coercitivo**: Es la facultad que tienen los tribunales del sistema penal para ordenar directamente la intervención de la fuerza pública y disponer todas las medidas necesarias para el cumplimiento de las actuaciones que ordenare y la ejecución de las resoluciones que dictare.
-
-**Posesión Continua**: Es aquella que no ha sido perdida, impedida o desconocida por demanda judicial.
-
-**Posesión Efectiva**: Es aquella que se otorga por decreto judicial o resolución administrativa a quién tiene la apariencia de heredero.
-
-**Precario**: Es una situación de hecho y no un contrato que se caracteriza por el goce gratuito de una cosa ajena sin ningún titulo que lo legitime, tolerado por el dueño o que se verifica por su ignorancia.
-
-**Prelación de Crédito**: Es el conjunto de reglas establecidas por ley que determinan el orden y forma en que deben pagarse los diversos acreedores de un deudor.
-
-**Prenda**: Consiste en una caución real por la cual se entrega una cosa mueble al acreedor para la seguridad de su crédito, dándole la facultad de venderla y pagarse preferentemente con el producto de la venta si el deudor no cumple su obligación.
-
-**Prenda General de los Acreedores**: Es el derecho de perseguir la ejecución de una obligación sobre todos los bienes raíces o muebles del deudor, presentes o futuros, con excepciones de los inembargables y las obligaciones naturales.
-
-**Prenda Pretoria**: O anticresis judicial, es un contrato celebrado por intermedio de la justicia por el que se entrega al acreedor una ejecución, para que se pague con sus frutos.
-
-**Preparar el Recurso de Casación en la Forma**: Consiste en reclamar del vicio ejerciendo, oportunamente y en todos sus grados, los recursos ordinarios que franquea la ley.
-
-**Prescripción Extintiva**: Es un modo de extinguir las acciones y derechos ajenos por no habérselas ejercido (por su titular), durante cierto lapso de tiempo y concurriendo los demás requisitos legales. No extingue la obligación civil sino que la acción para exigir su cumplimiento, transformándola en una obligación natural.
-
-**Prestaciones Mutuas**: Son los hechos y pagos que el poseedor vencido debe hacer en favor del reivindicante y que éste a su vez debe hacer en favor del poseedor.
-
-**Presunciones**: Son las consecuencias jurídicas que la ley o el tribunal infiere de ciertos antecedentes o de hechos conocidos para llegar a establecer un hecho desconocido y controvertido en el proceso.
-
-**Preterición**: Hacer caso omiso de alguien o algo. Omitir en las instituciones de herederos a los que son forzosos sin desheredarlos expresamente en el testamento.
-
-**Previa Vista de la Causa**: Es un conjunto de actuaciones y trámites que la ley ordena para que el tribunal quede habilitado para conocer de un asunto y resolverlo.
-
-**Principio de la Jurisdicción Universal**: Principio que permite o exige a un Estado enjuiciar penalmente ciertos crímenes, independientemente del lugar donde se haya cometido y la nacionalidad del autor o víctima.
-
-**Principio de Oportunidad**: Facultad que tiene los fiscales para no iniciar una persecución penal o abandonar una ya iniciada cuando el hecho no comprometa gravemente el interés público, amenos que la pena exceda la de presidio menor en su grado mínimo, o que se trate de un delito cometido por funcionario público en el ejercicio de sus funciones.
-
-**Privación** (de un derecho): Consiste en casos en que se niega un derecho a su titular.
-
-**Privilegio de Pobreza** (judicial): Es el que tiene como fuente una resolución judicial que se tramita en cuaderno separado y que al momento de solicitarlo se deben expresar los motivos en que se fundan.
-
-**Procedimiento Civil**: Es un conjunto de principios y disposiciones que determinan la forma como los tribunales conociendo de las causas civiles, conocen, juzgan y hacen ejecutar lo juzgado, y de como intervienen en los actos judiciales no contenciosos.
-
-**Procedimiento Concursal**: Es aquél procedimiento que bajo la supervisión del juez y el nombramiento de un veedor o liquidador en su caso, busca lograr la solución integral para las obligaciones pendientes de pago de un deudor, ya sea mediante una Reorganización, Renegociación o la Liquidación Voluntaria o Forzada de sus activos, cuando se carece de liquidez para cumplir obligaciones con sus acreedores.
-
-**Proceso Judicial**: Es un conjunto sucesivo de actos emanados de las partes y del juez para resolver un conflicto de relevancia jurídica, actos que se desarrollan de acuerdo a las normas de procedimiento que la ley señala.
-
-**Promesa por Otro** (art. 1450 CC): Es una convención en que uno de los contratantes se compromete a que una tercera persona de quién  no es legítimo representante, ha de darse, hacerse o no hacerse alguna cosa.
-
-**Propiedad Fiduciaria**: Aquella que está sujeta al gravamen de pasar a otra por el hecho de verificarse una condición.
-
-**Prueba**: Es la acción y el afecto de probar, demostrar de algún modo la certeza de un hecho o la verdad de una afirmación.
-
-**Prueba Instrumental**: Toda representación material destinada a reproducir una manifestación del pensamiento dentro del cual no solo caben representaciones escritas, sino otros documentos de carácter instrumental como radiografías, cuadros, sea que existan materialmente o de forma digital. Es un medio de prueba preconstituido, indirecto y que generalmente produce plena prueba.
-
-
 ## Q
-
-
-**Queja Disciplinaria**: o queja propiamente tal, no es un recurso, sino que es aquella que se refiere a la conducta ministerial o a las actuaciones de los jueces y demás funcionarios que están sujetos a la jurisdicción disciplinaria de las Cortes y que no se fundan en faltas o abusos graves que se hayan cometido en el procedimiento de una resolución o en otra actuación determinada.
-
-**Querella de Amparo**: Es la que tiene la persona que ha sido turbada o molestada en su posesión o a quién se ha pretendido turbar o molestar en esa posesión y que recurre al tribunal pretendiendo que se le otorguen seguridades en contra del daño que fundadamente teme.
-
-**Querella de Capítulos**: Tiene por objeto hacer efectiva la responsabilidad criminal de los jueces fiscales judiciales y fiscales del Ministerio Público por actos que hubieren ejecutado en el ejercicio de sus funciones e importen una infracción penada por la ley.
-
-**Querella de Restablecimiento**: Es aquella con la cual una persona que ha sido privada violentamente de la posesión o de la mera tenencia de un inmueble o de derechos reales constituidos en él pretende obtener que se disponga su restablecimiento ya sea en la posesión o en la mera tenencia.
-
-**Querella de Restitución**: Es aquél interdicto posesorio por el cual una persona que ha sido despojada de la posesión sobre un bien raíz u otro derecho sobre un bien inmueble, por un tercero, pide al tribunal que se le restituya en posesión.
 
 
 ## R
 
-**Recompensas**: Son las indemnizaciones pecuniarias a que los patrimonios del marido de la mujer y de la sociedad conyugal están obligados entre si.
-
-**Recursos**: Son medios que la ley concede a la parte que se cree perjudicada por una resolución judicial para obtener que ella sea modificada o dejada sin efecto.
-
-**Recurso de Aclaración, Rectificación o Enmienda**: Es el medio que la ley concede a las partes para obtener que el mismo tribunal que dictó una resolución aclare los puntos obscuros o dudosos, salve omisiones  o rectifique los errores de copia de referencia o de cálculos numéricos que aparezcan de manifiesto en la sentencia.
-
-**Recurso de Casación**: Es el medio extraordinario que la ley otorga a las partes para obtener la invalidación de una sentencia cuando se ha dictado en un procedimiento viciado o con omisión de formalidades legales o cuando el tribunal ha infringido la ley decisoria del conflicto al resolverse.
-
-**Recurso de Hecho**: Es aquél medio que concede la ley a las partes agraviadas por la resolución del tribunal inferior al proveer la apelación para pedir al tribunal superior que enmiende conforme a derecho esa resolución.
-
-**Recurso de Queja**: Es aquél medio que franquea la ley a la parte agraviada con una falta o abuso grave cometido en la dictación de una resolución de carácter jurisdiccional.
-
-**Recurso de Revisión**: Es aquél recurso extraordinario que se concede para invalidar las sentencias firmes ganadas injustamente en los casos expresamente señalados en la ley.
-
-**Recurso de Revocación o Modificación**: Es el que tiene por objeto la revocación o modificación de una resolución pronunciada en los actos judiciales no contenciosos por el mismo juez que la dictó en las condiciones que la ley señala y sin sujetarse a los términos y a las formas establecidas para los asunto contenciosos.
-
-**Redención del Censo**: Es el derecho del obligado a pagar el crédito consignando el capital a la orden del juez.
-
-**Reembargo**: Consiste en trabar dos o más embargos sobre un mismo bien del deudor en base a distintos juicios llevados en su contra.
-
-**Reducción del Embargo**: Es un derecho del deudor que consiste en solicitar la eliminación de algunos bienes del embargo en razón de que los embargados exceden a los bienes necesarios para responder a la demanda.
-
-**Regímenes Matrimoniales**: Son estatutos jurídicos que regulan los intereses pecuniarios de los cónyuges entre sí y respecto a terceros.
-
-**Regular** (un derecho): Indicar las modalidades del ejercicio de un derecho.
-
-**Relación**: Es la exposición razonada y metódica que hace el relator o el secretario de todos los antecedentes del proceso y mediante la cual el tribunal colegiado toma conocimiento del asunto sometido a su decisión.
-
-**Relación de Causalidad**: Es la que existe entre la acción culpable o dolosa y el resultado necesario y directo del daño.
-
-**Remate**: Consiste en la subasta de bienes mediante puja entre los concurrentes bajo condición implícita de aceptarse  como precio la oferta mayor.
-
-**Renovación de la Acción Ejecutiva** (art. 477 CPC): Consiste en que una acción ejecutiva que ha sido rechazada puede promoverse nuevamente en razón de que ese rechazo se haya basado en que han acogido algunas excepciones de carácter dilatorio.
-
-**Renta Vitalicia**: Es un contrato aleatorio en que una parte se obliga a titulo oneroso a pagar a la otra una renta o pensión periódica durante la vida de cualquiera de estas personas o de un tercero.
-
-**Réplica**: Es el escrito que tiene por objeto ampliar, adicional o modificar las acciones que hayan formulado el demandante en la demanda, pero sin que pueda alterar las acciones que sean objeto principal del juicio.
-
-**Representación**: Es una institución jurídica en virtud de la cual los efectos de un acto jurídico celebrado por una persona a nombre o en lugar de otra se radica en forma directa e inmediata en esta última como si hubiera contratado personalmente.
-
-**Requerimiento**: Es el acto por el cual el tribunal ordena a las partes o a terceros hacer o no hacer alguna cosa determinada que no consista en la comparecencia ante él.
-
-**Reserva de Derechos**: Es la facultad que la ley da a las partes para que puedan deducir el derecho reservado en un juicio ordinario y dentro del plazo que ella señala.
-
-**Resciliación**: Convención en virtud de la cual las partes de común acuerdo estipulan dejar sin efecto un contrato válidamente celebrado en la medida que sus efectos no estén totalmente cumplidos.
-
-**Restringir** (un derecho): Implica reducir el ámbito de su ejercicio, en principio por consideraciones externas ya sea para conciliarlos con otros derechos, con bienes jurídicos protegidos constitucionalmente o con intereses estatales apremiantes.
-
-**Revocación**: Es el acto por el cual una persona titular o sujeto de un acto o declaración unilateral lo deja sin efecto.
-
 
 ## S
-
-**Secuestro** (en civil): Consiste en el deposito de una cosa que se disputan dos o más individuos en manos de otro que debe restituirla al que obtenga una decisión a su favor, llamado secuestre.
-
-**Separación de Hecho**: Una simple separación de cuerpos sin terminación del vínculo matrimonial producto de desavenencias conyugales cuyo objeto es regular especialmente la materia de alimentos, régimen de bienes y en su caso el cuidado personal y la relación directa y regular de los hijos, respecto del cónyuge que los tuviere bajo su cuidado.
-
-**Separación Judicial**: Es la acción judicial ejercida por uno de los cónyuges ante los tribunales por falta imputable al otro, siempre que constituya una violación grave de los deberes y obligaciones para con los hijos que torne intolerable la vida en común, sin término del vínculo matrimonial.
-
-**Sesiones Sucesivas** (art. 282 CPP): Aquellas que tuvieren lugar el día siguiente o subsiguiente de funcionamiento ordinario del tribunal.
-
-**Sistema Procesal Penal**: Es un mecanismo racional de investigación, persecución, y juzgamiento de las conductas humanas que lesionan bienes jurídicos penalmente tutelados, estableciendo un régimen de garantías que fija los limites más allá de los cuales la actividad persecutoria estatal no puede extenderse sin vulnerar ilegítimamente los derechos individuales de las personas.
-
-**Sociedad Anónima**: Es aquella formada por la reunión de un fondo común suministrado por accionistas responsables sólo por sus respectivos aportes y administrada por un directorio integrado por miembros esencialmente revocables.
-
-**Sociedad Colectiva**: Aquella en que todos los socios administran por sí o por un mandatario elegido de común acuerdo.
-
-**Sociedad Conyugal**: Es la sociedad de bienes que se forma entre los cónyuges por el hecho del matrimonio y a falta de pacto en contrario.
-
-**Sociedad en Comandita**: Aquella en que uno o más de los socios se obligan hasta la concurrencia de sus aportes.
-
-**Sustanciar**: Conducir un asunto o juicio por el procedimiento judicial adecuado hasta ponerlos en estado de sentencia.
-
-**Substitución del Embargo**: Es un derecho del deudor que consiste en reemplazar un bien embargado por dinero.
-
-**Substitución del Procedimiento**: Es una institución que consiste en que iniciado un procedimiento como sumario, puede decretarse su continuación conforme a las reglas del juicio ordinario, si existen motivos fundados para ello; e iniciado un procedimiento como juicio ordinario puede substituirse al juicio sumario si aparece la necesidad de aplicarlo.
-
-**Sucesión Intestada o Abintestato**: Es aquella en que la persona del asignatario y la porción de bienes que comprende la asignación son determinados por la ley.
-
-**Sucesión por Causa de Muerte**: Es un modo de adquirir el dominio del patrimonio de una persona difunta o de una cuota de dicho patrimonio o de un bien o bienes determinados y que opera por el solo hecho de la muerte del causante.
 
 
 ## T
 
-**Tasación**: Es aquella que figura en el rol de avalúo que esté vigente para los efectos de las contribuciones, a menos que el ejecutado solicite que se haga nueva tasación. Se trata del avalúo para los efectos del pago del impuesto territorial y se acredita con un certificado otorgado por SII.
-
-**Teoría de la Inoponibilidad**: Es la ineficacia, respecto a terceros de un derecho nacido como consecuencia de la celebración o de la declaración de nulidad de un acto.
-
-**Tercería de Dominio**: Es aquella en que interviene un extraño al juicio ejecutivo pretendiendo dominio sobre los bienes embargados.
-
-**Tercería de Pago**: Es aquella en que interviene un extraño en el juicio ejecutivo pretendiendo derecho para concurrir en el pago con el ejecutante a falta de otros bienes del deudor.
-
-**Tercería de Posesión**: Es aquella en que interviene un extraño en el juicio ejecutivo pretendiendo posesión sobre los bienes embargados.
-
-**Tercería de Prelación**: Es aquella en que interviene un extraño en el juicio ejecutivo pretendiendo derecho para ser pagado preferentemente al ejecutante.
-
-**Tercerías**: Es el procedimiento por el cual interviene un extraño al juicio invocando derechos incompatibles con los de las partes (terceros excluyentes), derechos independientes a las partes (terceros independientes), o derechos armónicos con los de las partes (terceros coadyuvantes).
-
-**Término Especial Probatorio**: Es aquél que se concede cada vez que durante el término probatorio ocurra algún entorpecimiento, es decir, cuando sucede algún hecho o sobrevenga cualquier situación en el proceso que impida real y legítimamente la recepción de la prueba.
-
-**Término Probatorio Extraordinario**: Es aquél que la ley concede para el caso que haya que rendirse prueba en otro territorio jurisdiccional o fuera del territorio de la República y consiste en el aumento del término ordinario por un número de días igual que al aumento del emplazamiento (en el juicio ordinario).
-
-**Término Probatorio Ordinario**: Es aquél que tiene una duración de 20 días y en el cual necesariamente debe rendirse prueba testimonial (en el juicio ordinario).
-
-**Testamento** (art. 999 CC): Es un acto más o menos solemne, en que una persona dispone del todo o de una parte de sus bienes para que tenga pleno efecto después de sus días, conservando la facultad de revocar las disposiciones contenidas en él, mientras viva.
-
-**Testamento Abierto**: Es aquél en que el testador hace sabedores a los testigos y al funcionario competente y al funcionario competente de sus disposiciones testamentarias.
-
-**Testamento Marítimo**: Es aquél que se otorga en alta mar en un buque de guerra chileno o en un buque mercante que navega bajo bandera chilena.
-
-**Testamento Militar**: Es aquél que se otorga en tiempo de guerra por los militares y demás individuos empleados en un cuerpo de tropa de la República y voluntarios, rehenes y prisioneros que pertenecen a dicho cuerpo.
-
-**Testamento Verbal**: Es el que no se observan las solemnidades ordinarias por existir un peligro inminente para la vida del testador que parezca no haber modo o tiempo de otorgar testamento solemne.
-
-**Testigos**: Son personas extrañas al pleito que exponen sobre hechos controvertidos y sus testimonios son actos procesales por los cuales una persona informa a un juez sobre lo que se sabe de ciertos hechos.
-
-**Testigos Singulares**: Son los que coinciden en el hecho fundamental sobre el cual deponen difiriendo en las circunstancias accesorias del mismo.
-
-**Transacción**: Es un contrato en que las partes terminan extrajudicialmente un litigio pendiente o precaven un litigio eventual mediante concesiones recíprocas.
-
-**Traslado**: Es el acto por el cual se pone en conocimiento de una de las partes la petición formulada por la contraria para que a su vez efectúe sus alegaciones.
-
-**Título Ejecutivo**: Es aquella declaración solemne a la que la ley le otorga, específicamente la fuerza indispensable para ser el antecedente inmediato de la ejecución.
-
-**Titulo Traslaticio de Dominio**: Es el hecho o acto jurídico que sirve de antecedente para la adquisición.
-
-**Tribunal Unipersonal Accidental o de Excepción**: Aquellos formados por jueces que forman parte de los tribunales superiores colegiados de competencia territorial que sólo se constituyen para conocer determinadas causas una vez que el conflicto en que deben intervenir se ha suscitado.
-
 
 ## U
 
-**Ultrapetita**: Es el vicio por el cual el tribunal extiende su fallo a puntos no sometidos a su conocimiento.
-
-**Usufructo**: Es un derecho real que consiste en la facultad de gozar de una cosa con cargo de conservar su forma y substancia, y de restituirla a su dueño si la cosa no es fungible; o con cargo de devolver igual cantidad y calidad del mismo genero o de pagar su valor, si la cosa es fungible.
 
 ## V
-
-**Vicios Redhibitorios**: Son los defectos ocultos que existiendo en la cosa vendida al tiempo de la venta, hacen que ella no sirva para su uso natural o solo sirva imperfectamente.
-
-**Víctima** (art. 108 CPP): Es el ofendido por el delito.
-
-**Vis a Vis**: Cara a cara.
 
 
 ## X
