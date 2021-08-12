@@ -113,6 +113,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 ## C
 
+**Caducidad**: Es una sanción legal que consiste en la extinción de un derecho por no haberse ejercido o cumplido una formalidad legal dentro del plazo fatal que la misma ley establece.
+
 **Capitulaciones Matrimoniales**: Son convenciones de carácter patrimonial que celebren los esposos antes de contraer matrimonio o en el acto de su celebración.
 
 **Carga**: Supone la subordinación de uno o más intereses del titular de ellos a otros intereses del mismo.
@@ -246,6 +248,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Discriminación Racial**:  Denota toda distinción, exclusión, restricción o preferencia basada en motivos de raza color, linaje u origen nacional o étnico que tenga por objeto o resultado anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de los derechos humanos y libertades fundamentales en las esferas políticas económicas, social, cultural o en cualquier otra esfera de la vida pública.
 
+**Disipador**:  O dilapidador, es quien gasta desproporcionadamente y sin una finalidad lógica.
+
 **Distribución**:  Consiste en adjudicar a cada asignatario bienes en proporción a sus derechos mediante la formación de hijuelas.
 
 **Divorcio**:  Es una resolución judicial que pone término al matrimonio, pero que no afecta en modo alguno la filiación ya determinada no los derechos y obligaciones que emanan de ella.
@@ -283,6 +287,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Erogación**: Distribuir, repartir bienes o caudales. Gastar el dinero.
 
 **Estipulación a Favor de Otro**: Es un contrato en que una de las partes, el estipulante conviene con la otra, promitente, que ésta realizará una determinada prestación en favor de un tercero extraño a la convención, el beneficiario.
+
+**Ética**: Es un conjunto de normas y principios basados en la reflexión sobre la moral desde un punto de vista universal.
 
 **Evicción**: Se produce cuando el comprador es privado de todo o parte de la cosa por sentencia judicial anterior a la compra.
 
@@ -337,6 +343,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Haber Relativo**: Esta formado por aquellos bienes que entran a formar parte del patrimonio social, pero confieren al cónyuge propietario un crédito contra la sociedad equivalente al valor de ellos que se hace efectivo a la época de su disolución.
 
+**Hecho Jurídico**: Es todo suceso del hombre oo la naturaleza que produce efectos juridicos.
+
 **Herencia Yacente**: Se tiene por tal a aquella que trascurridos más de 15 días desde la apertura de la sucesión, no ha sido aceptada por ningún heredero, ni exista albacea  con tenencia de bienes que haya aceptado el cargo, o si habiéndolo, éste no ha aceptado el cargo.
 
 **Hipoteca**: Es un derecho real que grava a un inmueble sin dejar de pertenecer en poder del constituyente para asegurar el cumplimiento de una obligación principal, otorgando al acreedor el derecho de perseguir la finca en manos de quienquiera que la posea y de pagarse preferentemente con el producto de la realización.
@@ -345,6 +353,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 ## I
 
 **Igualitario**: Que tiene a la igualdad social que la implica.
+
+**Impúber**: Son los varones mayores de 7 años y menores de 14 años, y mujeres mayores de 7 años y menores de 12 años.
 
 **Impugnación del Instrumento Público**: Es la actividad de la parte en contra de quién se hace valer ese instrumento en un proceso, destinada a destruir su fe probatoria.
 
@@ -355,6 +365,12 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Indemnización de Perjuicios**: Es el derecho del acreedor para exigir del deudor el pago de una suma de dinero equivalente al beneficio que le habría reportado el cumplimiento íntegro y oportuno de la obligación.
 
 **Indicio**: O base de presunción judicial, son ciertos antecedentes conocidos o probados que por sí solos no permite establecer el hecho controvertido sino que requieren que el juez, a través de un razonamiento lógico deduzca de ellos la forma como ocurrió el hecho controvertido.
+
+**Ineficacia** (en sentido *estricto*): Se refiere a aquellos casos en que la causa de ineficacia se origina después de haberse otorgado o celebrado el acto. Es decir, el acto jurídico por sí idóneo, no genera sus efectos o deja de producirlos, por un hecho extrínseco, una circunstancia usualmente sobreviniente o coetáneas y extrañas a su estructura.
+
+**Inexistencia**: Es una sanción civil establecida para la omisión de los requisitos de existencia de un acto, es decir, voluntad o consentimiento, objeto, la causa, o solemnidades.
+
+**Infante**: Se refiere a los menores de 7 años.
 
 **Información Sumaria**: Se entiende por tal la prueba de cualquier especie rendida sin notificación ni intervención de contradictor y sin previo señalamiento de término probatorio.
 
@@ -451,15 +467,21 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Medios de Prueba**: Todos aquellos instrumentos cosas o circunstancias en las cuales el juez encuentra los motivos de su convicción frente a las proposiciones de las partes.
 
+**Menor Adulto**: Es el varón mayor de 14 años y menor de 18, y la mujer mayor de 12 años y menor de 18 años.
+
 **Ministerio Público**: Es un órgano constitucional de carácter autónomo responsable del destino de la investigación y debe disponer las diligencias que estime necesarias, relacionándose con la policía la que está sujeta a su dirección.
 
 **Mitad Legitimaria**: Es igual a la mitad de los bienes dejados por el difunto deducidos previamente las bajas generales de la herencia y hechas las agregaciones que legalmente correspondan.
+
+**Modalidades**: Consisten en elementos accidentales que se pueden introducir por las partes en virtud del principio de autonomía de la voluntad, que tienen por propósito alterar los efectos propios del acto jurídico, ya sea con relación a su **nacimiento, exigibilidad o extinción del mismo**.
 
 **Modo**: Gravamen o carga impuesta por el acreedor al deudor para que tenga por suyo el objeto de la obligación debiendo aplicarlo a un fin especial o sujetarse a un determinado gravamen.
 
 **Modo de Adquirir el Dominio**: Determinados hechos materiales que la ley le atribuye la virtud de hacer nacer o traspasar el derecho de dominio.
 
 **Modo de Extinguir las Obligaciones**: Es el hecho o acto al que la ley le atribuye el valor de hacer cesar los efectos de las obligaciones.
+
+**Moral**: Es un conjunto de normas y principios basados en la cultura y las costumbres de un determinado grupo.
 
 **Mutatis Mutandis**: Cambiando lo que se deba cambiar.
 
@@ -481,8 +503,7 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Nuevos Antecedentes**: Se entiende todo hecho jurídico que no estuvo en conocimiento del tribunal cuando se dictó la resolución que se desea reponer.
 
-
-
+**Nulidad** (art. 1681 CC): Es una sanción civil establecida para la omisión de los requisitos y formalidades que se prescriben para el valor del acto según su especie o calidad de las partes.
 
 
 ## O
@@ -535,6 +556,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Perjuicio**: Cualquier detrimento o daño que experimente el patrimonio de una persona, sea que signifique una disminución real o ejecutiva de él, sea que sólo importe la privación de obtener una utilidad o ganancia. Pérdida efectiva o daño emergente. Pérdida de ganancia o lucro cesante.
 
 **Persona Jurídica**: Es una persona ficticia capaz de ejercer derechos y contraer obligaciones civiles (y penales), y de ser representada judicial y extrajudicialmente.
+
+**Plazo**: Consiste en un hecho futuro y cierto del cual depende la exigibilidad o extinción de un acto.
 
 **Poder Coercitivo**: Es la facultad que tienen los tribunales del sistema penal para ordenar directamente la intervención de la fuerza pública y disponer todas las medidas necesarias para el cumplimiento de las actuaciones que ordenare y la ejecución de las resoluciones que dictare.
 
@@ -652,7 +675,7 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Restringir** (un derecho): Implica reducir el ámbito de su ejercicio, en principio por consideraciones externas, ya sea para conciliarlos con otros derechos, con bienes jurídicos protegidos constitucionalmente o con intereses estatales apremiantes.
 
-**Revocación**: Es el acto por el cual una persona titular o sujeto de un acto o declaración unilateral lo deja sin efecto.
+**Revocación** (art. 2165 CC): Es el acto por el cual una persona titular o sujeto de un acto o declaración unilateral lo deja sin efecto.
 
 
 ## S
@@ -674,6 +697,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Sociedad Conyugal**: Es la sociedad de bienes que se forma entre los cónyuges por el hecho del matrimonio y a falta de pacto en contrario.
 
 **Sociedad en Comandita**: Aquella en que uno o más de los socios se obligan hasta la concurrencia de sus aportes.
+
+**Solemnidad**: Son aquellos requisitos que establece la ley como indispensables para la existencia misma o para la validez del acto jurídico, exigidos en atención a la naturaleza o especie del acto o contrato
 
 **Substanciar**: Conducir un asunto o juicio por el procedimiento judicial adecuado hasta ponerlos en estado de sentencia.
 
@@ -728,7 +753,7 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Transacción**: Es un contrato en que las partes terminan extrajudicialmente un litigio eventualmente mediante concesiones recíprocas.
 
-**Traslado**: Es el acto por el cual se pone en conocimiento de un de las partes la petición formulada por la contraria para que a su vez efectúe sus alegaciones.
+**Traslado**: Es el acto por el cual se pone en conocimiento de las partes la petición formulada por la contraria para que a su vez efectúe sus alegaciones.
 
 **Tribunal Unipersonal Accidental o de Excepción**: Son aquellos formados por jueces que forman parte de los tribunales superiores colegiados de competencia territorial que sólo se constituyen para conocer de determinadas causas una vez que el conflicto en que deben intervenir se ha suscitado.
 

@@ -65,7 +65,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
 ## 1.1. Teoría de la Ley
 
-- Concepto
+### Concepto
 
     Planiol. "Es una regla social obligatoria, establecida con carácter de permanente por la autoridad pública, y sancionada por la fuerza".
 
@@ -75,7 +75,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
         art. 63 Sólo son materias de ley: Nº 20, toda otra norma de carácter general y obligatoria que estatuya las bases esenciales de un ordenamiento jurídico.
 
-- Clasificación
+### Clasificación
 
     1. Normativas, Modificatorias, Interpretativas
     - prohibitivas
@@ -101,7 +101,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
         Son aquellas que confieren un derecho que queda entregado al arbitrio del titular, y otorgan a el, los medios para obtener el reconocimiento de su derecho o la indemnización de los perjuicios que le acarrea su desconocimiento.
 
-- Efectos en el tiempo
+### Efectos en el tiempo
 
     art. 6 La ley no obliga sino una vez promulgada en conformidad a la CPR y publicada conforme a las normas establecidas en los art. 7 y 8 CC.
 
@@ -123,17 +123,17 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
         - Derechos adquiridos
 
-            Derecho que por un hecho o acto del hombre o solo ministerio de la ley se ha incorporado al patrimonio, también se entiende por la facultad legalmente ejercida
+            Derecho que por un hecho o acto del hombre o solo ministerio de la ley se ha incorporado al patrimonio, también se entiende por la facultad legalmente ejercida.
 
         - Meras expectativas
 
-            Derecho no incorporado al patrimonio o facultad no ejercida legalmente
+            Derecho no incorporado al patrimonio o, facultad no ejercida legalmente
 
     - Ultractividad de la ley
 
         art. 22 LERL "en todo contrato se entenderán incorporadas las leyes vigentes al tiempo de su celebración". Es decir, que pese a la modificación de las leyes, aquellas que se entendían incorporadas al contrato permanecerán vigentes.
 
-- Efectos en el territorio
+### Efectos en el territorio
     - Territorialidad
 
         art. 14 CC "la ley es obligatoria para todos los habitantes de la república, incluso los extranjeros".
@@ -177,9 +177,11 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
         - Excepción o salvedad
             1. respecto a los bienes situados en Chile que forman parte del haber de la sucesión
             2. art. 998 tendrán los chilenos a  título de herencia, la porción conyugal o de alimentos los mismos derechos que según las leyes chilenas les correspondería.
-- Interpretación
 
-    Consiste en fijar su verdadero sentido y alcance, para lo cual se ha establecido las actividades indispensables para aplicar el derecho. Art. 19 a 24 CC
+### Interpretación de la Ley
+
+    Consiste en fijar su verdadero sentido y alcance, para lo cual se ha establecido un conjunto de actividades indispensables para aplicar el derecho a través de un sistema de interpretación reglada en los art. 19 a 24 CC
+    Elementos de interpretación:
 
     - Elemento gramatical
 
@@ -205,28 +207,31 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
 # 2. Acto Jurídico
 
-- Hecho jurídico
+### Hecho jurídico
 
     Es todo suceso del hombre o de la naturaleza que produce efectos jurídicos
 
     - clasificación
-        1. con intención de producir efectos jurídicos = contratos
-        2. sin intención de producir efectos jurídicos = lícitos (cuasicontratos), ilícitos (delitos, cuasidelitos)
-- La relación jurídica
+        1. **con** intención de producir efectos jurídicos = **contratos**
+        2. **sin** intención de producir efectos jurídicos
+		- lícitos = **cuasicontratos**
+		- ilícitos = **delitos, cuasidelitos**
+
+### La relación jurídica
 
     Es aquella que existe entre dos o más personas, la cual está regulada por el derecho objetivo.  Este derecho objetivo le atribuye a uno de ellos un poder y al otro un deber de encontrarse en la necesidad jurídica de cumplir una determinada prestación para satisfacer el interés que el sujeto titular del derecho está llamado a realizar con el ejercicio de una acción que garantiza dicho derecho.
 
-- Acto jurídico
+### Acto jurídico
 
     Es la manifestación o declaración de voluntad con la intención de producir efectos jurídicos, los que pueden crear, modificar, transferir, transmitir o extinguir derechos y obligaciones recíprocas. Hay autores que agregan al final que dichos efectos son deseados por el autor o las partes y sancionados por el derecho.
 
     - requisitos
-        - de existencia
+        - de **existencia**
             1. la voluntad
             2. el objeto
             3. la causa
             4. solemnidades cuando lo exige la ley
-        - de validez
+        - de **validez**
             1. voluntad exenta de vicios
             2. objeto lícito
             3. causa lícita
@@ -320,11 +325,24 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
         Una de las partes, el oferente, fija de antemano todas las condiciones del contrato y la otra parte sólo puede adherir a ellas o rechazarlas en bloque. El adherente nada puede cambiar. Son dirigidos al público en general, la oferta se formula por un tiempo prolongado. El CC no los regula. Para impedir o morigerar la iniquidad se promulgó la ley del consumidor.
 
-## 2.4. Requisitos del Acto Jurídico
+### Requisitos del Acto Jurídico
 
-- La voluntad
-    - requisitos
-        - exteriorizarse
+- Son Requisitos de Existencia del Acto Jurídico:
+	- Voluntad
+	- Objeto
+	- Causa
+	- Solemnidades en los casos que la ley lo exige
+
+- Son Requisitos de Validez del Acto jurídico:
+	- Voluntad exenta de vicios
+	- Objeto lícito
+	- Causa lícita
+	- Capacidad de las partes
+
+
+- La Voluntad
+    - requisitos:
+        - a) exteriorizarse
 
             La voluntad debe manifestarse ya sea de manera expresa o tácita. El silencio no se considera expresión de voluntad. Se entiende que es en términos expresos aquella que se manifiesta en términos claros, directos. Se entiende que es tácita aquella que se deduce inequívocamente del comportamiento de la persona.
 
@@ -332,7 +350,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
                 1. Cuando las partes lo hayan acordado, como en el caso de la cláusula de renovación automática en la sociedad
                 2. Cuando la ley le reconoce eficacia como en el caso del art. 2125 (caso del mandado respecto a aquellas personas que por su profesión u oficio se encargan de negocios ajenos, de aceptar o no el encargo, su silencio se mirará como aceptación), o art. 1956 inc. 3 en el caso de la tácita reconducción.
                 3. Silencio circunstanciado, el que va acompañado de otras circunstancias que permiten considerarlo como manifestación
-        - debe ser seria
+        - b) debe ser seria
 
             Es decir, con la intención de obligarse y formulada por persona capaz
 
@@ -341,20 +359,22 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
         En los actos jurídicos bilaterales el análisis de la voluntad es doble. Es decir, se estudia el acuerdo de dos o más voluntades sobre un mismo acto jurídicos que se complementan. La voluntad aquí se denomina consentimiento. Se rigen por las normas establecidas en el C. de Com. art. 97 y ss. y solamente se aplica a los actos consensuales y no a los formales ni a los reales.
 
         - formación del consentimiento
-            - oferta
+            - a) oferta
 
                 Acto jurídico unilateral en que una persona le **propone** la celebración de un acto o contrato a otra.
 
                 1. Seria
                 2. Completa
                 3. Destinada a celebrar un acto j.
-            - aceptación
+
+            - b) aceptación
 
                 Acto j. unilateral por el cual la persona a quien va dirigida la oferta se adhiere o manifiesta su conformidad.
 
                 1. pura y simple
                 2. en tiempo oportuno (dentro del plazo)
                 3. tempestiva (mientras se encuentra vigente la oferta)
+
         - momento en que se perfecciona
             - aceptación
 
@@ -376,8 +396,8 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
             en la residencia del que hubiere aceptado la propuesta
 
-    - los vicios del consentimiento
-        - error
+- Los Vicios del Consentimiento
+        - a) error
 
             consiste en la falta de conocimiento o la errónea representación de la realidad que puede recaer sobre una persona, un hecho o la ley
 
@@ -418,7 +438,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
                 1. debe ser compartido por todos o mayoría
                 2. debe ser excusable, tener justo motivo
                 3. buena fe
-        - fuerza
+        - b) fuerza
 
             consiste en la coacción física o moral, actual  o inminente, dirigida sobre la voluntad de una persona, con actos materiales o por medio de amenazas, para determinarla a consentir en un acto jurídico. Cuando es moral vicia el consentimiento, cuando es física no vicia el consentimiento, simplemente no hay voluntad.
 
@@ -439,7 +459,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
                     al momento de prestarse el consentimiento
 
-        - dolo
+        - c) dolo
             1. es la intención positiva de inferir injuria a la persona o propiedad de otro
             2. es un vicio del consentimiento constituido por la maquinación fraudulenta destinada a que una persona preste su consentimiento para la celebración de un acto o contrato.
             - clasificación
@@ -457,7 +477,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
                 2. no puede condonarse con anticipación
 - la capacidad
 
-    se refiere a la capacidad de ejercicio, la aptitud de obligarse por sí mismo sin la autorización o ministerio de otra persona.
+    Se refiere a la capacidad de ejercicio, la aptitud de obligarse por sí mismo sin la autorización o ministerio de otra persona.
 
     - clasificación
 
@@ -479,8 +499,9 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
             1. menores adultos
             2. los disipadores que se hallen bajo interdicción de administrar lo suyo
             - cómo deben actuar?
-                1. autorizados por su representante legal
-                2. a través de sus representantes legales
+	    	Deben cumplir con las llamadas "formalidades habilitantes".
+                1. **autorizados** por su representante legal
+                2. **a través** de sus representantes legales
             - sanción
 
                 n. relativa
@@ -494,6 +515,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
             2. art. 1796 CV entre cónyuges = n. absoluta
             3. art. 1798 CV empleado público, bienes públicos que se vendan por su ministerio = n. absoluta
             4. art. 114 menor adulto se casare sin consentimiento de su ascendiente = desheredamiento (testamentaria) y mitad de la porción que le hubiere correspondido (abintestato)
+
 - El objeto
 
     art. 1460 toda declaración de voluntad debe tener por objeto una o más cosas que se trata de dar, hacer o no hacer.
@@ -509,7 +531,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
             2. físicamente posible
             3. moralmente posible
             4. lícito
-    - casos de objeto ilícito
+    - casos de objeto ilícito en el CC
         1. actos y contratos contrarios al Dº público chileno
         2. pacto de sucesión de futura
         3. condonación del dolo futuro
@@ -586,7 +608,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
     - clasificación
         - solemnidades
 
-            requisitos que establece la ley como indispensables para la existencia misma o para la validez del acto jurídico, exigidos en atención a la naturaleza o especie del acto o contrato
+            Requisitos que establece la ley como indispensables para la existencia misma o para la validez del acto jurídico, exigidos en atención a la naturaleza o especie del acto o contrato
 
             sanción = inexistencia, n. absoluta
 
@@ -620,7 +642,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
     consisten en elementos accidentales que se pueden introducir por las partes en virtud del principio de autonomía de la voluntad que tiene por propósito alterar los efectos propios del acto jurídico, ya sea con relación a su nacimiento, exigibilidad o extinción del mismo.
 
-- la condición
+### La Condición
 
     consiste en un hecho futuro e incierto del cual depende el nacimiento o extinción de un derecho
 
@@ -640,7 +662,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
         2. CRT = envuelta en todos los contratos bilaterales, de no cumplirse por una de las partes lo pactado.
         3. Pacto comisorio = CRT expresada
 
-- el plazo
+### El Plazo
 
     consiste en un hecho futuro y cierto del cual depende la exigibilidad o extinción de un acto
 
@@ -649,77 +671,113 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
         2. expreso o tácito
         3. suspensivo y extintivo
     - extinción del plazo
-        - renuncia
+        - Renuncia
 
             si mira el solo interés del deudor puede ser renunciado por él.
 
             su mira el interés de ambas partes, no puede ser renunciado por una de ellas sin el consentimiento de la otra
 
-        - vencimiento
+        - Vencimiento
 
             llegada del día establecido
 
-        - caducidad
+        - Caducidad
 
-            (concepto en materia de obligaciones pag. 146) "es una sanción legal que consiste en la extinción de un derecho por no haberse ejercido o cumplido una formalidad legal dentro del plazo fatal que la misma ley establece"
+(concepto en materia de obligaciones pag. 146) "Es una sanción legal que consiste en la extinción de un derecho por no haberse ejercido o cumplido una formalidad legal dentro del plazo fatal que la misma ley establece"
+Institución de la cual el acreedor puede ejercer su derecho, aun encontrándose pendiente el plazo, en los casos que la ley lo establece o que se hubiere convenido expresamente.
+Clases de caducidad:
+            - caducidad legal = deudor en procedimiento concursal o notoria insolvencia, deudor cuyas cauciones han disminuido por hecho o culpa suya.
 
-            institución de la cual el acreedor puede ejercer su derecho, aun encontrándose pendiente el plazo, en los casos que la ley lo establece o que se hubiere convenido expresamente.
+            - convencional = casos establecidos expresamente por las partes.
 
-            caducidad legal = deudor en procedimiento concursal o notoria insolvencia, deudor cuyas cauciones han disminuido por hecho o culpa suya.
+### El Modo
 
-            convencional = casos establecidos expresamente por las partes.
-
-- el modo
-
-    es el gravamen que se impone al beneficiario de una liberalidad. No suspende la adquisición de la asignación, sin embargo, si está establecida en beneficio de un tercero, éste puede exigir su cumplimiento forzado. Entre vivos también se puede establecer siguiendo las reglas del pacto comisorio (si se establece en contrato que no sea CV o permuta) o de la CRT en caso de contrato bilateral
+    Es el gravamen que se impone al beneficiario de una liberalidad. No suspende la adquisición de la asignación, sin embargo, si está establecida en beneficio de un tercero, éste puede exigir su cumplimiento forzado. Entre vivos también se puede establecer siguiendo las reglas del pacto comisorio (si se establece en contrato que no sea CV o permuta) o de la CRT en caso de contrato bilateral
 
 ## 2.6.  Ineficacia de los Actos Jurídicos
 
 - Qué es la eficacia de los actos jurídicos?
 
-    Es la capacidad de lograr el efecto que se desea o espera
+    Es la capacidad que debe tener el acto jurídico para lograr el efecto que se desea o espera.
 
-- Defina ineficacia en sentido amplio
+- Ineficacia en sentido amplio
 
-    Consiste en que un acto no genera sus efectos propios desde el momento mismo en que se otorgó o celebró o, cuando habiendo generado sus efectos, deja de producirlos por cualquier causa. Esta definición incluye la nulidad y la inexistencia (ineficacia originaria)
+    Se entiende por tal, cuando: a) un acto no genera sus efectos propios desde el momento mismo en que se otorgó o celebró; b) cuando habiendo generado sus efectos, deja de producirlos por cualquier causa.
+    Dado lo anterior, podemos afirmar que esta definición incluye tanto la nulidad, como la inexistencia (ineficacia originaria)
 
     - inexistencia
 
-        consiste en una sanción civil establecida para la omisión de los requisitos de existencia de un acto, es decir, voluntad o consentimiento, objeto, la causa, o solemnidades.
+        consiste en una sanción civil establecida para la omisión de los requisitos de **existencia** de un acto, es decir, voluntad o consentimiento, objeto, la causa, o solemnidades.
 
     - nulidad
 
-        es una sanción civil establecida para la omisión de los requisitos y formalidades que se prescriben para el valor del acto según su especie o calidad de las partes
+![Alt text](1681.png?raw=true)
 
         - efectos
-            1. solo una vez declarada por sentencia judicial ejecutoriada
+            1. sólo se producen una vez declarada por sentencia judicial ejecutoriada
             2. volver a las partes al estado que tenían antes de la celebración del acto nulo
             3. realizar las restituciones recíprocas
             - respecto a terceros
 
                 declarada judicialmente da acción reivindicatoria frente a terceros
-
-                - (A)no da acción reinvindicatoria
+Excepciones:
+                - (A) No da acción reivindicatoria respecto:
                     1. rescisión por lesión enorme
                     2. muerte presunta
                     3. donación entre vivos
                     4. tercero poseedor que adquiere por prescripción
                     5. acción de indignidad para suceder
+
+	- clases
+
+- Nulidad Absoluta
+
+	Es la sanción legal impuesta a la omisión de los requisitos exigidos en consideración a la naturaleza o especie del acto.
+	Procede en los ss. casos:
+	a) Falta requisito de existencia
+	b) Objeto o causa ilícita
+	c) Actos de los absolutamente incapaces
+	d) Error esencial
+
         - titulares
-            - n. absoluta
                 1. juez, aparezca de manifiesto
                 2. todo aquél que tenga interés pecuniario en ello
-                3. MP en interés de la moral y la ley
-            - n. relativa
-                1. persona a cuyo beneficio se ha establecido
-                2. sus herederos
-                3. cesionarios
-                4. no puede ser declarada de oficio, ni solicitarla el MP
+                3. por el ministerio público en interés de la moral y la ley
+	- Características
+		1. puede y debe ser declarada de oficio por el juez
+		2. puede alegarla todo el que tenga interés
+		3. puede solicitarla el ministerio público
+		4. no puede ratificarse	   \
+		5. es irrenunciable        / Es de orden público
+		6. no se produce de pleno derecho (al igual que la relativa)
+
+- Nulidad Relativa
+	Es la sanción por la omisión de algún requisito o formalidad que la ley exige en atención al estado o calidad de las partes. Está establecida para proteger los intereses de ciertas y determinadas personas, por lo que, no protege intereses generales.
+	Procede:
+	a) respecto de los acto de los relativamente incapaces cuando se omiten las formalidades habilitantes.
+	b) respecto del dolo principal y determinante
+	c) Error substancial
+	d) Fuerza moral
+	c) Error accidental
+	f) Error en la persona
+	g) Omisión de un requisito establecido para la validez del acto
+	h) En los casos en que se establece como sanción respecto a la lesión
+	- Titulares
+		1. personas en cuyo beneficio se ha establecido la norma
+		2. herederos
+		3. cesionarios
+	- Características
+		+ puede sanearse
+			+ por el trascurso del plazo para pedir rescisión = 4 años
+			+ por la voluntad de las partes = ratificación o confirmación (salvo declaración judicial)
+		+ da lugar la acción reivindicatoria
+		+ procedimiento: juicio ordinario
+
 - Defina ineficacia en el sentido estricto
 
     La causa de ineficacia se origina después de haberse otorgado o celebrado el acto. Es decir, el acto jurídico por sí idóneo, no genera sus efectos o deja de producirlos, por un hecho extrínseco, una circunstancia usualmente sobreviniente o coetáneas y extrañas a su estructura.
 
-    - (A)Señale los casos de ineficacia en sentido estricto:
+    - Señale los casos de ineficacia en sentido estricto:
         - La suspensión
 
             Los efectos de un acto están subordinados a la ocurrencia de un hecho. Puede ser producto de la voluntad de las partes, como en el caso de la condición suspensiva o del plazo suspensivo o, puede ser producto de la ley en el caso de una condición legal como es el caso de las disposiciones testamentarias.

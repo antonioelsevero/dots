@@ -1,8 +1,6 @@
 
-# Git
-* falta revisar ortografía de [[humanos]] y [[procesal]].
-
-
+#Formatear Fat32
+sudo mkfs.vfat -F 32 -n Mi_Memoria /dev/sdc1
 
 
 # Orrego - ordenamiento jurídico
