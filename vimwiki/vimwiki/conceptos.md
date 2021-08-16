@@ -115,6 +115,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Caducidad**: Es una sanción legal que consiste en la extinción de un derecho por no haberse ejercido o cumplido una formalidad legal dentro del plazo fatal que la misma ley establece.
 
+**Capacidad**: En términos generales, es la aptitud de una persona para adquirir derechos y contraer obligaciones y poder ejercerlos y cumplirlos por sí misma.
+
 **Capitulaciones Matrimoniales**: Son convenciones de carácter patrimonial que celebren los esposos antes de contraer matrimonio o en el acto de su celebración.
 
 **Carga**: Supone la subordinación de uno o más intereses del titular de ellos a otros intereses del mismo.
@@ -254,6 +256,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Divorcio**:  Es una resolución judicial que pone término al matrimonio, pero que no afecta en modo alguno la filiación ya determinada no los derechos y obligaciones que emanan de ella.
 
+**Domicilio**: Atributo de la personalidad que consiste en la reidencia acompañada real o presuntiva de la intención de permanecer en ella.
+
 **Donaciones entre Vivos**: Es un acto por el cual una persona trasfiere gratuitamente e irrevocablemente una parte de sus bienes a otra persona, que la acepta. También llamada donación irrevocable.
 
 **Donaciones Revocable**: Es un acto jurídico unilateral por el cual una persona da o promete dar a otra una cosa o derecho para después de su muerte, conservando la facultad de revocarla mientras viva.
@@ -285,6 +289,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Equidad**: Calidad de una persona que la hace juzgar o actuar con un sentido natural de lo que es justo.
 
 **Erogación**: Distribuir, repartir bienes o caudales. Gastar el dinero.
+
+**Estado Civil**: Es un atributo de la personalidad que lo habilita para ejercer ciertos derechos o contraer cietas obligaciones civiles.
 
 **Estipulación a Favor de Otro**: Es un contrato en que una de las partes, el estipulante conviene con la otra, promitente, que ésta realizará una determinada prestación en favor de un tercero extraño a la convención, el beneficiario.
 
@@ -483,6 +489,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Moral**: Es un conjunto de normas y principios basados en la cultura y las costumbres de un determinado grupo.
 
+**Muerte Presunta** (art. 81 CC): Se presume muerto el individuo que ha desaparecido, ignorándose si vive, y verificándose las condiciones que van a expresarse.
+
 **Mutatis Mutandis**: Cambiando lo que se deba cambiar.
 
 **Mutuo**: O préstamo de consumo, es un contrato en que una de las partes entrega a la otra cierta cantidad de cosas fungibles con cargo de restituir otra tantas del mismo género y calidad.
@@ -492,6 +500,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 
 ## N
+
+**Nacionalidad**: Es el vínculo de derechos y obligaciones que une a un indivíduo con un Estado, por el hecho de haber adquirido la nacionalidad por alguna de las causales establecidas en la Constitución.
 
 **Normas Morales de los Sistemas Religiosos y Filosóficos**: Se forman a partir del mensaje o testimonio de los fundadores de las religiones, o del que dan y establecen determinados pensadores o filosóficos, se expresan también en máximas, principios y normas por las que rigen su conducta moral las personas que adhieren al credo religioso o filosófico que se trate.
 
@@ -555,6 +565,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Perjuicio**: Cualquier detrimento o daño que experimente el patrimonio de una persona, sea que signifique una disminución real o ejecutiva de él, sea que sólo importe la privación de obtener una utilidad o ganancia. Pérdida efectiva o daño emergente. Pérdida de ganancia o lucro cesante.
 
+**Persona** (art. 55 CC): Son personas todos los individuos de la especie humana, cualquiera sea su edad, sexo, estirpe o condición.
+
 **Persona Jurídica**: Es una persona ficticia capaz de ejercer derechos y contraer obligaciones civiles (y penales), y de ser representada judicial y extrajudicialmente.
 
 **Plazo**: Consiste en un hecho futuro y cierto del cual depende la exigibilidad o extinción de un acto.
@@ -580,6 +592,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Prescripción Extintiva**: Es un modo de extinguir las acciones y derechos ajenos por no habérselas ejercido (por su titular), durante cierto lapso de tiempo, y concurriendo los demás requisitos legales. No extingue la obligación civil sino que su acción para exigir su cumplimiento, transformándola en natural.
 
 **Prestaciones Mutuas**: Son los hechos y pagos que el poseedor vencido debe hacer en favor del reivindicante y que éste a su vez debe hacer en favor del poseedor.
+
+**Presunción de Muerte**: Se presume muerto el individuo que h desaparecido, ignorándose si vive, y verificándose las condiciones requeridas por la legislación.
 
 **Presunciones**: Son las consecuencias jurídicas que la ley o el tribunal infiere de ciertos antecedentes o de hechos conocidos para llegar a establecer un hecho desconocido y controvertido en el proceso.
 

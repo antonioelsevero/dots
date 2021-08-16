@@ -869,7 +869,7 @@ Excepciones:
 
         art. 55 Son personas todos los individuos de la especie humana, cualquiera sea su edad, sexo, estirpe o condición
 
-        - Cuales son los requisitos para que el nacimiento constituya principio de existencia legal de la persona
+        - Requisitos para que el nacimiento constituya principio de existencia legal de la persona:
             1. Que sea separado completamente de la madre
             2. Debe haber sobrevivido a la separación un momento siquiera
         - Qué es y hasta cuando dura la existencia natural de la persona?
@@ -878,23 +878,23 @@ Excepciones:
 
         - Presunción de concepción
 
-            art. 76 se presume de derecho que la época de concepción ha precedido al nacimiento en no menos de 180 día y no más de 300, contados hacia atrás, **desde la medianoche en que principie el día del nacimiento**.
+            art. 76 se presume de derecho que la época de concepción ha precedido al nacimiento en no menos de 180 días y no más de 300, contados hacia atrás, **desde la medianoche en que principie el día del nacimiento**.
 
         - Qué efectos produce el nacimiento de una persona?
-            1. Se termina la existencia natural y se da comienzo a la existencia legal
-            2. Nacen los atributos de la personalidad
-            3. art. 77 los derechos patrimoniales que se encontraban en suspenso se radican en el recién nacido. Por lo que, si fallece, los transmitirá a sus herederos.
+            1. Se termina la existencia natural y se **da comienzo a la existencia legal**
+            2. Nacen los **atributos de la personalidad**
+            3. art. 77 los derechos patrimoniales que se encontraban en suspenso *se radican en el patrimonio* del recién nacido. Por lo que, si fallece, los transmitirá a sus herederos.
         - Hasta cuándo dura la existencia legal de la persona?
 
-            art. 78 La persona termina en la muerte natural. Consiste en la cesación de los fenómenos de la vida, de las funciones respiratorias y encefálicas.
+            art. 78 La persona (se refiere a la existencia legla) termina en la muerte natural. Consiste en la cesación de los fenómenos de la vida, de las funciones respiratorias y encefálicas.
 
         - Como se clasifica la muerte?
             - Muerte real
 
                 Es aquella que efectivamente consta que la persona murió y se certifica el cese de sus funciones vitales por un medico.
 
-                - (A)Qué efectos produce la muerte real de la persona?
-                    1. Da origen a la SCM
+                - Qué efectos produce la muerte real de la persona?
+                    1. Da origen al modo de adquisición del dominio que es la sucesión por causa de muerte
                     2. Pone fin a la personalidad del individuo (existencia legal)
                     3. Pone fin al matrimonio
                     4. Pone fin a la patria potestad
@@ -919,24 +919,26 @@ Excepciones:
                     2. Que se haga conforme a las disposiciones procesales del CPC
                     3. Que el indivíduo haya desaparecido
                     4. Que no se tenga noticia de su existencia
-                - Etapas de la muerte presunta
+
+                - Periodos o etapas de la muerte presunta
                     1. mera ausencia
                     2. posesión provisoria
                     3. posesión definitiva
+
                 - Quiénes pueden pedir la declaración de muerte presunta?
 
-                    Cualquiera que tenga interés pecuniario en su declaración. Los acreedores  pueden dirigirse al apoderado del ausente o provocar el nombramiento de un curador
+                    Cualquiera que tenga interés (*pecuniario*) en su declaración. Los acreedores  pueden dirigirse al apoderado del ausente o provocar el nombramiento de un curador.
 
                 - Quién es competente para declarar la muerte presunta de una persona?
 
                     art. 81 CC y 151 COT el juez del último domicilio que el desaparecido haya tenido en Chile.
 
                 - Formalidades para la solicitud de declaración de muerte presunta
-                    1. los interesados deben justificar que se ignora el paradero del desaparecido y que se han hecho las posibles diligencias para encontrarlo
-                    2. citación del desaparecido, por 3 veces con diferencia de 2 meses entre cada una en el periódico oficial
-                    3. intervención del defensor de ausente (defensor público)
-                    4. todas las sentencias (interlocutorias y definitivas) deben ser insertadas en periódico oficial
-                    5. fijación del día presuntivo de la muerte (r. g. el último día del primer bienio)
+                    1. los interesados deben justificar que **se ignora** el paradero del desaparecido y que se han hecho las posibles diligencias para encontrarlo
+                    2. **citación** del desaparecido, por 3 veces con diferencia de 2 meses entre cada una en el periódico oficial
+                    3. intervención del **defensor de ausente** (defensor público)
+                    4. todas las sentencias (interlocutorias y definitivas) deben ser **insertadas en periódico oficial**
+                    5. fijación del **día presuntivo** de la muerte (r. g. el último día del primer bienio)
                 - Qué es el periodo de mera ausencia?
 
                     Es el que dura desde la fecha de las últimas noticias respecto del desaparecido hasta el decreto de posesión provisoria o definitiva, o por la reaparición del desaparecido o con la confirmación de su muerte.
@@ -945,15 +947,24 @@ Excepciones:
                         1. Si el desaparecido tiene representante legal le corresponderá a el
                         2. Si dejo mandatario, le corresponderá a el
                         3. Si no dejó mandatario y no tiene representante legal, se nombrará curador de ausentes (su nombramiento puede ser provocado por cualquiera que tenga interés patrimonial en ello)
+
+		- Término del periodo de mera ausencia:
+			- Decreto de posesión provisoria
+			- Decreto de posesión definitiva
+			- Reaparecimiento del ausente
+			- Conocimiento positivo de la fecha de muerte real del desaparecido.
+
                 - Qué es la posesión provisoria?
 
                     Es aquella que empieza con la resolución que la declara y termina con la resolución judicial que concede la posesión definitiva.
 
-                    - (A)la cual, produce los siguientes efectos
+                    - la cual, produce los siguientes *efectos*
                         1. disuelve la sociedad conyugal
                         2. se procederá a la apertura y publicación del testamento
                         3. emancipación legal de los hijos, salvo que correspondiera al otro cónyuge
                         4. la posesión provisoria sobre los bienes del desaparecido a los herederos presuntivos
+
+
                 - Qué es la posesión definitiva?
 
                     Es la resolución judicial que se declara cuando termina la posesión provisoria, produciendo los siguientes efectos:
@@ -964,15 +975,19 @@ Excepciones:
                     4. se terminan las limitaciones para disponer de los bienes del desaparecido que tenían los herederos presuntivos
                     5. se pueden hacer valer los derechos sujetos a la muerte del desaparecido, como en el caso del usufructo
                     6. los legatarios pueden exigir sus derechos.
+
                     - Cuando se decreta la posesión definitiva?
                         1. cuando cumplido los 5 años (de la última noticia), se probare que el desaparecido tiene más de 70 años.
                         2. Inmediatamente con el transcurso de los 5 años desde la fecha de la herida grave en la guerra o peligro similar
                         3. Inmediatamente transcurrido 3 meses desde la fecha de la última noticia que se tuvieron de la nave o aeronave reputada perdida
                         4. Inmediatamente luego de 6 meses desde sismo o catástrofe
                         5. en último caso, transcurrido 10 años desde la última noticia
+
                 - Qué obligaciones protegen los bienes del desaparecido?
                     1. inventario solemne
                     2. caución de conservación y restitución
+
+
                 - Cuando autoriza la ley a pedir rescisión del decreto judicial de muerte presunta?
                     1. si se tuvieren noticias de la existencia del desaparecido
                     2. si hubiere noticias de la muerte real del desaparecido
@@ -981,8 +996,8 @@ Excepciones:
                     1. del desaparecido que reaparece
                     2. los legitimarios habidos durante el desaparecimiento
                     3. cónyuge
-        - Cuales son los atributos de la personalidad
-            - la nacionalidad
+        - Son los atributos de la personalidad:
+            - a) la nacionalidad
 
                 Consiste en el vínculo de derechos y obligaciones que une a individuo con el Estado por el hecho de haber adquirido la nacionalidad por alguna de las causales que establece la CPR
 
@@ -992,7 +1007,7 @@ Excepciones:
                 2. Los hijos de padre o madre chilenos, nacidos en territorio extranjero
                 3. Los extranjeros que obtuvieren carta de nacionalización en conformidad a la ley
                 4. Los que obtuvieren especial gracia de nacionalización por ley
-                - Como se pierde la nacionalidad?
+                - Como se pierde la nacionalidad (art. 11 CPR)?
                     1. Por **renuncia voluntaria** si la persona se ha nacionalizado en país extranjero
                     2. Por **Decreto Supremo** en caso de prestación de servicios durante una guerra exterior a enemigos de Chile
                     3. Por **ley** que revoque la nacionalización concedida por gracia
@@ -1092,6 +1107,12 @@ Excepciones:
 
                     Se refiere a la capacidad de ejercicio, la cual se entiende como la que tiene una persona para obligarse a sí misma, sin el ministerio o la autorización de otra
 
+			- Por lo que, se clasifica de la siguiente manera:
+
+				a) capacidad de goce = aptitud para *adquirir*
+
+				b) capacidad de ejercicio = aptitud para ejercer derechos y cumplir por sí mismo, sin el ministerio o autorización de otra
+
             - el patrimonio
 
                 Es una universalidad de bienes y deudas apreciables en dinero que constituye un atributo de la personalidad
@@ -1113,7 +1134,7 @@ Excepciones:
             1. Debe ser una entidad distinta e independiente
             2. Que sea reconocida por el Estado derechos y obligaciones
         - Clasificación
-            1. De derecho privado = con fines de lucro (Soc. Industriales = civiles, comerciales); sin fines de lucro (Corporaciones, Fundaciones)
+            1. De derecho privado = **con fines** de lucro (Soc. Industriales = civiles, comerciales); **sin fines** de lucro (Corporaciones, Fundaciones)
             2. De derecho público = son aquellas que representan a la autoridad en sus funciones administrativas como las municipalidades, el fisco.
             - diferencias
                 1. respecto a la iniciativa = resolución de una autoridad, iniciativa de particulares
@@ -1166,7 +1187,7 @@ Excepciones:
             2. respecto a su patrimonio, en la corporación éste se va suministrando por sus miembros a diferencia de la fundación que está dado por su fundador y dirigido al fin de la misma.
             3. respecto a la voluntad de la persona jurídica, en la fundación está determinada para siempre por la voluntad de su fundador, a diferencia de la corporación que la constituye la voluntad de sus miembros
         - Responsabilidad
-            - responsabilidad penal
+            - responsabilidad penal de la persona jurídica
 
                 Ley 20.393 sólo respecto a determinados delitos como el de lavado de activos, financiamiento del terrorismo, cohecho de funcionario público. Afecta a las personas jurídicas de derecho privado con o sin fines de lucro y a empresas del Eº.
 
@@ -1179,25 +1200,27 @@ Excepciones:
                 3. perdida total o parcial de beneficios fiscales o prohibición absoluta de recepción de los mismos por un período determinado
                 4. multa a beneficio fiscal de 200 a 20.000 UTM
             - responsabilidad civil
-                - contractual
+                - a) contractual
 
-                    además de los requisitos comunes para que el juez acceda a la indemnización de perjuicios, se dice que se requiere:
+                    Además de los requisitos comunes para que el juez acceda a la indemnización de perjuicios, se dice que se requiere:
 
                     1. que se contraiga obligación a nombre de la persona jurídica
                     2. que se tenga personería suficiente, que no excedan los límites de su mandato
-                - extracontractual
+                - b) extracontractual
 
-                    art. 2320 tenga o no representación. Señala el articulo que "toda persona es responsable no sólo de sus propias acciones, sino del hecho de aquellos que estuvieren a su cuidado" inc. 4º, "empresarios del hecho de sus aprendices o dependientes".
+                    art. 2320 tenga o no representación. Señala el articulo que "toda persona es responsable no sólo de sus propias acciones, *sino (también) del hecho de aquellos que estuvieren a su cuidado*". Luego, lo ejemplifica el inc. 4º, "empresarios del hecho de sus aprendices o dependientes".
+
+					![Alt text](2320.png?raw=true)
 
                     - ocasionados por delito o cuasidelito penales y civiles
 
                         art. 58 inc. 2º CPP relacionado con el art. 2314. Por las personas jurídicas responden los que hubieren intervenido en el acto punible, sin perjuicio de la responsabilidad civil que las afecte.
 
-                        El que ha cometido un delito o cuasidelito que ha inferido daño a otro, es obligado a la indemnización; sin perjuicio de la pena que le impongan las leyes por el delito o cuasidelito.
+                       art. 2314 El que ha cometido un delito o cuasidelito que ha inferido daño a otro, es obligado a la indemnización; sin perjuicio de la pena que le impongan las leyes por el delito o cuasidelito.
 
                     - ocasionado por delito o cuasidelitos exclusivamente civiles
 
-                        art. 2314
+                        Se aplica el art. 2314 El que ha cometido un delito o cuasidelito que ha inferido daño a otro, es obligado a la indemnización; sin perjuicio de la pena que le impongan las leyes por el delito o cuasidelito.
 
 # 4. Objeto del Derecho
 

@@ -1,7 +1,6 @@
 **# WIKI**
 
 
-
 ## ABREVIATURAS
 
 + **rg.**   = *regla general*

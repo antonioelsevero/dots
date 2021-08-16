@@ -1,3 +1,6 @@
+#Captura video y audio
+ffmpeg -video_size 1366x768 -framerate 25 -f x11grab -i :0.0+,30 -f pulse -i default -ac 2 screencast.mp4
+
 
 #Formatear Fat32
 sudo mkfs.vfat -F 32 -n Mi_Memoria /dev/sdc1
