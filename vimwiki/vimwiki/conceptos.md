@@ -18,6 +18,14 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Acción Ejecutiva**: Es aquella que tiene por finalidad obtener el cumplimiento forzado de una obligación cuya existencia consta en un documento indubitado llamado título ejecutivo.
 
+**Acción Oblicua o Subrogatoria**: Consiste en el ejercicio por los acreedores de acciones y derechos que competen al deudor para incorporar al patrimonio de éste bienes en que hacer efectivos sus créditos.
+
+**Acción Reivindicatoria** (art. 889 CC): O acción de dominio es la que tiene el dueño de una cosa singular, de que no está en posesión, para que el poseedor de ella sea condenado a restituírsela.
+
+**Acción Revocatoria o Pauliana**: Es la que tienen los acreedores para obtener que se dejen sin efecto las enajenaciones hechas por el deudor en fraude o con perjuicio a sus derechos.
+
+**Acciones Posesorias**: Son las que tienen por objeto conservar o recuperar la posesión de bienes raíces o de derechos reales constituidos en ellos.
+
 **Acto Jurídico**: Manifestación de voluntad hecha con la intención de producir efectos jurídicos, los que pueden ser de crear, modificar, transferir, transmitir o extinguir derechos y obligaciones recíprocas, las cuales se encuentran sancionadas por el derecho.
 
 **Acervo**: Es la masa de bienes dejada por el causante.
@@ -42,7 +50,7 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Administración Extraordinaria de la Sociedad Conyugal**: Es aquella que corresponde a la mujer o a un tercero como consecuencia de haber sido designado curador del marido o de sus bienes.
 
-**Agencia oficiosa**: También conocida como gestión de negocios ajenos, o gestión de negocios, es un cuasi contrato por el cual el que administra sin mandato los negocios de alguna persona, se obliga con ésta, y la obliga en ciertos casos.
+**Agencia Oficiosa**: También conocida como gestión de negocios ajenos, o gestión de negocios, es un cuasi contrato por el cual el que administra sin mandato los negocios de alguna persona, se obliga con ésta, y la obliga en ciertos casos.
 
 **Albaceas o Ejecutores Testamentarios**: Son aquellos a quienes el testador da el encargo de hacer ejecutar sus disposiciones.
 
@@ -94,6 +102,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Beneficio de División**: Es el que tienen los varios fiadores de un mismo deudor por la misma deuda para que se divida ésta entre ellos, de manera que el acreedor sólo puede exigir a cada uno la cuota que le quepa.
 
+**Beneficio de Excusión** (art. 2357): Es el que tiene el fiador para exigir que, antes de proceder contra él, se persiga la deuda en los bienes del deudor principal, y en las hipotecas o prendas prestadas por éste para la seguridad de la misma deuda.
+
 **Beneficio de Emolumentos** (art. 1777 CC): Es el que tiene la mujer casada bajo sociedad conyugal para responder de las deudas sociales sino hasta la concurrencia del valor de su mitad de gananciales.
 
 **Beneficio de Excusión**: Es el que tiene el fiador para exigir que, antes de proceder contra él, se persiga la deuda en los bienes del deudor principal y en las hipotecas o prendas prestadas por éste. El acreedor está obligado a practicarla cuando se ha pactado y cuando el fiador se obliga a pagar lo que el acreedor no pudiere obtener del deudor.
@@ -107,6 +117,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Bienes Familiares**: El inmueble de propiedad de ambos cónyuges o de alguno de ellos que sirva de resistencia principal de la familia, los muebles que guarnecen el hogar podrá ser declarado bien familiar, derechos y acciones que los cónyuges tengan sociedades propietarias de un inmueble que sea residencia principal de la familia.
 
 **Bienes Reservados de la Mujer Casada** (art. 150 CC): La mujer casa de cualquier edad podrá dedicarse libremente al ejercicio de un empleo, oficio, profesión o industria.
+
+**Buena fe** (art. 706 CC): Es la conciencia de haberse adquirido el dominio de la cosa por medios legítimos, exentos de fraude y de todo otro vicio.
 
 
 
@@ -122,6 +134,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Carga**: Supone la subordinación de uno o más intereses del titular de ellos a otros intereses del mismo.
 
 **Cargas Testamentarias**: O deudas testamentarias son las que emanan del testamento, principalmente los legados y el modo.
+
+**Caso Fortuito**: O fuerza mayor es el imprevisto que no es posible resistir.
 
 **Causa** (art. 1467, inc. 2° CC): Motivo jurídico que induce a la celebración del acto o contrato.
 
@@ -149,6 +163,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Compensación Económica**: Procede si, como consecuencia de haberse dedicado al cuidado de los hijos o a las labores propias del hogar común, uno de los cónyuges no pudo desarrollar una actividad remunerada o lucrativa durante el matrimonio, o lo hizo en menor medida de lo que podía y quería, tendrá derecho a que, cuando se produzca el divorcio o se le declare la nulidad del matrimonio, se le compense el menoscabo económico sufrido por esta causa.
 
+**Compraventa** (art. 1793 CC): Es un contrato en que una de las partes se obliga a dar una cosa y la otra a pagarla en dinero.
+
 **Comunidad**: Es un cuasicontrato en que existen varias personas que tenga derechos de igual naturaleza sobre la misma.
 
 **Confesión**: Consiste en el reconocimiento que uno de los litigantes hace de la verdad de un hecho que puede producir en su contra consecuencias jurídicas.
@@ -165,6 +181,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Costas**: Son los gastos que deben solventar las partes a fin de poder hacer convenientemente sus derechos.
 
+**Convención**: Acuerdo de voluntades destinado a crear, modificar o extinguir derechos y obligaciones
+
 **Cotejo de Letras**: Consiste en la comparación de la letra o firma de un documento privado cuestionado con la de otro documento indubitado, es decir, con otro respecto del cual no exista duda que ha sido escrito o firmado por la misma persona que aparece haber escrito o firmado el que se ha controvertido.
 
 **Cuarta de Mejoras**: Es la cuota con que la ley permite al testador favorecer a uno o más de sus descendientes, ascendientes y cónyuges.
@@ -172,6 +190,12 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Cuantía**: Valor de la cosa disputada. En materia penal se determina por la pena que el delito lleva aparejada.
 
 **Cuasicontrato**: Hecho voluntario lícito no convencional que genera obligación para su autor y que puede generar obligaciones para un tercero fundado en el enriquecimiento injusto o sin causa.
+
+**Cuasidelito Civil**: Es el hecho ilícito cometido sin la intención de dañar.
+
+**Culpa** (art. 44): Es la falta de diligencia en el cuidado en el cumplimiento de una obligación o en la ejecución de un hecho cualquiera.
+
+**Culpa Incontraendo**: La que proviene de un pacto tácito al celebrar un contrato que no se perfeccionó o resultó ineficaz.
 
 
 ## D
@@ -193,6 +217,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Delación**: Es el actual llamamiento que la ley hace al asignatario para aceptar o repudiar la asignación.
 
 **Delimitación** (del derecho): Consiste en precisar el contenido protegido por el derecho.
+
+**Delito Civil**: Es el hecho ilícito cometido con la intención de dañar.
 
 **Demanda**: El acto procesal por el cual el actor ejercita una acción solicitando del tribunal la protección, declaración o constitución de una situación jurídica.
 
@@ -234,6 +260,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Derecho Internacional Humanitario**: Conjunto de normas derivadas del Derecho Internacional aplicable en tiempos de conflictos armados y que tiene por finalidad proteger las personas de participar en las hostilidades y limitar los métodos y medios de hacer la guerra.
 
+**Derechos Personales**: O créditos, son los que sólo pueden reclamarse de ciertas personas, que, por un hecho suyo o la sola disposición de la ley, han contraído las obligaciones correlativas. De estos derechos, nacen las acciones personales.
+
 **Desahucio**: Consisten en el aviso anticipado que una de las partes da a la otra de su voluntad de poner fin al contrato.
 
 **Desarrollo**: Proceso global, económico, social, cultural y político que tiende al mejoramiento constante del bienestar de toda la población y de todos los individuos sobre la base de su participación activa, libre, y significativa en el desarrollo y en la distribución justa de los beneficios que de él se derivan.
@@ -256,7 +284,9 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Divorcio**:  Es una resolución judicial que pone término al matrimonio, pero que no afecta en modo alguno la filiación ya determinada no los derechos y obligaciones que emanan de ella.
 
-**Domicilio**: Atributo de la personalidad que consiste en la reidencia acompañada real o presuntiva de la intención de permanecer en ella.
+**Domicilio**: Atributo de la personalidad que consiste en la residencia acompañada real o presuntiva de la intención de permanecer en ella.
+
+**Dominio** (art. 582 CC): El dominio (que se llama también propiedad), es el derecho real en una cosa corporal, para gozar y disponer de ella arbitrariamente; no siendo contra la ley o contra derecho ajeno. La propiedad separada del goce de la cosa, se llama mera o nuda propiedad. (art. 583) Sobre las cosas incorporales hay también una especie de propiedad.
 
 **Donaciones entre Vivos**: Es un acto por el cual una persona trasfiere gratuitamente e irrevocablemente una parte de sus bienes a otra persona, que la acepta. También llamada donación irrevocable.
 
@@ -380,7 +410,13 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Información Sumaria**: Se entiende por tal la prueba de cualquier especie rendida sin notificación ni intervención de contradictor y sin previo señalamiento de término probatorio.
 
+**Injusto Detentador**: Aquél que, poseyendo a nombre ajeno, retiene indebidamente una cosa, aun cuando lo hace sin ánimo de señor o dueño.
+
 **Inter Alia**: Entre otros.
+
+**Interrupción Civil** (art. 2503 CC): Es todo recurso judicial intentado por el que se pretende verdadero dueño de la cosa, contra el poseedor.
+
+**Interrupción Natural** (art. 2502 CC): Implica una condición de hecho que impide al poseedor realizar actos de posesión, ya sea porque se hizo imposible el ejercicio de actos posesorios o porque otra persona ha entrado en ella.
 
 **Interés Corriente**: Es el interés promedio cobrado por los bancos e instituciones financieras establecidas en Chile en las operaciones que realicen en el país, con exclusión de los comprendidos en el art. 5 y que está establecida por la SBIF.
 
@@ -455,6 +491,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 ## M
 
+**Mandato**: Es un contrato en que una persona confía la gestión de una o más negocios a otra, que se hace cargo de ellos por cuenta y riesgo de la primera.
+
 **Materia**: Es la naturaleza del asunto controvertido, se utiliza para el establecimiento de tribunales especiales.
 
 **Matrimonio**: Es un contrato solemne por el cual un hombre y una mujer se unen actual e indisolublemente, y por toda la vida, con el fin de vivir juntos de procrear y de auxiliarse mutuamente.
@@ -487,6 +525,10 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Modo de Extinguir las Obligaciones**: Es el hecho o acto al que la ley le atribuye el valor de hacer cesar los efectos de las obligaciones.
 
+**Modos de Extinguir las Obligaciones**: Son aquellos motivos o causales por las cuales las obligaciones desaparecen de la vida jurídica.
+
+**Mora**: Es el retardo culpable en el cumplimiento de una obligación, más allá del plazo fijado para su ejecución o que persiste después del requerimiento.
+
 **Moral**: Es un conjunto de normas y principios basados en la cultura y las costumbres de un determinado grupo.
 
 **Muerte Presunta** (art. 81 CC): Se presume muerto el individuo que ha desaparecido, ignorándose si vive, y verificándose las condiciones que van a expresarse.
@@ -518,6 +560,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 ## O
 
+**Ocupación** (art. 606 CC): Es un modo de adquirir por el cual se adquiere el dominio de las cosas que no pertenecen a nadie, y cuya adquisición no es prohibida por las leyes chilenas, o por el derecho internacional.
+
 **Objeto de la Prueba**: Los hechos que se prueba, los cuales deben ser: sustanciales, pertinentes y controvertidos.
 
 **Objeto del Juicio**: Es el beneficio jurídico inmediato que se reclama. Generalmente se encuentra en la parte petitoria de la demanda.
@@ -545,7 +589,7 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Pacto de Retroventa**: Es aquél por el cual el vendedor se reserva la facultad de recobrar la cosa vendida, reembolsando al comprador la cantidad determinada que se estipulare o en defecto de esta estipulación lo que haya costado la compra.
 
-**Pago**: Es la acción y el efecto de probar, demostrar de algún modo la certeza de un hecho o la verdad de una afirmación.
+**Pago o Solución**: Es la acción y el efecto de probar, demostrar de algún modo la certeza de un hecho o la verdad de una afirmación.
 
 **Pago con Beneficio de Competencia** (art. 1625 CC): Es el que se concede a ciertos deudores para para no ser obligados a pagar más de lo que buenamente puedan, dejándoseles en consecuencia lo indispensable para una modesta subsistencia según su clase y circunstancia y con cargo de devolución, cuando mejoren de fortuna.
 
@@ -565,6 +609,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Perjuicio**: Cualquier detrimento o daño que experimente el patrimonio de una persona, sea que signifique una disminución real o ejecutiva de él, sea que sólo importe la privación de obtener una utilidad o ganancia. Pérdida efectiva o daño emergente. Pérdida de ganancia o lucro cesante.
 
+**Permuta** (art. 1897 CC): Es el contrato en que las partes se obligan mutuamente a dar una especie o cuerpo cierto por otro.
+
 **Persona** (art. 55 CC): Son personas todos los individuos de la especie humana, cualquiera sea su edad, sexo, estirpe o condición.
 
 **Persona Jurídica**: Es una persona ficticia capaz de ejercer derechos y contraer obligaciones civiles (y penales), y de ser representada judicial y extrajudicialmente.
@@ -572,6 +618,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Plazo**: Consiste en un hecho futuro y cierto del cual depende la exigibilidad o extinción de un acto.
 
 **Poder Coercitivo**: Es la facultad que tienen los tribunales del sistema penal para ordenar directamente la intervención de la fuerza pública y disponer todas las medidas necesarias para el cumplimiento de las actuaciones que ordenare y la ejecución de las resoluciones que dictare.
+
+**Posesión** (art. 700 CC): Es la tenencia de una cosa determinada con ánimo de señor o dueño, sea que el dueño o el que se da por tal tenga la cosa por sí mismo, o por otra persona que la tenga en lugar y a nombre de él. Es reputado dueño mientras otra persona no justifique serlo.
 
 **Posesión Continua**: Es aquella que no ha sido perdida, impedida o desconocida por demanda judicial.
 
@@ -582,6 +630,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Prelación de Crédito**: Es el conjunto de reglas establecidas por ley que determinan el orden y forma en que deben pagarse bienes diversos acreedores de un deudor.
 
 **Prenda**: Se entera una cosa mueble al acreedor para la seguridad de su crédito, dándole la facultad de vender la y pagarse preferentemente con el producto de la venta si el deudor no cumple su obligación.
+
+**Prenda Pretoria**: Es un contrato celebrado por intermedio de la justicia por el que se entrega al acreedor una cosa mueble o inmueble embargada en una ejecución, para que se pague con sus frutos.
 
 **Prenda General de los Acreedores**: Es el derecho de perseguir la ejecución de una obligación sobre todos los bienes raíces o muebles del deudor, presentes o futuros, con excepción de los inembargables y las obligaciones naturales.
 
@@ -616,6 +666,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Procedimiento Concursal**: Es aquél procedimiento que bajo la supervisión del juez y el nombramiento de un veedor o liquidador, en su caso, busca lograr la solución integral para las obligaciones pendientes de pago de un deudor, ya sea mediante una Reorganización, Renegociación o la Liquidación Voluntaria o Forzada de sus activos, cuando se carece de liquidez para cumplir sus obligaciones con sus acreedores.
 
 **Proceso Judicial**: Es un conjunto sucesivo de actos emanados de las partes y del juez para resolver un conflicto de relevancia jurídica, actos que se desarrollan de acuerdo a las normas de procedimientos que la ley señala.
+
+**Promesa**: Es aquel contrato en virtud del cual dos o más personas se obligan a celebrar un contrato futuro, concurriendo los requisitos legales.
 
 **Promesa por Otro** (art. 1450 CC): Es una convención en que uno de los contratantes se compromete a que una tercera persona de quién no es legítimo representante ha de darse, hacerse o no hacerse alguna cosa.
 
@@ -673,6 +725,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Remate**: Consiste en la subasta de bienes mediante puja entre los concurrentes bajo condición implícita de aceptarse como precio la oferta de mayor valor.
 
+**Remisión**: Consiste en la renuncia que de un crédito hace el acreedor.
+
 **Renovación de la Acción Ejecutiva** (art. 477 CPC): Consiste en que una acción ejecutiva que ha sido rechazada puede promoverse nuevamente en razón de que ese rechazo se ha basado en que se han acogido alguna excepción de carácter dilatorio.
 
 **Renta Vitalicia**: Es un contrato aleatorio en que una parte se obliga a titulo oneroso a pagar a la otra una renta o pensión periódica durante la vida de cualquiera de estas personas o de un tercero.
@@ -702,6 +756,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Separación Judicial**: Es la acción judicial ejercida por uno de los cónyuges ante los tribunales por falta imputable al otro, siempre que constituya una violación grave de los deberes y obligaciones para con los hijos que torne intolerable la vida en común sin término del vínculo matrimonial.
 
+**Servidumbre**: Es un derecho real limitado que consiste en un gravamen impuesto sobre un predio en utilidad de otro, de distinto dueño.
+
 **Sistema Procesal Penal**: Es un mecanismo racional de investigación persecución y juzgamiento de las conductas humanas que lesionan bienes jurídicos penalmente tutelados estableciendo un régimen de garantías que fija los límites más allá de los cuales la actividad persecutoria estatal no puede extenderse sin vulnerar ilegítimamente los derechos individuales de las personas.
 
 **Sociedad Anónima**: Es aquella formada por la reunión de un fondo común, suministrado por accionistas responsables sólo por sus respectivos aportes y administrada por un directorio integrado por miembros esencialmente revocables.
@@ -724,10 +780,14 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Sucesión por Causa de Muerte**: Es un modo de adquirir el dominio del patrimonio de una persona difunta o de una cuota de dicho patrimonio o de un bien o bienes determinados y que opera por el sólo hecho de la muerte del causante.
 
+**Suspensión de la Prescripción** (art. 2509 CC): Es un beneficio establecido por la ley a ciertas personas, para que en su contra no corra prescripción ordinaria, mientras dure su incapacidad o el motivo tenido en consideración por el legislador.
+
 
 ## T
 
 **Tasación**: Es aquella que figura en el rol de avalúo que esté vigente, a menos que el ejecutado solicite que se haga nueva tasación.
+
+**Teoría de la Imprevisión**: Se trata de una eximente de responsabilidad basada en la ocurrencia de un acontecimiento en condiciones generales, imprevisible, ajeno a la voluntad de las partes trastorna gravemente el equilibrio de las prestaciones de un contrato de tracto sucesivo, haciéndolo excesivamente oneroso el cumplimiento.
 
 **Teoría de la Inoponibilidad**: Es la ineficacia respecto a terceros de un derecho nacido como consecuencia de la celebración o de la declaración de nulidad de un acto.
 
@@ -764,6 +824,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Título Ejecutivo**: Es aquella declaración solemne a la que la ley le otorga, específicamente, la fuerza indispensable para ser el antecedente inmediato de la ejecución.
 
 **Título Traslaticio de Dominio**: Es el hecho o acto jurídico que sirve de antecedente para su adquisición.
+
+**Tradición** (art. 670 CC): La tradición es un modo de adquirir el dominio de las cosas y consiste en la entrega que el dueño hace de ellas a otro, habiendo por una parte la facultad e intención de transferir el dominio, y por otra la capacidad e intención de adquirir. Lo que se dice del dominio se extiende a todos los otros derechos reales.
 
 **Transacción**: Es un contrato en que las partes terminan extrajudicialmente un litigio eventualmente mediante concesiones recíprocas.
 

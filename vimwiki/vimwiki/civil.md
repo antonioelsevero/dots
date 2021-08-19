@@ -67,9 +67,9 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
 ### Concepto
 
-    Planiol. "Es una regla social obligatoria, establecida con carácter de permanente por la autoridad pública, y sancionada por la fuerza".
+   Planiol. "Es una regla social obligatoria, establecida con carácter de permanente por la autoridad pública, y sancionada por la fuerza".
 
-    - Conceptos legales
+   - Conceptos legales
 
         art. 1 CC La ley es una declaración de la voluntad soberana que manifestada en la forma prescrita por la CPR, manda prohíbe o permite.
 
@@ -77,14 +77,14 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
 ### Clasificación
 
-    1. Normativas, Modificatorias, Interpretativas
+   1. Normativas, Modificatorias, Interpretativas
     - prohibitivas
 
         Contiene un mandato de no hacer algo y no lo permite bajo ninguna circunstancia
 
         art. 10 los actos que prohíbe la ley son nulos y de ningún valor (absoluta), excepto que el legislador haya asignado otra sanción
 
-    - imperativas
+   - imperativas
 
         Son las que imponen la obligación de hacer algo o el cumplimiento de un requisito.
 
@@ -97,27 +97,27 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
                 Sera generalmente la responsabilidad
 
-    - permisivas
+   - permisivas
 
         Son aquellas que confieren un derecho que queda entregado al arbitrio del titular, y otorgan a el, los medios para obtener el reconocimiento de su derecho o la indemnización de los perjuicios que le acarrea su desconocimiento.
 
 ### Efectos en el tiempo
 
-    art. 6 La ley no obliga sino una vez promulgada en conformidad a la CPR y publicada conforme a las normas establecidas en los art. 7 y 8 CC.
+   art. 6 La ley no obliga sino una vez promulgada en conformidad a la CPR y publicada conforme a las normas establecidas en los art. 7 y 8 CC.
 
-    art. 9 Sólo puede disponer para lo futuro y no tendrá jamás efecto retroactivo
+   art. 9 Sólo puede disponer para lo futuro y no tendrá jamás efecto retroactivo
 
-    - La retroactividad en materia penal
+   - La retroactividad en materia penal
 
         art. 19 Nª 3.8 CPR Ningún delito se castigará con otra pena que la que señale una ley promulgada con anterioridad a su perpetración, a menos que una nueva ley favorezca al afectado
 
-        art. 18.2 CP Si la ley que exima el hecho de toda pena o le aplique una menos rigurosa se promulgare después de ejecutoriada la sentencia sea que se haya o no cumplido el TRB que hubiere pronunciado dicha sentencia, en 1ª o única deberá modificarla de oficio o a petición de parte
+       art. 18.2 CP Si la ley que exima el hecho de toda pena o le aplique una menos rigurosa se promulgare después de ejecutoriada la sentencia sea que se haya o no cumplido el TRB que hubiere pronunciado dicha sentencia, en 1ª o única deberá modificarla de oficio o a petición de parte
 
-    - La retroactividad en materia civil
+   - La retroactividad en materia civil
 
         Se encuentra principalmente limitada por el art. 19 Nª 24. Nadie pueden en caso alguno, **ser privado de su propiedad**, **del bien sobre que recae** o de **alguno de los atributos o facultades** esenciales del dominio, sino en virtud de una **ley** general o especial que **autorice la expropiación** por causa de **utilidad pública o de interés nacional**, calificada por el juez.
 
-    - Ley de Efecto Retroactivo de las Leyes
+   - Ley de Efecto Retroactivo de las Leyes
 
         Tiene como objetivo decidir los conflictos que resultaren de la aplicación de leyes dictadas en diversas épocas y se inspira en la teoría de los derechos adquiridos y meras expectativas.
 
@@ -129,16 +129,16 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
             Derecho no incorporado al patrimonio o, facultad no ejercida legalmente
 
-    - Ultractividad de la ley
+   - Ultractividad de la ley
 
         art. 22 LERL "en todo contrato se entenderán incorporadas las leyes vigentes al tiempo de su celebración". Es decir, que pese a la modificación de las leyes, aquellas que se entendían incorporadas al contrato permanecerán vigentes.
 
 ### Efectos en el territorio
-    - Territorialidad
+   - Territorialidad
 
         art. 14 CC "la ley es obligatoria para todos los habitantes de la república, incluso los extranjeros".
 
-    - Qué se entiende por territorio?
+   - Qué se entiende por territorio?
         - Es un concepto geográfico por el cual el Estado ejerce su jurisdicción, el cual se encuentra delimitado por sus fronteras, las posesiones chilenas en la Antártica (Territorio Chileno Antártico) y en Oceanía (Isla de Pascua)
             - Territorio terrestre
 
@@ -159,7 +159,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
                 Consisten en lugares que por los tratados internacionales y la costumbre internacional reconocen como parte de la jurisdicción estatal.
 
-    - Extraterritorialidad
+   - Extraterritorialidad
         - aplicación de la ley chile fuera del territorio de Chile
 
             Sólo produce efecto respecto de los chilenos sólo respecto a las siguientes materias:
@@ -180,28 +180,28 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
 ### Interpretación de la Ley
 
-    Consiste en fijar su verdadero sentido y alcance, para lo cual se ha establecido un conjunto de actividades indispensables para aplicar el derecho a través de un sistema de interpretación reglada en los art. 19 a 24 CC
+   Consiste en fijar su verdadero sentido y alcance, para lo cual se ha establecido un conjunto de actividades indispensables para aplicar el derecho a través de un sistema de interpretación reglada en los art. 19 a 24 CC
     Elementos de interpretación:
 
-    - Elemento gramatical
+   - Elemento gramatical
 
         Implica el análisis de la semántica y de la sintaxis del precepto. Señala el art. 19: "cuando el sentido de la ley es claro no se desatenderá su tenor literal, a pretexto de consultar su espíritu. Pero bien se puede, para interpretar una expresión obscura de la ley, recurrir a su intención o espíritu.
 
         El art. 20 "las palabras de la ley se entenderán en su sentido natural y obvio, según el uso general de las mismas palabras, pero cuando el legislador las haya definido expresamente para ciertas materias, se les dará en éstas su significado legal.
 
-    - Elemento histórico
+   - Elemento histórico
 
         Se refiere a la historia fidedigna del establecimiento de la ley
 
-    - Elemento lógico
+   - Elemento lógico
 
         Consiste en la **concordancia** que debe existir entre las diversas partes de la ley, que exista una unidad conceptual y de criterio
 
-    - Elemento sistemático
+   - Elemento sistemático
 
         Debe existir una **correspondencia** más allá de la propia ley interpretada a otras leyes sobretodo si versan sobre la misma materia
 
-    - Espíritu general del legislador y equidad natural
+   - Espíritu general del legislador y equidad natural
 
         La equidad es la justicia del caso concreto
 
@@ -209,9 +209,9 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
 ### Hecho jurídico
 
-    Es todo suceso del hombre o de la naturaleza que produce efectos jurídicos
+   Es todo suceso del hombre o de la naturaleza que produce efectos jurídicos
 
-    - clasificación
+   - clasificación
         1. **con** intención de producir efectos jurídicos = **contratos**
         2. **sin** intención de producir efectos jurídicos
 		- lícitos = **cuasicontratos**
@@ -219,13 +219,13 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
 ### La relación jurídica
 
-    Es aquella que existe entre dos o más personas, la cual está regulada por el derecho objetivo.  Este derecho objetivo le atribuye a uno de ellos un poder y al otro un deber de encontrarse en la necesidad jurídica de cumplir una determinada prestación para satisfacer el interés que el sujeto titular del derecho está llamado a realizar con el ejercicio de una acción que garantiza dicho derecho.
+   Es aquella que existe entre dos o más personas, la cual está regulada por el derecho objetivo.  Este derecho objetivo le atribuye a uno de ellos un poder y al otro un deber de encontrarse en la necesidad jurídica de cumplir una determinada prestación para satisfacer el interés que el sujeto titular del derecho está llamado a realizar con el ejercicio de una acción que garantiza dicho derecho.
 
 ### Acto jurídico
 
-    Es la manifestación o declaración de voluntad con la intención de producir efectos jurídicos, los que pueden crear, modificar, transferir, transmitir o extinguir derechos y obligaciones recíprocas. Hay autores que agregan al final que dichos efectos son deseados por el autor o las partes y sancionados por el derecho.
+   Es la manifestación o declaración de voluntad con la intención de producir efectos jurídicos, los que pueden crear, modificar, transferir, transmitir o extinguir derechos y obligaciones recíprocas. Hay autores que agregan al final que dichos efectos son deseados por el autor o las partes y sancionados por el derecho.
 
-    - requisitos
+   - requisitos
         - de **existencia**
             1. la voluntad
             2. el objeto
@@ -236,7 +236,7 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
             2. objeto lícito
             3. causa lícita
             4. capacidad de las partes
-    - elementos
+   - elementos
         - de la esencia
 
             Son aquellos que sin los cuales el acto no produce efecto alguno o se degenera en otro diferente
@@ -397,18 +397,19 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
             en la residencia del que hubiere aceptado la propuesta
 
 - Los Vicios del Consentimiento
-        - a) error
 
-            consiste en la falta de conocimiento o la errónea representación de la realidad que puede recaer sobre una persona, un hecho o la ley
+     - a) error
 
-            - esencial
+          consiste en la falta de conocimiento o la errónea representación de la realidad que puede recaer sobre una persona, un hecho o la ley
 
-                impide la formación del consentimiento y puede recaer sobre
+          - esencial
 
-                1. la naturaleza o especie del acto o contrato
-                2. la identidad específica de la cosa de que se trata
+              impide la formación del consentimiento y puede recaer sobre
 
-                sanción = n. absoluta, n. relativa, inexistencia
+               1. la naturaleza o especie del acto o contrato
+               2. la identidad específica de la cosa de que se trata
+
+               sanción = n. absoluta, n. relativa, inexistencia
 
             - sustancial
 
@@ -644,9 +645,9 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 
 ### La Condición
 
-    consiste en un hecho futuro e incierto del cual depende el nacimiento o extinción de un derecho
+   consiste en un hecho futuro e incierto del cual depende el nacimiento o extinción de un derecho
 
-    - clases
+   - clases
         1. positiva = un hecho que deba acontecer
         2. negativa = un hecho que no deba acontecer
         3. posible = puede o no ocurrir
@@ -657,20 +658,20 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
         8. causal = es aquella que depende de la voluntad de un tercero
         9. mixta = depende de la parte de voluntad del acreedor, voluntad del tercero o un acaso
 
-    - clasificación
+   - clasificación
         1. Condición resolutoria ordinaria = siempre que la condición no consista en el incumplimiento de la obligación
         2. CRT = envuelta en todos los contratos bilaterales, de no cumplirse por una de las partes lo pactado.
         3. Pacto comisorio = CRT expresada
 
 ### El Plazo
 
-    consiste en un hecho futuro y cierto del cual depende la exigibilidad o extinción de un acto
+   consiste en un hecho futuro y cierto del cual depende la exigibilidad o extinción de un acto
 
-    - clasificación
+   - clasificación
         1. legal, judicial y convencional
         2. expreso o tácito
         3. suspensivo y extintivo
-    - extinción del plazo
+   - extinción del plazo
         - Renuncia
 
             si mira el solo interés del deudor puede ser renunciado por él.
@@ -686,13 +687,14 @@ Según Pacheco, el concepto de normas es más **amplio**, dado que la norma pued
 (concepto en materia de obligaciones pag. 146) "Es una sanción legal que consiste en la extinción de un derecho por no haberse ejercido o cumplido una formalidad legal dentro del plazo fatal que la misma ley establece"
 Institución de la cual el acreedor puede ejercer su derecho, aun encontrándose pendiente el plazo, en los casos que la ley lo establece o que se hubiere convenido expresamente.
 Clases de caducidad:
-            - caducidad legal = deudor en procedimiento concursal o notoria insolvencia, deudor cuyas cauciones han disminuido por hecho o culpa suya.
 
-            - convencional = casos establecidos expresamente por las partes.
+   - caducidad legal = deudor en procedimiento concursal o notoria insolvencia, deudor cuyas cauciones han disminuido por hecho o culpa suya.
+
+   - convencional = casos establecidos expresamente por las partes.
 
 ### El Modo
 
-    Es el gravamen que se impone al beneficiario de una liberalidad. No suspende la adquisición de la asignación, sin embargo, si está establecida en beneficio de un tercero, éste puede exigir su cumplimiento forzado. Entre vivos también se puede establecer siguiendo las reglas del pacto comisorio (si se establece en contrato que no sea CV o permuta) o de la CRT en caso de contrato bilateral
+   Es el gravamen que se impone al beneficiario de una liberalidad. No suspende la adquisición de la asignación, sin embargo, si está establecida en beneficio de un tercero, éste puede exigir su cumplimiento forzado. Entre vivos también se puede establecer siguiendo las reglas del pacto comisorio (si se establece en contrato que no sea CV o permuta) o de la CRT en caso de contrato bilateral
 
 ## 2.6.  Ineficacia de los Actos Jurídicos
 
@@ -713,13 +715,17 @@ Clases de caducidad:
 
 ![Alt text](1681.png?raw=true)
 
-        - efectos
-            1. sólo se producen una vez declarada por sentencia judicial ejecutoriada
-            2. volver a las partes al estado que tenían antes de la celebración del acto nulo
-            3. realizar las restituciones recíprocas
-            - respecto a terceros
+   - efectos:
 
-                declarada judicialmente da acción reivindicatoria frente a terceros
+        1. sólo se producen una vez declarada por sentencia judicial ejecutoriada
+
+        2. volver a las partes al estado que tenían antes de la celebración del acto nulo
+
+        3. realizar las restituciones recíprocas
+
+        - respecto a terceros
+
+             declarada judicialmente da acción reivindicatoria frente a terceros
 Excepciones:
                 - (A) No da acción reivindicatoria respecto:
                     1. rescisión por lesión enorme
@@ -728,21 +734,29 @@ Excepciones:
                     4. tercero poseedor que adquiere por prescripción
                     5. acción de indignidad para suceder
 
-	- clases
+- clases:
+	- Nulidad Absoluta
 
-- Nulidad Absoluta
+		Es la sanción legal impuesta a la omisión de los requisitos exigidos en consideración a la naturaleza o especie del acto.
 
-	Es la sanción legal impuesta a la omisión de los requisitos exigidos en consideración a la naturaleza o especie del acto.
-	Procede en los ss. casos:
-	a) Falta requisito de existencia
-	b) Objeto o causa ilícita
-	c) Actos de los absolutamente incapaces
-	d) Error esencial
+		Procede en los ss. casos:
+
+		a) Falta requisito de existencia
+
+		b) Objeto o causa ilícita
+
+		c) Actos de los absolutamente incapaces
+
+		d) Error esencial
 
         - titulares
-                1. juez, aparezca de manifiesto
-                2. todo aquél que tenga interés pecuniario en ello
-                3. por el ministerio público en interés de la moral y la ley
+
+             1. juez, aparezca de manifiesto
+
+             2. todo aquél que tenga interés pecuniario en ello
+
+             3. por el ministerio público en interés de la moral y la ley
+
 	- Características
 		1. puede y debe ser declarada de oficio por el juez
 		2. puede alegarla todo el que tenga interés
@@ -751,8 +765,11 @@ Excepciones:
 		5. es irrenunciable        / Es de orden público
 		6. no se produce de pleno derecho (al igual que la relativa)
 
-- Nulidad Relativa
-	Es la sanción por la omisión de algún requisito o formalidad que la ley exige en atención al estado o calidad de las partes. Está establecida para proteger los intereses de ciertas y determinadas personas, por lo que, no protege intereses generales.
+
+
+	- Nulidad Relativa
+
+		Es la sanción por la omisión de algún requisito o formalidad que la ley exige en atención al estado o calidad de las partes. Está establecida para proteger los intereses de ciertas y determinadas personas, por lo que, no protege intereses generales.
 	Procede:
 	a) respecto de los acto de los relativamente incapaces cuando se omiten las formalidades habilitantes.
 	b) respecto del dolo principal y determinante
@@ -775,7 +792,7 @@ Excepciones:
 
 - Defina ineficacia en el sentido estricto
 
-    La causa de ineficacia se origina después de haberse otorgado o celebrado el acto. Es decir, el acto jurídico por sí idóneo, no genera sus efectos o deja de producirlos, por un hecho extrínseco, una circunstancia usualmente sobreviniente o coetáneas y extrañas a su estructura.
+    La causa de ineficacia se origina después de haberse otorgado o celebrado el acto. Es decir, el acto jurídico por sí idóneo, no genera sus efectos o deja de producirlos, por un hecho **extrínseco**, una circunstancia usualmente sobreviniente o coetáneas y extrañas a su estructura.
 
     - Señale los casos de ineficacia en sentido estricto:
         - La suspensión
@@ -820,7 +837,7 @@ Excepciones:
     2. porque presenta una parte sustantiva, a) determina los medios de prueba, b) señala su admisibilidad, c) determina el valor probatorio
 - Cual es el objeto de la prueba?
 
-    Son los hechos, el derecho conforme al art. 8 CC no necesita probarse.
+    Son los *hechos*, el derecho conforme al art. 8 CC no necesita probarse.
 
     - Señale las excepciones
         1. Cuando la norma de derecho emana de la costumbre. (es excepción porque se debe probar derecho)
@@ -954,34 +971,38 @@ Excepciones:
 			- Reaparecimiento del ausente
 			- Conocimiento positivo de la fecha de muerte real del desaparecido.
 
-                - Qué es la posesión provisoria?
+     - Qué es la posesión provisoria?
 
-                    Es aquella que empieza con la resolución que la declara y termina con la resolución judicial que concede la posesión definitiva.
+          Es aquella que empieza con la resolución que la declara y termina con la resolución judicial que concede la posesión definitiva.
 
-                    - la cual, produce los siguientes *efectos*
-                        1. disuelve la sociedad conyugal
-                        2. se procederá a la apertura y publicación del testamento
-                        3. emancipación legal de los hijos, salvo que correspondiera al otro cónyuge
-                        4. la posesión provisoria sobre los bienes del desaparecido a los herederos presuntivos
+          - la cual, produce los siguientes *efectos*
+
+               1. disuelve la sociedad conyugal
+
+               2. se procederá a la apertura y publicación del testamento
+
+               3. emancipación legal de los hijos, salvo que correspondiera al otro cónyuge
+
+               4. la posesión provisoria sobre los bienes del desaparecido a los herederos presuntivos
 
 
-                - Qué es la posesión definitiva?
+     - Qué es la posesión definitiva?
 
-                    Es la resolución judicial que se declara cuando termina la posesión provisoria, produciendo los siguientes efectos:
+          Es la resolución judicial que se declara cuando termina la posesión provisoria, produciendo los siguientes efectos:
 
-                    1. pone fin a la posesión provisoria
-                    2. disuelve el matrimonio
-                    3. terminan las cauciones otorgadas para disponer de los bienes que se poseían provisoriamente
-                    4. se terminan las limitaciones para disponer de los bienes del desaparecido que tenían los herederos presuntivos
-                    5. se pueden hacer valer los derechos sujetos a la muerte del desaparecido, como en el caso del usufructo
-                    6. los legatarios pueden exigir sus derechos.
+          1. pone fin a la posesión provisoria
+          2. disuelve el matrimonio
+          3. terminan las cauciones otorgadas para disponer de los bienes que se poseían provisoriamente
+          4. se terminan las limitaciones para disponer de los bienes del desaparecido que tenían los herederos presuntivos
+          5. se pueden hacer valer los derechos sujetos a la muerte del desaparecido, como en el caso del usufructo
+          6. los legatarios pueden exigir sus derechos.
 
-                    - Cuando se decreta la posesión definitiva?
-                        1. cuando cumplido los 5 años (de la última noticia), se probare que el desaparecido tiene más de 70 años.
-                        2. Inmediatamente con el transcurso de los 5 años desde la fecha de la herida grave en la guerra o peligro similar
-                        3. Inmediatamente transcurrido 3 meses desde la fecha de la última noticia que se tuvieron de la nave o aeronave reputada perdida
-                        4. Inmediatamente luego de 6 meses desde sismo o catástrofe
-                        5. en último caso, transcurrido 10 años desde la última noticia
+                - Cuando se decreta la posesión definitiva?
+                    1. cuando cumplido los 5 años (de la última noticia), se probare que el desaparecido tiene más de 70 años.
+                    2. Inmediatamente con el transcurso de los 5 años desde la fecha de la herida grave en la guerra o peligro similar
+                    3. Inmediatamente transcurrido 3 meses desde la fecha de la última noticia que se tuvieron de la nave o aeronave reputada perdida
+                    4. Inmediatamente luego de 6 meses desde sismo o catástrofe
+                    5. en último caso, transcurrido 10 años desde la última noticia
 
                 - Qué obligaciones protegen los bienes del desaparecido?
                     1. inventario solemne
@@ -996,44 +1017,44 @@ Excepciones:
                     1. del desaparecido que reaparece
                     2. los legitimarios habidos durante el desaparecimiento
                     3. cónyuge
-        - Son los atributos de la personalidad:
-            - a) la nacionalidad
+- Son atributos de la personalidad:
+   - a) **la nacionalidad**
 
-                Consiste en el vínculo de derechos y obligaciones que une a individuo con el Estado por el hecho de haber adquirido la nacionalidad por alguna de las causales que establece la CPR
+        Consiste en el vínculo de derechos y obligaciones que une a individuo con el Estado por el hecho de haber adquirido la nacionalidad por alguna de las causales que establece la CPR
 
-                art. 56 señala que son chilenos los que la CPR declara como tales, la CPR art. 10 señala que son chilenos:
+       art. 56 señala que son chilenos los que la CPR declara como tales, la CPR art. 10 señala que son chilenos:
 
-                1. Los nacidos en territorio de Chile
-                2. Los hijos de padre o madre chilenos, nacidos en territorio extranjero
-                3. Los extranjeros que obtuvieren carta de nacionalización en conformidad a la ley
-                4. Los que obtuvieren especial gracia de nacionalización por ley
+        1. Los nacidos en territorio de Chile
+        2. Los hijos de padre o madre chilenos, nacidos en territorio extranjero
+        3. Los extranjeros que obtuvieren carta de nacionalización en conformidad a la ley
+        4. Los que obtuvieren especial gracia de nacionalización por ley
                 - Como se pierde la nacionalidad (art. 11 CPR)?
                     1. Por **renuncia voluntaria** si la persona se ha nacionalizado en país extranjero
                     2. Por **Decreto Supremo** en caso de prestación de servicios durante una guerra exterior a enemigos de Chile
                     3. Por **ley** que revoque la nacionalización concedida por gracia
-            - el nombre
+  - b) **el nombre**
 
-                Conjunto de palabras que sirven para distinguir legalmente a una persona de otra.
+       Conjunto de palabras que sirven para distinguir legalmente a una persona de otra.
 
-                Ley 4.808 art. 30 La inscripción del nombre puede ser requerida por padre o madre por sí o por mandatario dentro de los 30 días siguientes al nacimiento de la criatura.
+       Ley 4.808 art. 30 La inscripción del nombre puede ser requerida por padre o madre por sí o por mandatario dentro de los 30 días siguientes al nacimiento de la criatura.
 
-                art. 28, 29 se deberá hacer por las personas indicadas (padre, pariente más cercano mayor, medico que hubiera ocurrido al nacimiento, jefe del establecimiento) dentro de los 60 días.
+       art. 28, 29 se deberá hacer por las personas indicadas (padre, pariente más cercano mayor, medico que hubiera ocurrido al nacimiento, jefe del establecimiento) dentro de los 60 días.
 
-                Se puede colocar cualquier nombre, salvo que sea extravagante, ridículo, impropio de persona, equívoco respecto a su sexo o contrario al buen lenguaje
+       Se puede colocar cualquier nombre, salvo que sea extravagante, ridículo, impropio de persona, equívoco respecto a su sexo o contrario al buen lenguaje
 
-            - el estado civil
+  - c) **el estado civil**
 
-                Consiste en la calidad que tiene una persona en cuanto lo habilita para ejercer ciertos derechos y contraer ciertas obligaciones civiles
+       Consiste en la calidad que tiene una persona en cuanto lo habilita para ejercer ciertos derechos y contraer ciertas obligaciones civiles
 
-                - características
-                    1. es un atributo de la personalidad
-                    2. su regulación es de orden público
-                    3. es un derecho extra patrimonial (no se traspasa)
-                    4. es permanente, mientras no se adquiere otro
-                    5. es uno e indivisible, sin perjuicio de que se puede tener más de uno con relación a fuentes distintas, como pueden concurrir el de hijo, soltero y padre
-                    6. es imprescriptible
-                    7. es irrenunciable
-                - Cuales son los principales efectos del estado civil?
+       - características
+            1. es un atributo de la personalidad
+            2. su regulación es de orden público
+            3. es un derecho extra patrimonial (no se traspasa)
+            4. es permanente, mientras no se adquiere otro
+            5. es uno e indivisible, sin perjuicio de que se puede tener más de uno con relación a fuentes distintas, como pueden concurrir el de hijo, soltero y padre
+            6. es imprescriptible
+            7. es irrenunciable
+                - Cuales son los principales *efectos* del estado civil?
                     1. da origen a derechos y obligaciones
                     2. da origen al parentesco
                         - Clasificación
@@ -1195,7 +1216,7 @@ Excepciones:
 
                 penas:
 
-                1. disolución de la p. jurídica o cancelación de la p. jurídica\
+                1. disolución de la p. jurídica o cancelación de la p. jurídica
                 2. prohibición temporal o perpetua de celebrar actos y contratos con los organismos del Eº
                 3. perdida total o parcial de beneficios fiscales o prohibición absoluta de recepción de los mismos por un período determinado
                 4. multa a beneficio fiscal de 200 a 20.000 UTM
@@ -1398,6 +1419,21 @@ Excepciones:
     - la tradición
 
         es un modo de adquirir el dominio de las cosas y consiste en la entrega que el dueño hace de ellas a otro, habiendo por una parte la facultad e intención de transferir el dominio y por la otra la capacidad e intención de adquirirlo, lo que se dice respecto al dominio también se extiende a los otros derechos reales.
+		- Requisitos de la tradición
+			- Capacidad del tradente y del adquirente
+			- Consentimiento
+			- TTD
+			- Entrega material
+
+		- Tiene las ss. características:
+			- es un MAD derivativo
+			- puede ser a título oneroso como gratuito
+			- por RG es a título singular, pero puede ser a título universal también
+			- opera entre vivos
+			- es una convención que extingue obligaciones
+			- es un MAD y demás derechos reales
+			- sobre bienes corporales como incorporales
+
 
         - época de pedir la tradición
 
@@ -1406,6 +1442,10 @@ Excepciones:
             1. titulo condicional
             2. existencia de plazo para el pago
             3. cuando ha intervenido decreto judicial en contrario
+
+		- Diferencia entre entrega y tradición:
+			- la entrega se refiere a la entrega **material** de una cosa a manos de otra persona
+			- la tradición implica la entrega (como elemento material), *más* un elemento intencional, el cual, es el **título traslaticio de dominio**
         - título
 
             es el hecho o acto jurídico que sirve de antecedente para la adquisición. De el solo nacen derechos personales para exigir la transferencia del dominio.
@@ -1416,30 +1456,50 @@ Excepciones:
             3. requisito de garantía y prueba de la posesión de los bienes inmuebles = la posesión cesa por la cancelación de la inscripción (voluntad de las partes, nueva inscripción, decreto judicial)
             4. mantener la historia de la propiedad raíz
             5. solemnidad = casos de donaciones entre vivos, fideicomisos sobre inmuebles, usufructos sobre inmuebles, para la validez de censo e hipoteca, constitución de uso o habitación.
-        - títulos que se deben inscribir
+        - títulos que se **deben** inscribir
             1. títulos traslaticios de dominio de los bienes inmuebles
             2. la constitución de los fideicomisos que comprendan o afecten bienes
             3. renuncia de alguno de los anteriores
             4. decretos de interdicción provisoria y definitiva, de rehabilitación del disipador y demente
-        - títulos que pueden inscribirse
+        - títulos que **pueden** inscribirse
             1. toda condición suspensiva o resolutoria del dominio de bienes inmuebles o de otros dº reales constituidos sobre ellos
             2. todo gravamen impuesto que no sea los 2 números anteriores, como servidumbres y arrendamiento u otro que sea permitida su inscripción
             3. todo impedimento o prohibición referente a un inmueble, sea convencional, legal o judicial como el embargo.
+
+		- Tradición de los derechos personales:
+
+			En general, se realizan por la entrega del título del cedente al cesionario. La cual puede ser de tres tipos:
+			- en nominativo: aceptado o notificado al deudor. Se encuentra regulado en el CC
+			- a la orden: efectuándose mediante el endoso. CdeCom.
+			- al portador: por la entrega del título. CdeCom.
         - La posesión
 
             es la tenencia de una cosa determinada con ánimo de señor y dueño, sea que el dueño o quien se da por tal tenga la cosa por sí misma, o por otra persona que la tenga en lugar y a nombre de él. El poseedor es reputado dueño mientras otra persona no justifica serlo.
-
+			- Elementos:
+				- tenencia
+				- cosa determinada
+				- ánimo de señor o dueño
+			- Importancia:
+				- se presume dueño
+				- acción publiciana (buena fe)
+				- sobre inmueble = acción posesoria
+				- prescripción adquisitiva
+				- buena fe = hace suyos los frutos
+			- Diferencias con el dominio:
+				- posesión = hecho; dominio = derecho
+				- posesión = acciones de corto tiempo; dominio = reivindicatoria mientras otro no adquiera la cosa por adquisitiva
+				- posesión = puede poseerse por varios títulos; dominio = solo puede adquirirse por 1 modo.
             - clasificación
                 - posesión regular / irregular
 
-                    la irregular carece de uno de los requisitos de la regular (justo título, buena fe inicial, tradición si es TTD)
+                    la irregular carece de uno de los requisitos de la regular (los cuales son: a) justo título, b) buena fe inicial, c) tradición si es TTD)
 
-                    - títulos injustos
+                    - a) títulos injustos ("no es justo título", art. 704)
                         1. el falsificado
                         2. el conferido por persona en calidad de mandatario o representante legal sin serlo
                         3. el que adolece de vicio de nulidad
                         4. el meramente putativo
-                    - buena fe
+                    - b) buena fe
 
                         conciencia de haberse adquirido el dominio de la cosa por medios legítimos, exentos de fraude o de todo otro vicio, la cual, por r.g. se presume
 
@@ -1448,6 +1508,9 @@ Excepciones:
                             2. título de mera tenencia
                             3. cuando se ha ocultado la verdadera muerte o existencia respecto de la posesión de los bienes del desaparecido
                             4. al contestar la demanda
+		    		- c) TTD
+
+						Cuando se trate de la tradición, se exige que exista un título traslaticio de dominio, el cual consta la voluntad de las partes.
                 - posesión viciosa / útil
 
                     es viciosa la violenta o clandestina y no permiten prescribir
@@ -1463,11 +1526,12 @@ Excepciones:
 
                     conservación = basta el animus
 
-                    perdida = se puede perder por falta de uno u otro (corpus = otro se apodera con animo de hacerla suya, imposible su ejercicio, se arrojan al mar, se pierden materialmente y no están bajo poder), (animus = constituto posesorio), (corpus y animus = cuando se enajena la cosa por tradición o se abandona para que la haga suya el primer ocupante)
+                    perdida = se puede perder por falta de uno u otro (*corpus* = otro se apodera con animo de hacerla suya, imposible su ejercicio, se arrojan al mar, se pierden materialmente y no están bajo poder), (*animus* = constituto posesorio), (*corpus y animus* = cuando se enajena la cosa por tradición o se abandona para que la haga suya el primer ocupante)
 
                 - inmuebles no inscritos
 
                     art. 729, al igual que los bienes muebles, sin perjuicio que dicho art. señala que si alguien pretendiéndose dueño se apodera violenta o clandestinamente de un inmueble cuyo título no está inscrito, el que tenía la posesión la pierde.
+		![alt text](729.png)
 
                 - inmuebles inscritos
                     - adquisición
@@ -1479,14 +1543,18 @@ Excepciones:
 
                     - pérdida
 
-                        solamente por la cancelación de la inscripción que puede ocurrir:
+                        solamente por la **cancelación** de la inscripción, la que, puede ocurrir por:
 
                         1. voluntad de las partes
                         2. decreto judicial
                         3. por nueva inscripción (si el título es justo o injusto, se cancela la anterior, si es mero tenedor el que enajena, la mayoría de la doctrina señala que cancela la anterior)
-    - la prescripción
+    - la prescripción (*adquisitiva*)
 
         MAD de las cosas ajenas por haberse poseído las cosas durante un cierto lapso de tiempo y concurriendo los demás requisitos legales.
+    	- Elementos:
+			- posesión
+			- títular inactivo
+			- trascurso de un lapso de tiempo
 
         - reglas comunes a la prescripción
             1. debe ser alegada, salvo acción penal, pena, prescripción del título ejecutivo
@@ -1495,13 +1563,35 @@ Excepciones:
             4. debe ser declarada por sentencia judicial
             5. se adquiere por todos los derechos, gravámenes y limitaciones
             6. opera retroactivamente.
+		- Casos que no procede prescripción adquisitiva:
+			- Servidumbres discontinuas o continuas inaparentes
+			- Derechos personales
+			- Cosas incomerciables
+			- Los derechos que tienen los propietarios de servirse de las aguas de lluvia
+		- Requisitos de procedencia prescripción adquisitiva
+			- Cosa susceptible de adquisición por prescripción
+			- Posesión útil y continua (la posesión útil puede ser regular o irregular)
+			- Tiempo, regular = 2 años muebles y 5 inmuebles; irregular = 10 años
+		- Clases de Prescripción Adquisitiva:
+			- ordinaria
+				- posesión regular
+				- tiempo, 2 años muebles; 5 años inmuebles
+				- se suspende
+			- extraordinaria
+				- posesión irregular
+				- tiempo, 10 años
+				- no se suspende
+		- Efectos que produce la prescripción:
+			- es un MAD
+			- confiere acción y excepción
+			- opera en forma retroactiva
 - Acción reivindicatoria
 
     art. 889, o acción de dominio es la que tiene el dueño de una cosa singular, de que no está en posesión, para que el poseedor de ella sea condenado a restituírsela.
 
     - pretensión
 
-        que se le reconozca su dominio y que se ordene, por parte del juez, al que se encuentra poseyendo la cosa, que lo restituya en la posesión perdida.
+        Que se le reconozca su dominio y que se ordene, por parte del juez, al que se encuentra poseyendo la cosa, que lo restituya en la posesión perdida.
 
     - procedimiento judicial
         1. juicio de lato conocimiento, procedimiento ordinario
@@ -1509,7 +1599,7 @@ Excepciones:
         3. si es inmueble, será el juez de letras del lugar en que se encuentra el inmueble.
     - efectos
 
-        restituciones mutuas = vencido restituir la cosa y los frutos, respondiendo de los deterioros y pérdidas, siendo obligado el vencedor en abonar las mejoras y gastos.
+        **restituciones mutuas** = vencido restituir la cosa y los frutos, respondiendo de los deterioros y pérdidas, siendo obligado el vencedor en abonar las mejoras y gastos.
 
     - cosas que pueden ser reinvindicables
 
@@ -1519,9 +1609,25 @@ Excepciones:
         2. solamente cosas singulares y  universalidades de hecho. No se pueden reivindicar las universalidades de derecho.
         3. la herencia se reivindica por una acción especial denominada "acción de petición de herencia". Se diferencia con la reivindicatoria en que no puede accionar indistintamente, debe ser en contra del heredero putativo u otro título.
 
+		- Reivindicación de una cuota determinada pro indiviso, de una cosa singular:
+			- Cuota debe ser determinada
+			- Cosa singular proindiviso
+		- Titulares de la acción reivindicatoria:
+			- propietario
+			- comprador de una cosa a quien no se le ha hecho tradición no puede reivindicar
+			- pleno o nudo propietario
+			- absoluto o fiduciario
+			- copropietario por su cuota
+		- Contra quien se puede reivindicar?
+			- actual poseedor
+			- poseedor que haya dejado de serlo
+				- a) restitución de todo lo que haya recibido por ella = si se ha hecho imposible o difícil persecución
+				- b) indemnización de todo perjuicio = si se enajenó a sabiendas
+			- El injusto detentador
+
     - acción publiciana
 
-        se concede la misma acción (reivindicatoria) aun que no se pruebe el dominio, al que ha perdido la posesión regular de la cosa, y se hallaba en el caso de poderla ganar por prescripción, pero no contra el verdadero dueño ni contra quien lo posea con igual o mejor derecho.
+       Art. 894 se concede la misma acción (reivindicatoria) aun que no se pruebe el dominio, al que ha perdido la posesión regular de la cosa, y se hallaba en el caso de poderla ganar por prescripción, pero no contra el verdadero dueño ni contra quien lo posea con igual o mejor derecho.
 
         - prueba
             1. el poseedor se reputa dueño
@@ -1529,6 +1635,8 @@ Excepciones:
             3. que el dominio se adquirió por algún modo (ocupación, accesión, prescripción, tradición, remontándose hasta un MAD originario, 10 años)
             4. que el demandado se encuentra en posesión de la cosa
             5. determinación e identificación de la cosa
+
+
         - prestaciones mutuas
 
             terminado el juicio reivindicatorio, vencido el demandado, se da lugar a las prestaciones mutuas
@@ -1554,50 +1662,125 @@ Excepciones:
 
                     si es condenado en costas. Poseedor de mala fe deberá pagar los gastos de conservación y custodia en caso de medida precautoria de secuestro.
 
-            - prestaciones del reivindicante en favor del poseedor vencido
-                1. gastos ordinarios producción de los frutos
-                2. abono de expensas y mejoras. Necesarios (siempre), las no necesarias pueden ser útiles (aumentando el valor venal de la cosa) + buena fe, podrá pagar lo que las obras valgan o pagar lo que la cosa valiere más al momento de su restitución. Voluptuarias (no aumentan el valor o es insignificante), no se pagan pero da derecho a retiro por parte del vencido si se pueden separar sin detrimento de la cosa.
+            - Prestaciones del reivindicante en favor del poseedor vencido
+                1. gastos **ordinarios de producción de los frutos**
+                2. **abono de expensas y mejoras**.
+					- Necesarios (siempre)
+					- las no necesarias pueden ser útiles (aumentando el valor venal de la cosa) + buena fe, podrá pagar lo que las obras valgan o pagar lo que la cosa valiere más al momento de su restitución. Si estaba de mala fe, no tiene derecho a que se le abonen, pero puede llevarse los materiales que puedan separarse sin detrimento de la cosa
+					- Voluptuarias (no aumentan el valor o es insignificante), no se pagan pero da derecho a retiro por parte del vencido si se pueden separar sin detrimento de la cosa.
 - Acciones posesorias
 
-    son las que tienen por objeto conservar o recuperar la posesión de bienes raíces o de derechos reales constituidos en ellos.
+    son las que tienen por objeto *conservar* o *recuperar* la posesión de *bienes raíces* o de derechos reales constituidos en *ellos*
 
-    - prueba de la posesión
-        1. dº reales inscritos = por la inscripción
-        2. dº reales no inscritos = por hechos positivos, lo mismo se aplica poseedor inscrito menos de 1 año, dos inscripciones, deslindes no son exactos
-    - querella de amparo
+   - prueba de la posesión
+       1. dº reales inscritos = por la inscripción
+       2. dº reales no inscritos = por hechos positivos, lo mismo se aplica poseedor inscrito menos de 1 año, dos inscripciones, deslindes no son exactos
+ - querella de amparo
 
-        es la que tiene por objeto conservar (que no se turbe, indemnice, garantías)la posesión de bienes raíces o dº reales sobre ellos
+     es la que tiene por objeto conservar (que no se turbe, indemnice, garantías)la posesión de bienes raíces o dº reales sobre ellos
 
-    - querella de restitución
+ - querella de restitución
 
-        es la que tiene por objeto recuperar (y ser indemnizado) la posesión de bienes raíces y dº reales sobre ellos.
+     es la que tiene por objeto recuperar (y ser indemnizado) la posesión de bienes raíces y dº reales sobre ellos.
 
-    - querella de restablecimiento
+ - querella de restablecimiento
 
-        es la que tiene el poseedor y el mero tenedor que ha sido despojado violentamente de la posesión o mera tenencia de un inmueble, a fin de que se le restituya al estado que se encontraba. (6 meses)
+     es la que tiene el poseedor y el mero tenedor que ha sido despojado violentamente de la posesión o mera tenencia de un inmueble, a fin de que se le restituya al estado que se encontraba. (6 meses)
 
-- Dº reales limitados
+- Dº reales limitados o limitantes del dominio
     - propiedad fiduciaria
 
         la que está sujeta al gravamen de pasar a otra persona, por el hecho de verificarse una condición
-
+    	- requisitos:
+		    - cosa susceptible de constituirse en fideicomiso (cosa mueble o inmueble, totalidad de una herencia, cuota determinada)
+		    - concurrencia de: fideicomisario, propietario fiduciario y constituyente
+		    - La existencia de una condición
     - usufructo
 
         es un derecho real que consiste en la facultad de gozar de una cosa con cargo de conservar su forma y substancia, y de restituírsela a su dueño, si la cosa no es fungible, o con cargo de devolver igual cantidad y calidad del mismo genero, o de pagar su valor si es fungible
 
+		Está constituido por tres elementos: cosa susceptible de usufructo, las personas que intervienen, el plazo.
+
+	    - características:
+	    	- derecho real de goce
+	    	- principal
+	    	- mueble o inmueble
+	    	- usufructuario es mero tenedor
+	    	- temporal
+	    	- existencia de un plazo
+	    	- intrasmisible, puede ser transferible mientras no se lo haya prohibido
+	    	- debe recaer en cosa ajena
+		- Fuentes del derecho real de usufructo:
+			- ley
+			- testamento (en tal caso, solemne)
+			- acto entre vivos
+			- prescripción
+			- sentencia judicial (excepcional, en partición de bienes)
+		- El cuasiusufructo:
+			- es TTD
+			- cuasiusufructo tiene derecho a restitución de su crédito (usufructo tiene acción reivindicatoria)
+			- el género no perece
+		- Efectos:
+			- derechos del propietario:
+				- usar y gozar la cosa
+				- administrar la cosa
+				- a arrendar y ceder el usufructo
+				- disponer de la cosa
+			- obligaciones del usufructuario
+				- previas
+					- inventario y rendir caución
+				- durante el usufructo
+					- respetar los arriendos y demás cargas
+					- mantener la cosa y su substancia
+					- pagar expensas y mejoras
+					- si fue constituido por testamento, puede quedar obligado respecto a las deudas hereditarias
+			- derechos del nudo propietario
+				- a los frutos pendientes al tiempo de la restitución
+				- indemnización de perjuicios y deterioros
+				- terminación anticipada
+				- acciones de dominio y acciones posesorias (si es sobre un inmueble)
+			- obligaciones del nudo propietario
+				- expensas extraordinarias mayores
+		- Extinción del usufructo:
+			- llegada del plazo, cumplimiento condición
+			- muerte usufructuario
+			- resolución del derecho constituyente
+			- prescripción
+			- consolidación del usufructo con la nuda propiedad
+			- renuncia del usufructuario
+			- destrucción completa de la cosa
+			  sentencia judicial en los casos establecidos por ley
     - servidumbre
 
         es el gravamen impuesto sobre un predio en utilidad de otro predio de distinto dueño
+    	- características:
+			- es un gravamen
+			- derecho real
+			- inmueble
+			- accesorio
+			- perpetuo
+			- indivisible en su ejercicio
+		- clasificación en cuanto a su naturaleza:
+			- Aparentes e inaparentes
+			- Continuas y discontinuas
 
     - uso o habitación
 
         es un derecho real que consiste generalmente en la facultad de gozar de una parte limitada de las utilidades y productos de una cosa. Si se refiere a una casa, y la utilidad de morar en ella, se llama derecho de habitación.
 
+		- Características
+			- derecho real
+			- personalísimos
+			- inembargables
+			- se constituyen e se extinguen como el usufructo
+			- se limitan a las necesidades del usuario (y su familia)
+			- usuario debe actuar como buen padre de familia
 # 5. Obligaciones
 
 - Concepto
 
     Es un vínculo jurídico entre personas determinadas, en cuya virtud una de ellas, denominada deudor, se encuentra para con la otra, llamada acreedor, en la necesidad de dar, hacer o no hacer una cosa.
+![Alt text](elementos.jpeg)
 
 - Fuentes
     1. contrato
@@ -1613,11 +1796,11 @@ Excepciones:
 
         son naturales las que no dan derecho para exigir su cumplimiento pero que cumplidas, autorizan para retener lo que se ha dado o pagado en razón de ellas.
 
-        - Señale los casos de obligación natural
-            1. las contraídas por los incapaces relativos
-            2. las que proceden de actos a que faltan solemnidades
-            3. obligaciones civiles prescritas
-            4. las que no han sido reconocidas por falta de prueba
+        - Señale los casos de obligación natural (art. 1470)
+            1. las contraídas por los **incapaces relativos**
+            2. las que proceden de **actos a que faltan solemnidades**
+            3. obligaciones civiles **prescritas**
+            4. las que no han sido reconocidas por **falta de prueba**
         - Otros casos de oº naturales
             1. pago de intereses no estipulados en el mutuo
             2. pago de apuestas en que predomina la inteligencia
@@ -1625,9 +1808,9 @@ Excepciones:
             4. pago por objeto o causa ilícita a sabiendas
             5. en el beneficio de inventario cuando se paga más allá de lo recibido por herencia.
         - efecto de las oº naturales
-            1. autorizan a retener lo pagado
-            2. pueden ser novadas
-            3. pueden ser caucionadas
+            1. autorizan a *retener* lo pagado
+            2. pueden ser *novadas*
+            3. pueden ser *caucionadas*
             4. no se extinguen por sentencia
             5. no se puede alegar la excepción de cosa juzgada
     - Positivas y Negativas
@@ -1652,11 +1835,11 @@ Excepciones:
 
     - De dar, hacer o no hacer
 
-        es de  dar que tiene por objeto transferir el dominio o constituir un derecho real o la mera tenencia
+        Es de  dar la que tiene por objeto *transferir* el dominio o constituir un derecho real o la mera tenencia
 
-        es de hacer la que tiene por objeto la ejecución de un hecho cualquiera, material o jurídico
+        Es de hacer la que tiene por objeto la *ejecución* de un hecho cualquiera, material o jurídico
 
-        no hacer consiste en la abstención de un hecho que, de otro modo sería lícito ejecutar.
+        No hacer consiste en la *abstención* de un hecho que, *de otro modo sería lícito ejecutar*
 
     - Objeto singular y objeto múltiple
 
@@ -1668,7 +1851,7 @@ Excepciones:
 
         - alternativas
 
-            se deben varias cosas pero que la ejecución de una de ellas exonera al deudor de la ejecución de las demás
+            se deben **varias** cosas pero que la ejecución de una de ellas *exonera* al deudor de la ejecución de las demás
 
             - características
                 1. elección del deudor salvo estipulación en contrario
@@ -1680,9 +1863,13 @@ Excepciones:
                 7. será mueble o inmueble según el objeto para el pago
         - facultativas
 
-            son aquellas que se debe una cosa determinada pero concediéndose al deudor la facultad de pagar con esta cosa o con otra que se designa.
+            son aquellas que se debe **una** cosa determinada pero *concediéndose* al deudor la facultad de pagar con esta cosa o con otra que se designa.
+			- efectos
+				- acreedor sólo puede pedir la cosa debida
+				- dación en pago pactada anticipadamente
+				- puede ser mueble o inmueble
+				- en caso de duda se tiene por alternativa
 
-        -
     - Con unidad de sujetos o pluralidad de sujetos
 
         con unidad de sujeto solo existe un acreedor y un deudor, lo que no exige mucho análisis, a diferencia de pluralidad sujetos que se pueden clasificar en:
@@ -1703,6 +1890,10 @@ Excepciones:
 
             solidaridad pasiva = acreedor puede demandar a cualquiera de los deudores el total, el cual extingue respecto a todos los deudores si es pagada, la interrupción de la prescripción perjudica a todos, la mora de uno afecta a todos, la perdida de la cosa por uno hace solidarios en el precio y la indemnización la responde el culpable, cada deudor puede interponer las excepciones reales personales o mixtas.
 
+			Extinción de la solidaridad:
+
+			- muerte
+			- renuncia del acreedor
         - indivisibles
 
             aquellas en que la prestación recae sobre un objeto que no es susceptible de división física, intelectual o de cuota.
@@ -1751,7 +1942,7 @@ Excepciones:
 
             - suspensiva
 
-                aquellas que mientras no se cumplan suspenden el nacimiento de un derecho
+                aquellas que mientras no se cumplan *suspenden el nacimiento* de un derecho
 
                 1. positiva, física o moralmente imposible = fallida
                 2. negativa, moralmente imposible = fallida
@@ -1793,24 +1984,24 @@ Excepciones:
                 2. negativa, física o moralmente imposible = no escrita
                 - ordinaria
 
-                    es la que consiste en un hecho futuro e incierto del cual depende la extinción de un derecho, no consistiendo en el incumplimiento de una obligación - opera de pleno derecho.
+                    es la que consiste en un hecho futuro e incierto del cual depende la extinción de un derecho, *no consistiendo en el incumplimiento de una obligación* - opera de pleno derecho.
 
                 - CRT
 
-                    es la que va envuelta en todo contrato bilateral y consiste en el no cumplimiento por parte de uno de los contratantes de lo pactado - dando al contratante diligente un dº opcional que puede ser el cumplimiento forzado de la obligación o su resolución y en ambos casos con indemnización de perjuicios.
+                    es la que va envuelta en todo contrato bilateral y consiste en el **no cumplimiento por parte de uno de los contratantes** de lo pactado - dando al contratante diligente un dº opcional que puede ser el cumplimiento forzado de la obligación o su resolución y en ambos casos con indemnización de perjuicios.
 
                 - pacto comisorio
 
                     simple: es la CRT expresamente estipulada, la cual confiere a la parte diligente que haya cumplido o se encuentre llana a cumplirla, los mismos derechos señalados anteriormente.
 
-                    calificado o ipso facto: es aquel en que se estipula que si no se cumple se resolverá ipso facto el contrato. En el CV da derecho al deudor en pagar dentro de las 24 hrs, en los otros no existe este derecho para poder enervar la acción resolutoria.
+                    calificado o ipso facto: es aquel en que se estipula que si no se cumple se resolverá ipso facto el contrato. En la CV da derecho al deudor en pagar dentro de las 24 hrs, en los otros no existe este derecho para poder enervar la acción resolutoria.
 
                 - efectos
                     1. pendiente = nace el dº con todos sus atributos, sujeto al evento de extinguirse por la condición
                     2. fallida = se consolida definitivamente el dº y el acto se reputa puro y simple
                     3. cumplida = se extingue el dº y desaparece la oº.
-                    4. entre las partes = restitución de la cosa, conserva los frutos (salvo la ley o estipulación en contra)
-                    5. respecto de terceros = si es mueble no dará dº a reivindicarla contra 3º de buena fe, si es inmueble, solo podrá reivindicarla cuando la condición constaba en el título respectivo, inscrito u otorgado por escritura pública.
+                    	- *entre las partes* = restitución de la cosa, conserva los frutos (salvo la ley o estipulación en contra)
+                    	- *respecto de terceros* = si es mueble no dará dº a reivindicarla contra 3º de buena fe, si es inmueble, solo podrá reivindicarla cuando la condición constaba en el título respectivo, inscrito u otorgado por escritura pública.
                 - acción resolutoria
 
                     es la que nace de la CRT y del pacto comisorio para pedir la resolución del contrato por el incumplimiento de las oº contraídas. prescribe en los 5 años (CRT) y 4 años (o menos si emana del pacto comisorio)
@@ -1838,7 +2029,6 @@ Excepciones:
                 1. cumplimiento
                 2. renuncia
                 3. caducidad, por procedimiento concursal o la insolvencia o por la disminución o extinción de cauciones.
-            -
         - modo
 
             consiste en un gravamen o carga impuesta por el acreedor al deudor para que tenga por suyo el objeto de la oº debiendo aplicarlo a un fin especial o sujetarse a un determinado gravamen.
@@ -1856,93 +2046,95 @@ Excepciones:
         son los dº que la ley confiere al acreedor para obtener el cumplimiento exacto, íntegro y oportuno de la oº, cuando éste no la cumple en todo o en parte o esta en mora de cumplirla.
 
     - medios que tiene el acreedor para obtener el cumplimiento de la oº
-        1. el dº de pedir el cumplimiento forzado de la oº
-        2. el derecho a la indemnización de perjuicios
-        3. los derechos auxiliares del acreedor (medidas conservativas, la acción subrogatoria, la acción pauliana y el beneficio de separación)
-    - 1. de la ejecución forzada de la oº
-        1. dº de prenda general de los acreedores, de perseguir la ejecución de una oº sobre todos los bienes raíces o muebles del deudor, presentes o futuros, excepto los inembargables y las oº naturales
-        2. los acreedores podrán exigir que se vendan todos los bienes del deudor hasta concurrencia de sus créditos, intereses y costas, para que con el producto se les satisfaga íntegramente.
-        3. para la ejecución forzada se requiere un título ejecutivo.
-        - oº de dar
-            1. mediante el uso de la fuerza pública si se encuentra en poder del deudor
-            2. si se trata de dinero, se remata los bienes embargados para el pago
-            3. se requiere que sea deuda líquida o posible de liquidarse, conste en un título ejecutivo, actualmente exigible, no esté prescrita
-        - oº de hacer
-            1. pedir que se apremie al deudor para la ejecución del hº
-            2. que se autorice al acreedor para hacerlo ejecutar a expensas del deudor
-            3. que el deudor le indemnice los perjuicios resultantes de la infracción del contrato
-            4. se requiere que conste en un título ejecutivo, actualmente exigible, determinado o determinable (el hº), que no esté prescrito.
-        - oº de no hacer
-            1. si puede destruirse lo hº y es necesario para el objeto que se tuvo en vista al contratar, puede ser compelido (el deudor) a la destrucción o autorizar al acreedor para proceder a su destrucción a expensas del deudor
-            2. si no es necesaria puede cumplirse por equivalencia
-            3. si la destrucción no es posible, se indemnizara perjuicios
-            4. requiere: titulo ejecutivo, actualmente exigible, que se convierta en la destrucción de la obra, que no esté prescrita
-        - embargo
+        1. el dº de pedir el **cumplimiento forzado** de la oº
+        2. el derecho a la **indemnización de perjuicios**
+        3. los **derechos auxiliares** del acreedor (medidas conservativas, la acción subrogatoria, la acción pauliana y el beneficio de separación)
 
-            Es la aprehensión real o simbólica de uno o más bienes del deudor por ministro de fe, por autorización judicial, para que con el producto de la realización se pague al acreedor su crédito.
 
-            - como se realiza
-                1. se verifica por la entrega real o simbólica a un depositario que designe el juez, aun que se mantengan en poder del deudor.
-                2. si recae dineros, alhajas, especies preciosas o efectos públicos, deberá hacerse el depósito en el banco estado de chile a la orden del juez de la causa
-                3. si recae sobre bienes raíces o derechos reales sobre ellos debe inscribirse en el CBR donde estén ubicados.
-            - efectos
-                1. priva al deudor de la administración de los bienes
-                2. priva al deudor de la facultad de disposición (pero no del dominio)
-                3. habilita al acreedor para realizar los bienes embargados y pagarse con su producto
-        - prelación de crédito
+	 - 1. De la ejecución forzada de la oº
+	        1. dº de prenda general de los acreedores, de perseguir la ejecución de una oº sobre todos los bienes raíces o muebles del deudor, presentes o futuros, excepto los inembargables y las oº naturales
+	        2. los acreedores podrán exigir que se vendan todos los bienes del deudor hasta concurrencia de sus créditos, intereses y costas, para que con el producto se les satisfaga íntegramente.
+	        3. para la ejecución forzada se requiere un título ejecutivo.
+	        - oº de dar
+	            1. mediante el uso de la fuerza pública si se encuentra en poder del deudor
+	            2. si se trata de dinero, se remata los bienes embargados para el pago
+	            3. se requiere que sea deuda líquida o posible de liquidarse, conste en un título ejecutivo, actualmente exigible, no esté prescrita
+	        - oº de hacer
+	            1. pedir que se apremie al deudor para la ejecución del hº
+	            2. que se autorice al acreedor para hacerlo ejecutar a expensas del deudor
+	            3. que el deudor le indemnice los perjuicios resultantes de la infracción del contrato
+	            4. se requiere que conste en un título ejecutivo, actualmente exigible, determinado o determinable (el hº), que no esté prescrito.
+	        - oº de no hacer
+	            1. si puede destruirse lo hº y es necesario para el objeto que se tuvo en vista al contratar, puede ser compelido (el deudor) a la destrucción o autorizar al acreedor para proceder a su destrucción a expensas del deudor
+	            2. si no es necesaria puede cumplirse por equivalencia
+	            3. si la destrucción no es posible, se indemnizara perjuicios
+	            4. requiere: titulo ejecutivo, actualmente exigible, que se convierta en la destrucción de la obra, que no esté prescrita
+	        - embargo
 
-            consiste en un conjunto de reglas establecidas por la ley que determinan el orden y forma en que deben pagarse los diversos acreedores de un deudor.
+	            Es la aprehensión real o simbólica de uno o más bienes del deudor por ministro de fe, por autorización judicial, para que con el producto de la realización se pague al acreedor su crédito.
 
-            Por RG existe igualdad de los acreedores. Sin embargo, existen causales de preferencias que están establecidas en consideración al crédito.
+	            - como se realiza
+	                1. se verifica por la entrega real o simbólica a un depositario que designe el juez, aun que se mantengan en poder del deudor.
+	                2. si recae dineros, alhajas, especies preciosas o efectos públicos, deberá hacerse el depósito en el banco estado de chile a la orden del juez de la causa
+	                3. si recae sobre bienes raíces o derechos reales sobre ellos debe inscribirse en el CBR donde estén ubicados.
+	            - efectos
+	                1. priva al deudor de la administración de los bienes
+	                2. priva al deudor de la facultad de disposición (pero no del dominio)
+	                3. habilita al acreedor para realizar los bienes embargados y pagarse con su producto
+	        - prelación de crédito
 
-            - clases de créditos
-                - Créditos de 1ª clase
-                    1. costas judiciales
-                    2. expensas funerales
-                    3. gastos de enfermedad
-                    4. gastos que incurra para poner a disposición la masa de los bienes del deudor a los acreedores
-                    5. remuneraciones de los trabajadores
-                    6. créditos del fisco en contra de entidades administradoras de fondos de pensiones.
-                    7. artículos necesarios de subsistencia suministrados al deudor y familia durante los últimos 3 meses
-                    8. indemnizaciones legales y convencionales de origen laboral
-                    9. créditos del fisco por impuestos de retención y recargo.
-                - Créditos de 2ª clase
-                    1. el credito del posadero
-                    2. el del acreedor o empresario de transportes
-                    3. crédito del acreedor prendario sobre la prenda
-                    4. derecho legal de retención.
-                - Créditos de 3ª clase
-                    1. Créditos hipotecarios
-                    2. Censos debidamente inscritos
-                    3. Derecho legal de retención sobre bienes raíces judicialmente declarado e inscrito en el Registro de hipotecas y gravámenes
-                    4. Derecho del aviador derivado del contrato de avío.
-                - Créditos de 4ª clase
-                    1. Créditos del fisco contra recaudadores o administradores de bienes fiscales
-                    2. créditos de ciertas instituciones públicas contra recaudadores y administradores de sus bienes
-                    3. los créditos de las mujeres casadas, por bienes de su propiedad administrados por su marido
-                    4. los de las personas que están bajo tutela o curaduría contra sus tutores o curadores
-                    5. del pupilo contra el que se casa con la madre o abuela, tutora o curadora art. 511
-                - Créditos de 5ª clase
+	            consiste en un conjunto de reglas establecidas por la ley que determinan el orden y forma en que deben pagarse los diversos acreedores de un deudor.
 
-                    son aquellos a que la ley no confiere preferencia alguna para su pago
+	            Por RG existe igualdad de los acreedores. Sin embargo, existen causales de preferencias que están establecidas en consideración al crédito.
 
-            - cesión de bienes
+	            - clases de créditos
+	                - Créditos de 1ª clase
+	                    1. costas judiciales
+	                    2. expensas funerales
+	                    3. gastos de enfermedad
+	                    4. gastos que incurra para poner a disposición la masa de los bienes del deudor a los acreedores
+	                    5. remuneraciones de los trabajadores
+	                    6. créditos del fisco en contra de entidades administradoras de fondos de pensiones.
+	                    7. artículos necesarios de subsistencia suministrados al deudor y familia durante los últimos 3 meses
+	                    8. indemnizaciones legales y convencionales de origen laboral
+	                    9. créditos del fisco por impuestos de retención y recargo.
+	                - Créditos de 2ª clase
+	                    1. el credito del posadero
+	                    2. el del acreedor o empresario de transportes
+	                    3. crédito del acreedor prendario sobre la prenda
+	                    4. derecho legal de retención.
+	                - Créditos de 3ª clase
+	                    1. Créditos hipotecarios
+	                    2. Censos debidamente inscritos
+	                    3. Derecho legal de retención sobre bienes raíces judicialmente declarado e inscrito en el Registro de hipotecas y gravámenes
+	                    4. Derecho del aviador derivado del contrato de avío.
+	                - Créditos de 4ª clase
+	                    1. Créditos del fisco contra recaudadores o administradores de bienes fiscales
+	                    2. créditos de ciertas instituciones públicas contra recaudadores y administradores de sus bienes
+	                    3. los créditos de las mujeres casadas, por bienes de su propiedad administrados por su marido
+	                    4. los de las personas que están bajo tutela o curaduría contra sus tutores o curadores
+	                    5. del pupilo contra el que se casa con la madre o abuela, tutora o curadora art. 511
+	                - Créditos de 5ª clase
 
-                es el abandono voluntario que el deudor hace de todos sus bienes a su acreedor o acreedores, cuando a consecuencia de accidentes inevitables no se halla en estado de pagar su deuda.
+	                    son aquellos a que la ley no confiere preferencia alguna para su pago
 
-                - requisitos
-                    1. deudor civil y no comercial
-                    2. deudor de buena fe
-                    3. declarado judicialmente
-                    4. no haber incurrido en alguna causal de exclusión de la cesión de bienes
-                - casos en que los acreedores no están obligados a aceptar la cesión de bienes 1617
-                    1. deudor enajeno, empeño o hipotecó como propios, bienes ajenos a sabiendas
-                    2. deudor condenado por hurto, robo falsificación u otros
-                    3. ha obtenido quitas o esperas de sus acreedores
-                    4. ha dilapidado bienes
-                    5. no ha hecho una exposición circunstanciada y verídica del estado de sus negocios o se ha valido de cualquier otro medio fraudulento para perjudicar a sus acreedores
+	            - cesión de bienes
 
-    - 2. indemnización de perjuicios
+	                es el abandono voluntario que el deudor hace de todos sus bienes a su acreedor o acreedores, cuando a consecuencia de accidentes inevitables no se halla en estado de pagar su deuda.
+
+	                - requisitos
+	                    1. deudor civil y no comercial
+	                    2. deudor de buena fe
+	                    3. declarado judicialmente
+	                    4. no haber incurrido en alguna causal de exclusión de la cesión de bienes
+	                - casos en que los acreedores no están obligados a aceptar la cesión de bienes 1617
+	                    1. deudor enajeno, empeño o hipotecó como propios, bienes ajenos a sabiendas
+	                    2. deudor condenado por hurto, robo falsificación u otros
+	                    3. ha obtenido quitas o esperas de sus acreedores
+	                    4. ha dilapidado bienes
+	                    5. no ha hecho una exposición circunstanciada y verídica del estado de sus negocios o se ha valido de cualquier otro medio fraudulento para perjudicar a sus acreedores
+
+    - 2. Indemnización de perjuicios
 
         es el derecho del acreedor para exigir del deudor el pago de una suma de dinero equivalente al beneficio que le habría reportado el cumplimiento íntegro y oportuno de la obligación.
 
@@ -1956,18 +2148,18 @@ Excepciones:
                 aquella a que tiene derecho el acreedor cuando el deudor cumplió su obligación tardíamente
 
         - requisitos
-            - infracción de la oº
+            - a) **infracción de la oº**
 
                 puede haber incumplimiento total o parcial culpable al deudor. Debe cumplir lo convenido no sólo lo expresamente estipulado, **sino todas aquellas obligaciones que por ley o costumbre** pertenecen al contrato, de forma oportuna tanto de las obligaciones principales o accesorias.
 
-            - perjuicio causado
+            - b) **perjuicio causado**
 
                 cualquier detrimento o daño que experimente el patrimonio de una persona, sea que signifique una disminución real o efectiva de él, sea que sólo importe la privación de obtener una utilidad o ganancia. Pérdida efectiva o daño emergente. pérdida de ganancia o lucro cesante.
 
                 - evaluación de perjuicios
                     - legal
 
-                        procede solamente en aquellas oº que tienen por objeto el pago de una cantidad de dinero y consiste en el **pago de intereses**, por la cual no se necesita probar los perjuicios y se trata de una indemnización de carácter moratoria.
+                       art. 1559 procede solamente en aquellas oº que tienen por objeto el pago de una cantidad de dinero y consiste en el **pago de intereses**, por la cual no se necesita probar los perjuicios y se trata de una indemnización de carácter moratoria.
 
                     - judicial
 
@@ -1975,13 +2167,13 @@ Excepciones:
 
                         - clases de perjuicios
 
-                            directos = consecuencia inmediata y directa del incumplimiento de la obligación (salvo estipulación contraria)
+                            *directos* = consecuencia inmediata y directa del incumplimiento de la obligación (**salvo estipulación contraria**)
 
-                            previstos = los que las partes pudieron prever al tiempo del contrato (siempre)
+                            *previstos* = los que las partes pudieron prever al tiempo del contrato (**siempre**)
 
-                            imprevistos = los que no pudieron razonablemente preverse cuando la obligación se contrajo (con dolo o culpa grave)
+                            *imprevistos* = los que no pudieron razonablemente preverse cuando la obligación se contrajo (**con dolo o culpa grave**)
 
-                            indirectos = aquellos que directamente provienen de una causa extraña y solo remotamente del incumplimiento (nunca)
+                            *indirectos* = aquellos que directamente provienen de una causa extraña y solo remotamente del incumplimiento (**nunca**)
 
                         - clases de daño
 
@@ -1995,25 +2187,93 @@ Excepciones:
 
                         se trata de la **cláusula penal** es aquella en que una persona, para asegurar el cumplimiento de una obligación, se sujeta a una pena, que consiste en **dar hacer algo en caso de no ejecutar o de retardar la obligación principal**
 
+						- características
+							- accesoria
+							- condicional
+							- expresa
+							- garantía o caución personal
+							- puede ser moratoria o compensatoria
+							- es una evaluación anticipada de perjuicios
+							- hace presumir de derecho la existencia de perjuicios
+							- puede otorgarla un tercero
                         - efectos
                             1. debe existir mora del deudor
                             2. si se cumple parcialmente y se acepta por parte del acreedor, la pena se rebaja en forma parcial
                             3. antes de la mora el acreedor solo puede demandar la obligación principal
                             4. después, puede a su arbitrio, la obligación principal o la pena, a menos que la pena se haya estipulado por el simple retardo o que por el pago de la pena no se extingue la obligación principal
                             5. en el caso de la transacción art. 2463 procede la pena y cumplimiento de la obligación principal, al igual que las hipótesis excepcionales establecidas en el nº 4.
-                        - reducción de la pena
-                            1. cuando acreedor acepta un pago parcial
-                            2. cuando la pena es enorme (contratos conmutativos = si excede del duplo de la obligación; mutuo = si excede los intereses penales; demás casos entregado a la prudencia del juez)
+
+			![Alt text](dif.jpeg)
+
+			- reducción de la pena
+	    		 1. cuando acreedor acepta un pago parcial
+             	 1. cuando la pena es enorme (contratos conmutativos = si excede del duplo de la obligación; mutuo = si excede los intereses penales; demás casos entregado a la prudencia del juez)
+         - c) **Que se impute a dolo o culpa del deudor**
+	 		- grados de imputación:
+				- Caso fortuito o fuerza mayor
+				- Culpa
+				- Dolo
+             - caso fortuito o fuerza mayor
+
+                  es un imprevisto que no es posible resistir. Exime de responsabilidad al deudor respecto a su incumplimiento o retardo. Si es parcial lo exime respecto a esa parcialidad.
+
+
+				requisitos:
+
+				- debe ser *ajeno*
+				- imprevisto al momento de la celebración
+				- irresistible o insuperable
+				- imposibilidad *permanente*
+
+				efectos:
+
+				- deudor queda *exento* de responsabilidad
+				- no responde del retardo
+				- si deudor no puede cumplir *parte*, queda liberado de esta parte
+
+                    - no exime
+                        1. estipulación expresa de las partes
+                        2. caso fortuito por culpa del deudor
+                        3. caso fortuito durante la mora
+                        4. caso de hurto y robo
+                - teoría de la imprevisión
+
+                    se trata de una eximente de responsabilidad basada en la ocurrencia de un acontecimiento en condiciones generales, imprevisible, ajeno a la voluntad de las partes trastorna gravemente el equilibrio de las prestaciones de un contrato de tracto sucesivo, haciéndolo excesivamente oneroso el cumplimiento
+
+                - teoría de los riesgos
+
+                    es la que determina quien sufre en definitiva la pérdida de la cosa debida en los contratos bilaterales cuando está pendiente el cumplimiento de una obligación de dar o entregar una especie o cuerpo cierto.
+
+                    RG = el riesgo del cuerpo cierto cuya entrega se debe es siempre del acreedor
+
             - imputación por dolo o culpa
                 - dolo
 
                     consiste en la intención positiva de inferir injuria a la persona o propiedad de otro
 
-                    - efectos
+					Triple ámbito de aplicación del dolo:
+
+					- Como vicio del consentimiento
+					- Como agravante de la responsabilidad contractual
+					- Como elemento constitutivo de la responsabilidad extracontractual
+
+                	- efectos
                         1. da lugar a la indemnización de perjuicios
                         2. agrava la responsabilidad del deudor
                         3. origina responsabilidad solidaria
                         4. puede ser renunciada (no anticipadamente)
+					- características
+						- no se presumen, salvo:
+							- albacea (art. 1301)
+							- ocultación del testamento (art. 968 n°5)
+							- la apuesta (art. 2261)
+							- medidas prejudiciales (art. 280 CPC)
+						- no se puede condonar anticipada
+						- equivale a culpa grave
+						- el dolo no se gradúa
+						- las partes pueden atenuar la responsabilid del dolo
+						- se presume de hechos
+
 
                 - culpa
 
@@ -2032,7 +2292,7 @@ Excepciones:
 
                             falta de cuidado general que hay que emplear en la ejecución de hechos para evitar perjuicios a terceros
 
-                    - clases
+                    - clases (o graduaciones)
                         - culpa grave
 
                             es la que consiste en no manejar los negocios ajenos con aquel cuidado que aún las personas negligentes y de poca prudencia suelen emplear en sus negocios propios
@@ -2055,57 +2315,47 @@ Excepciones:
 
                             es la falta de aquella esmerada diligencia que un hombre juicioso emplea en la administración de sus negocios importantes. Responde de esta culpa el deudor en aquellos contratos en que el es el único beneficiario
 
-                - caso fortuito o fuerza mayor
+       - d) **Que el deudor esté constituido en mora**
 
-                    es un imprevisto que no es posible resistir. Exime de responsabilidad al deudor respecto a su incumplimiento o retardo. Si es parcial lo exime respecto a esa parcialidad.
+       		La mora es el retardo culpable en el cumplimiento de una obligación, más allá del plazo fijado para su ejecución o que persiste después del requerimiento
 
-                    - no exime
-                        1. estipulación expresa de las partes
-                        2. caso fortuito por culpa del deudor
-                        3. caso fortuito durante la mora
-                        4. caso de hurto y robo
-                - teoría de la imprevisión
+          - requisitos
+              1. retardo en el cumplimiento
+              2. retardo culpable (dolo o culpa)
+              3. interpelación
+                  - contractual
+                      - expresa = cuando no ha cumplido dentro del término estipulado (salvo que la ley lo establezca como en el caso de la cosa arrendada)
+                      - tácita = cuando la cosa no ha podido ser dada o ejecutada sino dentro de cierto lapso
+                  - extracontractual
+                      - cuando ha sido reconvenido judicialmente, desde la notificación
+              4. que el acreedor haya cumplido, por su parte, la obligación o manifieste estar llano a cumplirla
+			- Efectos de la mora:
+				- Impone al deudor la obligación de indemnizar perjuicios
+				- Hace el deudor responsable del caso fortuito que sobreviene durante la mora
+				- Pone a cargo del deudor el riesgo de la especie o cuerpo cierto que se debe
 
-                    se trata de una eximente de responsabilidad basada en la ocurrencia de un acontecimiento en condiciones generales, imprevisible, ajeno a la voluntad de las partes trastorna gravemente el equilibrio de las prestaciones de un contrato de tracto sucesivo, haciéndolo excesivamente oneroso el cumplimiento
+		 	- Efectos de la mora del **acreedor**:
+				- Atenúa la responsabilidad del deudor, sólo responde de culpa lata o dolo
+				- El acreedor debe indemnizar los perjuicios
+				- No exonera al deudor. Debe pagar por consignación
+          - Excepción: la mora purga la mora
 
-            - mora deudor
+              en los contratos bilaterales, ninguno de los contratantes está en mora dejando de cumplir lo pactado, mientras el otro no lo cumple por su parte, o se allana a cumplirlo en la forma y tiempo debido.
 
-                es el retardo culpable en el cumplimiento de una obligación, más allá del plazo fijado para su ejecución o que persiste después del requerimiento
-
-                - requisitos
-                    1. retardo en el cumplimiento
-                    2. retardo culpable (dolo o culpa)
-                    3. interpelación
-                        - contractual
-                            - expresa = cuando no ha cumplido dentro del término estipulado (salvo que la ley lo establezca como en el caso de la cosa arrendada)
-                            - tácita = cuando la cosa no ha podido ser dada o ejecutada sino dentro de cierto lapso
-                        - extracontractual
-                            - cuando ha sido reconvenido judicialmente, desde la notificación
-                    4. que el acreedor haya cumplido, por su parte, la obligación o manifieste estar llano a cumplirla
-                - la mora purga la mora
-
-                    en los contratos bilaterales, ninguno de los contratantes está en mora dejando de cumplir lo pactado, mientras el otro no lo cumple por su parte, o se allana a cumplirlo en la forma y tiempo debido.
-
-                - efectos
-                    1. impone al deudor la obligación de indemnizar perjuicios
-                    2. hace al deudor responsable del caso fortuito que sobreviene durante la mora.
-                    3. pone a cargo del deudor el riesgo de la especie o cuerpo cierto que se debe.
-            - inexistencia de una cláusula de irresponsabilidad que exima de indemnización de perjuicios en caso de incumplimiento.
-        - teoría de riesgos
-
-            es la que determina quien sufre en definitiva la pérdida de la cosa debida en los contratos bilaterales cuando está pendiente el cumplimiento de una obligación de dar o entregar una especie o cuerpo cierto.
-
-            RG = el riesgo del cuerpo cierto cuya entrega se debe es siempre del acreedor
-
-    - 3. derechos auxiliares del acreedores
-        - medidas conservativas
+          - efectos
+              1. impone al deudor la obligación de indemnizar perjuicios
+              2. hace al deudor responsable del caso fortuito que sobreviene durante la mora.
+              3. pone a cargo del deudor el riesgo de la especie o cuerpo cierto que se debe.
+      - inexistencia de una cláusula de irresponsabilidad que exima de indemnización de perjuicios en caso de incumplimiento.
+    - 3. Derechos auxiliares del acreedores
+        - a) medidas conservativas
             - guarda y aposición de sellos
             - derechos del acreedor condicional
             - derecho legal de retención del arrendatario, vendedor, mandatario, depositario, comodatario
             - la herencia yacente
             - medidas precautorias
             - fideicomisario, asignatario y el acreedor condición
-        - acción subrogatoria u oblicua
+        - b) acción subrogatoria u oblicua
 
             consiste en el ejercicio por los acreedores de acciones y derechos que competen al deudor para incorporar al patrimonio de éste, bienes en que hacer afectivos sus créditos
 
@@ -2124,7 +2374,7 @@ Excepciones:
                 1. demandado puede oponer las excepciones que tenía contra el deudor
                 2. sentencia produce cosa juzgada respecto del deudor
                 3. los bienes que ingresan benefician a todos los acreedores
-        - acción revocatoria o pauliana
+        - c) acción revocatoria o pauliana
 
             es la que tiene los acreedores para obtener que se deje sin efecto las enajenaciones hechas por el deudor en fraude o con perjuicio a sus derechos
 
@@ -2138,7 +2388,7 @@ Excepciones:
                 4. sólo hasta el monto debido
                 5. los terceros pueden enervar, pagando
                 6. prescribe en un año
-        - beneficio de separación
+        - d) beneficio de separación
 
             consiste en un derecho auxiliar de los acreedores hereditarios y testamentarios para pedir que no se confundan los bienes del difunto con los bienes del heredero. Con esto, tendrán derecho a que de los bienes del difunto se les cumplan las obligaciones hereditarias o testamentarias con preferencia a las deudas propias del heredero
 
@@ -2146,6 +2396,8 @@ Excepciones:
     - la resciliación o mutuo disenso
 
         es una convención entre acreedor y deudor, por la cual ambos, teniendo capacidad de disposición, consienten en extinguir la obligación, dejando sin efecto el contrato
+
+		No procede respecto: mandato, arrendamiento
 
     - el pago o solución
 
@@ -2165,7 +2417,7 @@ Excepciones:
             - al poseedor del crédito
         - forma de pago
 
-            debe ser de conformidad al tenor de la obligación y de forma íntegra, y específico, con la misma cosa debida (especie o cuerpo cierto).
+            debe ser de conformidad al tenor de la obligación, de forma íntegra, y específico, con la misma cosa debida (especie o cuerpo cierto).
 
             - excepciones
                 1. obligaciones modales
@@ -2179,7 +2431,7 @@ Excepciones:
             - especie o cuerpo cierto, en lugar en que exista al constituirse la obligación
             - si es otra cosa, en el domicilio del deudor al constituirse la obligación
         - qué se debe pagar?
-            - oº de especie o cuerpo cierto
+            - **oº de especie o cuerpo cierto**
 
                 la cosa debe entregarse en el estado en que se encuentra
 
@@ -2199,10 +2451,10 @@ Excepciones:
                     2. estando en mora, pero de haberse cumplido oportunamente la obligación la cosa se hubiere deteriorado igualmente en poder del acreedor
                     3. por hechos de terceros que no responde el deudor
                     4. destrucción de la cosa ofrecida al acreedor
-            - oº de genero
+            - **oº de genero**
                 1. acreedor no puede pedir un individuo determinado
                 2. deudor puede pagar con un individuo indeterminado de un género determinado, de una calidad de a lo menos mediana (con excp. mutuo: debe ser del mismo genero y calidad)
-            - oº de dinero
+            - **oº de dinero**
                 1. sólo suma numérica
                 2. puede ser reajustable
                 3. se puede pactar en moneda extranjera o valor oro
@@ -2245,6 +2497,12 @@ Excepciones:
 
                 es una ficción legal por la cual el crédito que ha sido pagado con dineros proporcionados por un tercero, y que, por consiguiente se extingue respecto del acreedor, se reputa subsistir con todos sus accesorio, en provecho del tercero para asegurarle el reembolso de lo pagado.
 
+				- Requisitos:
+					- pago de deuda ajena
+					- debe ser voluntario
+					- con fondos propios
+					- quien paga debe quedar en la misma situación jurídica que el acreedor
+
                 - casos de subrogación legal (aún contra la voluntad del acreedor)
                     1. del acreedor que paga a otro acreedor en razón de un privilegio o hipoteca
                     2. del que habiendo comprado un inmueble es obligado a pagar a los acreedores hipotecarios
@@ -2275,9 +2533,14 @@ Excepciones:
 
         es una convención entre acreedor y deudor por la cual el deudor paga con una prestación diversa a la que se obliga.
 
+		Efectos:
+
+		- Si se considera novación = extingue el pago y no revive aunque la cosa sea evicta
+		- Si se la considera modalidad = revive la obligación si es evicta
+
     - novación
 
-        es la sustitución de una nueva obligación a otra anterior, la cual queda extinguida.
+        es la sustitución de una nueva obligación a otra anterior, la cual queda extinguida. Es convención y contrato de carácter extintivo y sustitutivo.
 
     - remisión
 
@@ -2287,9 +2550,25 @@ Excepciones:
 
         consiste en un modo de extinguir las obligaciones en que ambas partes comparten la calidad de acreedor y deudor, extinguiéndose ambas obligaciones hasta la concurrencia de la de menor valor, reuniéndose los demás requisitos legales.
 
+		Requisitos:
+		- partes recíprocamente acreedoras y deudoras
+		- obligaciones de igual naturaleza
+		- obligaciones deben ser exigibles
+		- liquidez de ambas deudas
+
+
+		Hechos que impiden la compensación:
+		- que la obligación sea natural
+		- condición suspensiva pendiente
+		- plazo no vencido
+
+		Obligaciones no compensables:
+		- demanda de restitución de un despojo
+		- demanda de indemnización por violencia o fraude
+		- demanda de alimentos
     - confusión
 
-        modo de extinguir las obligaciones que se produce cuando en una misma persona concurren las calidades de acreedor y deudor
+        modo de extinguir las obligaciones que, opera de pleno derecho y que se produce cuando en una misma persona concurren las calidades de acreedor y deudor
 
     - pérdida de la cosa que se debe
 
@@ -2306,34 +2585,61 @@ Excepciones:
 
     - prescripción
 
-        es un modo de extinguir las acciones y derechos ajenos por no haberse ejercido dichas acciones y derechos durante cierto lapso de tiempo y concurriendo los demás requisitos legales, es decir, no extingue la obligación civil propiamente tal sino que simplemente la transforma en natural, extinguiendo la acción para exigir su cumplimiento.
+        es un modo de *extinguir* las acciones y derechos ajenos por no haberse ejercido dichas acciones y derechos durante cierto lapso de tiempo y concurriendo los demás requisitos legales, es decir, no extingue la obligación civil propiamente tal sino que simplemente la transforma en natural, extinguiendo la acción para exigir su cumplimiento.
 
-        - son imprescriptibles
-            1. la acción de reclamación de estado civil
-            2. acción para pedir la destrucción de una obra nueva que corrompa el aire o la haga conocidamente dañoso
-            3. la acción de divorcio, separación judicial y nulidad del matrimonio
-            4. acción para pedir la partición
-        - prescripciones de largo tiempo
-            - acciones de obligaciones
-                1. ejecutivas = 3 años
-                2. ordinarias = 5 años
-            - acciones de obligaciones accesorias
+		- Requisitos:
+			- A) Acción debe ser prescriptible
+   			     - son imprescriptibles
+   			         1. la acción de reclamación de estado civil
+   			         2. acción para pedir la destrucción de una obra nueva que corrompa el aire o la haga conocidamente dañoso
+   			         3. la acción de divorcio, separación judicial y nulidad del matrimonio
+   			         4. acción para pedir la partición
 
-                junto con la obligación principal 2516
+			- B) Debe ser alegada
+				- Salvo: acción ejecutiva, en materia penal
+			- C) Que no se haya interrumpido
+				- natural = por el hecho de reconocer el deudor la obligación, expresamente o de forma tácita
+				- civil = dda judicial notificada
 
-            - acciones propietarias
-                - toda acción por la que se reclama un derecho se extingue por la prescripción adquisitiva de ese mismo derecho. Reivindicatoria: 2 y 5, 10 años (PAE)
-                - petición de herencia: 5 y 10 años (dependiendo si es heredero putativo)
-                - servidumbre: 3 años
-        - prescripciones de corto tiempo
-            - presuntivas de pago
-                1. honorario de profesionales liberales: 2 años
-                2. mercaderes, artesanos, servicios accidentales: 1 años
-                3. impuestos: 3 años. 6 sujetos a declaración
-            - especiales
-                1. despojo violento, redhibitoria muebles: 6 meses
-                2. posesorias rebaja del precio: 1 año
-                3. reforma de testamento, pacto de retroventa, responsabilidad extracontractual: 4 años
+					- Efectos de la interrupción:
+						- detiene el curso de la prescripción
+						- hace perder todo el tiempo trascurrido
+						- son relativos, salvo solidaridad o indivisibilidad
+			- D) Que no esté suspendida
+
+				se suspende a favor de:
+				- los menores
+				- dementes
+				- sordos
+				- sordomudos
+				- potestad paterna, tutela o curatela
+				- mujer casada en soc. conyugal
+				- siempre entre cónyuges
+			- E) Transcurso del tiempo
+				- se cuenta, por rg., desde que se hizo exigible
+				- el plazo por rg. es legal
+				- forma de contar establecida por el legislador art. 48 y ss.
+	- A) Prescripciones de largo tiempo
+   		 - acciones de obligaciones
+   		     1. ejecutivas = 3 años
+   		     2. ordinarias = 5 años
+   		 - acciones de obligaciones accesorias
+
+   		     junto con la obligación principal 2516
+
+   		 - acciones propietarias
+   		     - toda acción por la que se reclama un derecho se extingue por la prescripción adquisitiva de ese mismo derecho. Reivindicatoria: 2 y 5, 10 años (PAE)
+   		     - petición de herencia: 5 y 10 años (dependiendo si es heredero putativo)
+   		     - servidumbre: 3 años
+   	 - B) Prescripciones de corto tiempo
+   		 - presuntivas de pago
+   		     1. honorario de profesionales liberales: 2 años
+   		     2. mercaderes, artesanos, servicios accidentales: 1 años
+   		     3. impuestos: 3 años. 6 sujetos a declaración
+   		 - especiales
+   		     1. despojo violento, redhibitoria muebles: 6 meses
+   		     2. posesorias rebaja del precio: 1 año
+   		     3. reforma de testamento, pacto de retroventa, responsabilidad extracontractual: 4 años
     - caducidad
 
         es una sanción legal que consiste en la extinción de un derecho por no haberse ejercido o cumplido una formalidad legal dentro del plazo fatal que la misma ley establece
@@ -2356,17 +2662,17 @@ Excepciones:
         1. unilateral = una de las partes se obliga para con otra que no contrae obligación alguna. Mutuo, comodato, prenda, depósito (contratos reales)
         2. bilaterales = las partes contratantes se obligan recíprocamente. Compraventa, arrendamiento, transacción
         - importancia
-            - CRT
-            - teoría de los riesgos
-            - la mora purga la mora
+            - **CRT**
+            - **teoría de los riesgos**
+            - **la mora purga la mora**
     - gratuitos y onerosos
         1. gratuitos = sólo tiene por objeto la utilidad de una de las partes, sufriendo la otra el gravamen. Comodato, donación, depósito
         2. oneroso = tiene por objeto la utilidad de ambos contratantes, gravándose cada uno en beneficio del otro. Permuta, compraventa, mutuo con interés
         - importancia
-            - acción pauliana
-            - determinar grado de culpa
-            - error en la persona
-            - saneamiento de la evicción
+            - **acción pauliana**
+            - **determinar grado de culpa**
+            - **error en la persona**
+            - **saneamiento de la evicción**
     - conmutativos y aleatorios
         1. conmutativos = cada una de las partes se obliga a dar o hacer una cosa que se mira como equivalente a lo que la otra parte debe dar o hacer a su vez (se miran como equivalentes el sacrificio y el provecho)
         2. aleatorios = cuando el equivalente consiste en una contingencia incierta de ganancia o pérdida
@@ -2438,14 +2744,14 @@ Excepciones:
 
         es la ineficacia respecto de terceros de un derecho nacido como consecuencia de la celebración o de la declaración de nulidad de un acto
 
-        - por defecto de forma
-            - falta de publicidad
+        - **por defecto de forma**
+            - por falta de *publicidad*
                 1. falta de inscripción de embargos o precautorias en inmuebles
                 2. falta de inscripción de la sentencia que declara la prescripción adquisitiva de inmuebles
                 3. falta de anotación marginal de la contraescritura
                 4. falta de publicación e inscripción del decreto de interdicción
                 5. en la cesión de derechos, no produce efecto alguno mientras no ha sido notificada por el cesionario al deudor o aceptado por éste
-            - falta de fecha cierta
+            - por falta de *fecha cierta*
 
                 art. 1703 CC la fecha de instrumento privado no se cuenta respecto de terceros sino desde:
 
@@ -2453,7 +2759,7 @@ Excepciones:
                 - el día en que ha sido copiado en un registro público
                 - que conste haberse presentado en juicio
                 - que haya tomado razón de él o le haya inventariado un funcionario competente, en carácter de tal
-        - por defecto de fondo
+        - **por defecto de fondo**
             - casos
                 - por fraude
 
@@ -2486,22 +2792,32 @@ Excepciones:
 
     contrato en virtud del cual dos o más personas se obligan a celebrar un contrato futuro, concurriendo los requisitos legales
 
+	Requisitos:
+	- debe constar por escrito
+	- que el contrato prometido no sea de aquellos que las leyes declaran ineficaces
+	- debe contener un plazo o condición
+	- que se especifique de tal manera que solo falten la tradición o solemnidad que las leyes prescriben
 - compraventa
 
     es un contrato en que una de las partes  se obliga a dar una cosa y la otra a pagarla en dinero
 
+	- Características:
+		- principal
+		- nominado
+		- bilateral
+		- oneroso
+		- por rg. conmutativo
+		- por rg. consensual
+		- TTD
     - elementos
         - consentimiento libre y espontáneo (salvo la venta forzada)
+			- Debe recaer sobre:
+				- la cosa
+				- el precio
+				- la naturaleza del contrato
         - la cosa (comerciable, determinada o determinable, real, no pertenecerle al comprador)
         - precio fijado en dinero
         - solemnidades en algunos casos
-    - consentimiento
-
-        debe recaer sobre:
-
-        - la cosa
-        - el precio
-        - la naturaleza del contrato
     - casos de compraventa solemnes
         - por escritura pública
             1. bienes raíces (salvo Serviu 14.171, caso de compraventa b. raíz por escritura privada)
@@ -2511,6 +2827,7 @@ Excepciones:
         - con arras
             - como garantía de la celebración o ejecución del contrato
             - como parte del precio o en señal de quedar convenidos
+	    ![Arras](arras.png)
 
     - solemnidades
         - legales
@@ -2534,10 +2851,24 @@ Excepciones:
 
     - efectos
         - obligaciones del vendedor
-            - entregar la cosa
+            - A) entregar la cosa
                 - conferir al comprador la posesión legal y material de la cosa
                 - si la cosa consiste en especie o cuerpo cierto además tiene la obligación de conservar la cosa hasta su entrega (salvo que sea de ejecución instantánea)
-            - saneamiento
+				- forma de entregar
+					- muebles art. 684
+					- inmuebles art 686
+				- momento de entrega
+					- tan pronto quede perfecto
+					- una vez cumplido el plazo, modo o estipulación convenida
+				- lugar de entrega
+					- lugar convenido
+					- donde se encontraba la especie o cuerpo cierto
+					- en el domicilio del deudor
+				- gastos de la entrega
+					- vendedor = gastos para poner la cosa en disposición de entregarla
+					- comprador = trasporte después de efectuada la entrega
+
+            - B) saneamiento
                 - evicción
 
                     se produce cuando el comprador es privado de todo o parte de la cosa por sentencia judicial **anterior** a la compra
@@ -2586,12 +2917,22 @@ Excepciones:
 
         - obligaciones del comprador
             1. recibir la cosa
+	    	- efectos de la mora del comprador en recibir la cosa:
+				- abonar perjuicios
+				- vendedor solo responderá de dolo o culpa grave
             2. pagar el precio
+
+	- Pactos Accesorios:
+		- Pacto comisorio
+		- Pacto de retroventa
+		- Pacto de retracto
+		- Otros pactos conforme a las rg.
 
 - permuta
 
     Es el contrato por el cual las partes se obligan mutuamente a dar una especie o cuerpo cierto por otro
 
+	Por rg. se aplican las normas sobre la CV en lo que no sea contrario a su naturaleza
 - cesión de derechos
 
     Consiste en el traspaso de un derecho por parte de su titular a otra persona por un acto entre vivos
@@ -2612,10 +2953,217 @@ Excepciones:
 
         Son aquellos derechos cuya existencia es discutida en juicio, evento incierto de la litis, solo le corresponde al demandante. Se efectúa apersonándose el cesionario al juicio, acompañando el título de la cesión
 
-- arrendamiento
+- Arrendamiento
 
     Es un contrato en que las partes se obligan recíprocamente, la una a conceder el goce de una cosa, o a ejecutar una obra o prestar un servicio, y la otra a pagar por este goce, obra o servicio un precio determinado
 
+	Características:
+	- nominado
+	- bilateral, oneroso y conmutativo
+	- mera tolerancia
+	- consensual
+	- acto de administración
+	- trato sucesivo
+	- principal
+
+	Obligaciones del arrendador:
+	- entregar la cosa
+	- mantenerla en el estado de servir
+	- librar al arrendatario de toda turbación o embarazo en el goce la cosa
+	- que la cosa sirva para los fines que se tuvieron en vista al contratar
+
+	Obligaciones del arrendatario:
+	- pagar el precio o renta
+	- usar la cosa según los términos del contrato
+	- cuidar la cosa como un buen padre de familia
+	- efectuar las reparaciones locativas
+	- restituir la cosa al término del arrendamiento
+
+- El Contrato de Mandato
+
+	Características:
+
+	- nominado
+	- principal
+	- generalmente consensual
+	- naturalmente oneroso
+	- bilateral
+	- es solemne
+	- mandatario obra por cuenta y riesgo del mandante
+	- el mandato es un ctto. de confianza
+
+		La representación no es de la esencia de mandato. El encargo debe consistir en la ejecución de actos jurídicos.
+
+	Obligaciones del mandatario:
+	- ejecutar el mandato
+	- rendir cuenta
+	- indemnizar los perjuicios causados al mandante
+
+	Obligaciones del mandante:
+	- cumplir las obligaciones contraídas por el mandatario
+	- proveer al mandatario lo necesario para cumplir el mandato
+	- indemnizarle los gastos y perjuicios en que haya incurrido por causa del mandato
+	- pagar la remuneración convenida o la usual
+
+- El ctto. de Fianza
+
+	Requisitos:
+	- consentimiento expreso
+	- capacidad
+	- obligarse a dar una suma de dinero
+	- existencia de una obligación ppal a la cual accede
+
+	Calidades que debe reunir el fiador:
+	- capacidad
+	- solvencia
+	- domicilio
+
+	Casos en que es obligatorio rendir fianza:
+	- cuando así se hubiere estipulado
+	- cuando la fortuna del deudor ha disminuido en términos de hacer temer que no vaya a cumplir la obligación
+	- existencia de motivos para temer que el deudor se ausente del país
+	- cuando cae en insolvencia
+
+	Defensas del fiador
+	- beneficio de excusión
+		- siempre cuando no esté privado de dicho beneficio que lo haga en tiempo y forma, señalando los bienes
+		- procede una sola vez debiendo señalar todos los bienes
+		- es una excepción dilatoria
+		- obliga al acreedor a perseguir al deudor ppal
+		- puede ser parcial
+
+	- beneficio de división
+		- varios fiadores
+		- no se hayan obligado solidariamente
+		- de un mismo deudor por la misma deuda
+	- excepción de subrogación
+	- excepciones reales y personales
+
+- La Hipoteca
+
+	- es un derecho real que puede tener como fuente: a) la voluntad de las partes (ctto.), b) una sentencia judicial, la ley
+	- es inmueble, salvo naves y aeronaves
+	- accesoria
+	- finca permanece en poder del deudor
+	- otorga una preferencia para el pago y es especial
+	- indivisible
+	- limitación al derecho de dominio
+	- ppio de enajenación
+	- puede ser pactado por un tercero que no contrae obligación alguna
+	- unilateral
+	- puede ser a título gratuito u oneroso
+	- es solemne
+	- la inscripción del ctto constituye tradición
+
+	Efectos:
+	- se refiere al inmueble (por destinación y adherencia también), aumentos y mejoras, rentas, seguro, precio de la expropiación
+	- se puede enajenar, gravar usar y gozar. En caso de deterioro, a) ddar que se mejore, b) que se otorgue otra seguridad equivalente, c) exigir el pago inmediato, d) impetrar medidas conservativas
+
+	Derechos del acreedor hipotecario:
+	- derecho de venta
+	- derecho de persecución = acción de desposeimiento
+	- derecho de preferencia
+
+	Extinción de la hipoteca:
+	- por vía ppal:
+		- por resolución del derecho constituyente
+		- por la llegada o prórroga del plazo o el cumplimiento de la condición
+		- confusión
+		- expropiación
+		- renuncia del acreedor
+		- cancelación del acreedor, al margen de la inscripción
+		- purga de la hipoteca
+	- por vía consecuencial, extinguiéndose la obligación principal
+
+- La Prenda
+
+	Características:
+	- es un contrato unilateral, que puede ser gratuito u oneroso, real, nominado
+	- es un derecho real
+	- crédito privilegiado de 2da clase y especial
+	- principio de enajenación
+	- es un título de mera tenencia
+	- la prenda es indivisible
+
+	Derechos que otorga el contrato de prenda:
+	- derecho de retención
+	- derecho de persecución
+	- derecho de venta
+	- derecho de preferencia
+	- derechos a indemnización de los perjuicios
+
+	Obligaciones del acreedor prendario
+	- no usar la prenda
+	- restituirla
+	- conservarla y cuidarla
+
+- Contrato de Anticresis
+
+	- es un ctto. accesorio
+	- ctto. real
+	- bilateral imperfecto
+	- indivisible
+	- se aplican las normas del arrendamiento
+	- sólo genera un derecho personal
+	- no es un derecho real
+
+		![Diferencias Anticresis](da.jpeg)
+
+- El Contrato de Transacción
+
+	Características:
+	- ppal
+	- consensual
+	- bilateral
+	- intuito personae
+	- oneroso
+	- puede o no ser TTD
+	- debe existir un derecho dudoso y concesiones o sacrificios recíprocos
+
+	Efectos:
+	- equivalente jurisdiccional
+	- sólo respecto de las partes
+	- sólo respecto a objetos específicos
+	- es obligatoria
+	- produce efecto de cosa juzgada
+
+- El Juego y la Apuesta
+
+	ppales contratos aleatorios:
+	- ctto. de seguro
+	- préstamo a la gruesa ventura
+	- juego
+	- apuesta
+	- constitución de renta vitalicia
+	- constitución de censo vitalicio
+
+- La Renta Vitalicia
+
+	Características:
+	- es un ctto real
+	- aleatorio
+	- ppal
+	- unilateral
+	- oneroso
+
+- El censo
+
+	Características
+	- es un derecho real
+	- contrato ppal
+	- solemne
+	- capital siempre en dinero o estimarse en dinero
+
+	Constitución:
+	- testamento
+	- donación
+	- venta
+
+	Causales de extinción:
+	- abandono que el censuario hace de la cosa a favor del censualista
+	- redención del censo art. 2038
+	- destrucción completa de la finca
+	- prescripción
 
 - El Contrato de Sociedad
 
@@ -2623,6 +3171,76 @@ Excepciones:
 
 	Es aquella en que todos los socios administran por sí o por un mandatario elegido de común acuerdo.
 	Su administración puede confiarse a uno o más socios, sea por el contrato de sociedad o por un acto posterior.
+
+  	- Características:
+		- consensual, salvo las sociedades comerciales y las civiles de responsabilidad limitada
+		- es intuito personae
+		- bilateral
+		- oneroso
+		- conmutativo
+	![Diferencias Sociedad y Comunidad](dsc.jpeg)
+
+	Elementos:
+	- aporte
+	- participación en las utilidades
+	- contribución en las pérdidas
+	- intención de formar una sociedad
+
+	Disolución:
+	- expiración del plazo o evento de una condición
+	- al finalizar el negocio para la cual fue contraída
+	- insolvencia
+	- pérdida de los bienes sociales
+	- incumplimiento de la obligación de realizar el aporte
+	- muerte de uno de los socios
+
+
+- Contrato de Depósito
+
+	Características:
+	- contrato real
+	- unilateral
+	- por rg. es gratuito
+	- contrato ppal.
+
+	Obligaciones del depositario:
+	- guardar y cuidar la cosa
+		- responde de culpa grave
+	- restituir la cosa a requerimiento del depositante
+- El Comodato
+
+	Características:
+	- ctto unilateral
+	- gratuito
+	- real
+	- es un título de mera tenencia
+	- puede probarse por testigos
+	- es ppal
+	- comodatario responde de culpa levísima
+
+	Obligaciones del comodatario:
+	- debe cuidar la cosa con la máxima diligencia, responde de culpa levísima
+	- usar la cosa según el uso autorizado en el ctto
+	- su infracción genera la obligación de indemnizar y autoriza para terminar el ctto de forma anticipada
+	- debe restituir en el plazo establecido o al terminar su uso
+
+	Obligaciones del comodante:
+	- pagar las expensas y perjuicios
+	- indemnizar perjuicios por mala calidad o condición de lla cosa prestada
+
+
+- Mutuo o Préstamo de Consumo
+
+	Características:
+	- es un ctto real
+	- TTD
+	- unilateral
+	- no hay obligación de custodia
+	- naturalmente gratuito
+	- ctto ppal
+	- sólo sobre cosas fungibles
+
+		![Diferencias Mutuo](difmutuo.jpeg)
 
 - Donación Revocable o entre vivos
 
@@ -2634,14 +3252,90 @@ Excepciones:
 	+ si es conforme al testamento quedará confirmada ipso iure con el fallecimiento
 	+ si es conforme a la donación entre vivos (reservándose la facultad de revocarla), será necesario que el causante confirme en el testamento.
 
-
-
-
-
 ## 6.3. Cuasicontratos
+
+Esta institución reacciona frente al enriquecimiento injusto, otorgando el derecho de indemnización
+
+Principales cuasicontratos (art. 2285):
+- Agencia Oficiosa
+	- no debe existir mandato
+	- debe actuar en interés del interesado
+	- debe existir de parte del gestor, la intención de crear un vínculo obligatorio en el interesado
+		- diferencias con el mandato:
+			- mandato es un ctto
+			- mandante debe ser capaz, el interesado no requiere serlo
+			- mandatario se obliga independientemente del beneficio, el interesado se obliga con la condición de que la gestión le sea útil y en su medida
+- El Pago de lo No Debido
+- La Comunidad
+
+	Origen:
+	- en un hecho
+	- en un acto jurídico
+
+	Derechos de los comuneros:
+	- usar y gozar los bienes comunes
+	- derecho de oponerse a los actos de administración de otros
+	- derecho del comunero a enajenar su cuota
+
+	Obligaciones de los comuneros:
+	- contribuir a las expensas de conservación
+	- derecho a las innovaciones en los bienes comunes, con el consentimiento previo de los demás
+	- a hacer la partición cuando alguno lo pida
+	- los frutos se dividen a prorrata
+
+	Terminación de la comunidad:
+	- por la confusión de la cuota de todos los comuneros en una sola persona
+	- destrucción de la cosa común
+	- por la división del haber común
+
 
 ## 6.4. Delitos y Cuasidelito
 
+Las obligaciones también nacen de un hecho que ha inferido injuria o daño a otra persona, como los delitos y cuasidelitos. Art. 1437.
+
+Diferencias entre responsabilidad penal y civil
+- acción civil, acción penal
+- sanción penal es represiva, la civil es indemnizadora
+- distinta jurisdicción
+- capacidad penal 16-18, civil 7-16
+- la penal es personalísima, la civil se transmite
+- acción penal prescribe de 6 meses a 15 años, la civil en 4 años
+
+Diferencias entre responsabilidad contractual y extracontractual
+- contractual existe un vínculo jurídico preexistente
+- culpa contractual acepta graduaciones
+- capacidad contractual se adquiere a los 18
+- en la extracontractual se presume la solidaridad
+- contractual prescribe en 5 años y la extracontractual en 4 años
+
+Elementos de la responsabilidad:
+- daño
+- dolo o culpa
+	- hechos que alteran o eximen la responsabilidad:
+		- caso fortuito
+		- estado de necesidad
+		- hecho de un tercero
+		- culpa de la víctima
+		- eximentes de la responsabilidad
+		- convenciones sobre responsabilidad extracontractual
+- relación de causalidad
+- capacidad
+
+
 # 7. Derechos de Familia
+
+- El Matrimonio
+
+	Requisitos:
+	- de existencia
+		- diversidad de sexo
+		- consentimiento
+		- presencia del oficial del RC
+	- de validez
+		- ambos sean legalmente capaces
+		- que hayan consentido libre y espontáneamente
+
+
+
 
 # 8. Derecho Sucesorio

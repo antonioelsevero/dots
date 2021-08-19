@@ -13,3 +13,8 @@ sudo mkfs.vfat -F 32 -n Mi_Memoria /dev/sdc1
 
 # Hormazabal Bustos - lecciones de derecho penal
 	peligrosidad criminal - "de clara raigambre positivista y abiertamente contradictorio con un derecho penal del hecho y con los derechos fundamentales"
+
+
+# Buscar Información
+- r markdown
+- vimwiki
