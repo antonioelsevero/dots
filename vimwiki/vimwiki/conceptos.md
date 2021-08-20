@@ -42,7 +42,7 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Actos Judiciales no Contenciosos** (art. 817 CPC): Son aquellos que según la ley requieren la intervención del juez y en que no se promueven contienda alguna entre las partes.
 
-**Acuerdo Completo y Satisfactorio**: En materia de familia, se entiende por la petición por parte del os cónyuges que regula de forma completa y suficiente sus relaciones mutuas y con respecto a sus hijos. Será completo si regula todas y cada una de las materias indicadas en el art. 21 LMC. Será suficiente si resguarda el interés superior de los hijos, procura aminorar el menoscabo económico que pudo causar la ruptura y establecer relaciones equitativas, hacia el futuro entre los cónyuges cuya separación se solicita.
+**Acuerdo Completo y Suficiente**: En materia de familia, se entiende por la petición por parte del os cónyuges que regula de forma completa y suficiente sus relaciones mutuas y con respecto a sus hijos. Será completo si regula todas y cada una de las materias indicadas en el art. 21 LMC. Será suficiente si resguarda el interés superior de los hijos, procura aminorar el menoscabo económico que pudo causar la ruptura y establecer relaciones equitativas, hacia el futuro entre los cónyuges cuya separación se solicita.
 
 **Adhesión a la Apelación**: Consiste en pedir la reforma de la sentencia apelada en la parte en que la estima gravosa el apelado.
 
@@ -407,6 +407,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Inexistencia**: Es una sanción civil establecida para la omisión de los requisitos de existencia de un acto, es decir, voluntad o consentimiento, objeto, la causa, o solemnidades.
 
 **Infante**: Se refiere a los menores de 7 años.
+
+**Información (Celebración del Matrimonio)**: Es la comprobación, mediante testigos, que los futuros contrayentes no tienen impedimentos ni prohibición para contraer matrimonio.
 
 **Información Sumaria**: Se entiende por tal la prueba de cualquier especie rendida sin notificación ni intervención de contradictor y sin previo señalamiento de término probatorio.
 

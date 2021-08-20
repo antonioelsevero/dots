@@ -3336,6 +3336,170 @@ Elementos de la responsabilidad:
 		- que hayan consentido libre y espontáneamente
 
 
+	Impedimentos:
+	- dirimentes - obstan al matrimonio (nulidad)
+		-  absolutos (respecto a cualquier personas)
+			- hallarse ligado por vínculo matrimonial no disuelto
+			- menores de 16 años
+			- hallarse privado del uso de la razón, trastorno o anomalía psíquica, sea incapaz de modo absoluto de formar comunidad de vida que implica el matrimonio
+			- los que carecen de suficiente juicio o discernimiento para comprender y comprometerse en matrimonio
+			- los que no pudieren expresar claramente su voluntad por cualquier medio
+
+
+		- relativos
+			- por parentesco
+			- por homicidio
+	- impedientes (o prohibiciones)
+		- por falta de asenso o licencia
+		- de guarda, entre pupilos y guardadores
+		- de segundas nupcias, respecto de los hijos de precedente matrimonio
+
+	Formalidades:
+	- Matrimonios celebrados en Chile
+		- la manifestación o comunicación
+		- la información
+		- la celebración
+
+			plazo de 90 días para celebrarse
+		- posteriores a la celebración:
+			- acta de todo lo obrado, firmada por el oficial, los contrayentes y testigos
+			- se inscribirá los libros correspondientes
+			- omisión no acarrea nulidad
+
+	- Matrimonio celebrado en el extranjero
+
+		art. 80 LMC, los requisitos de forma y de fondo del matrimonio serán los que establezca la ley **del lugar** de su celebración.
+
+	- Matrimonios celebrados ante entidades religiosas de derecho público
+
+		Producirán los mismos efectos que el matrimonio civil, siempre que cumplan con los requisitos contemplados en la ley, desde su inscripción
+
+		Formalidades:
+		- otorgamiento de acta
+		- plazo de 8 días para su inscripción
+
+	- Efectos del matrimonio
+
+		- crea un conjunto de derechos y obligaciones
+		- genera una sociedad universal que comprende los patrimonios de los cónyuges
+		- da origen a la filiación matrimonial
+		- crea entre los cónyuges la obligación de prestarse pensiones alimenticias
+		- transforma a los cónyuges en herederos recíprocos
+		- derecho a solicitar la declaración de bienes familiares
+
+
+	- Terminación del matrimonio
+		- muerte natural de un cónyuge
+		- muerte presunta
+		- sentencia firme que declara la nulidad del matrimonio
+		- sentencia firme de divorcio
+		- sentencia firme que acoge la rectificación de sexo y nombre por razón de identidad de género
+
+- Separación
+	- Separación de Hecho
+
+		Mera separación de cuerpos, cuyo objeto es regular especialmente la materia de alimentos, régimen de bienes y en su caso el cuidado personal y la relación directa y regular
+
+		- si no hubo prole:
+			- regular sus relaciones mutuas
+			- los alimentos
+			- régimen de bienes del matrimonio
+
+		- si hubo:
+			- regular además el régimen aplicable a los alimentos
+			- cuidado personal y a la relación directa y regular que mantendrá con los hijos aquél que no tuviere bajo su cuidado
+
+		- Formas de regular:
+			- de común acuerdo
+				- Formalidades (para dar fecha cierta al cese de convivencia)
+
+					- Escritura pública
+					- acta extendida y protocolizada ante notario
+					- acta extendida ante oficial del RC
+					- transacción aprobada judicialmente
+					- notificación de la demanda, caso del art. 23
+		![Art. 23 LMC](23lmc.png)
+			- regulación judicial
+
+				En forma subsidiaria
+
+	- Separación Judicial
+
+		- por uno de los cónyuges si hay falta imputable al otro
+
+			Es una acción irrenunciable
+		- por cualquiera si hay cese de convivencia
+		- de forma conjunta, acompañando acuerdo completo y suficiente
+
+		Efectos de la separación judicial:
+		- desde que se dicta la sentencia y quede ejecutoriada
+		- no pueden casarse
+		- subsisten todos los derechos y obligaciones personales
+		- terminan los regímenes matrimoniales
+		- no se alteran los derechos hereditarios
+		- no alteran la filiación
+		- no goza de presunción de paternidad
+
+- Nulidad del Matrimonio
+
+	Causales:
+	- por alguna de las incapacidades señaladas en los art. 5,6,7
+		- ligados por vínculo matrimonial no disuelto
+		- menores de 16
+		- privados de razón
+		- carecer de suficiente juicio o discernimiento
+		- no poder expresar claramente su voluntad
+		- por parentesco (ascendientes y descendientes, por consanguinidad o afinidad, ni los colaterales por consanguinidad en 2do grado)
+		- el caso del homicidio del cónyuge(formalizado o condenado)
+	- consentimiento no hubiere sido libre y espontáneo
+	- no celebrado ante el número de testigos hábiles
+
+	- Titularidad
+
+		Corresponde a cualquiera de los cónyuges, salvo:
+
+		- menores de 16 = solamente los que contrajeron sin tener la edad exigida = dentro de 1 año, empieza a correr una vez cumplida la mayoría de edad
+		- error o fuerza = solamente el que las han sufrido = 3 años, desde que hubiere desaparecido el hecho que origina el vicio
+		- matrimonio celebrado en art. de muerte = también corresponde a los herederos del difunto = 1 año desde el fallecimiento
+		- vínculo matrimonial no disuelto = también al cónyuge anterior o sus herederos = 1 año al fallecimiento de uno de los cónyuges
+		- por parentesco u homicidio = también por cualquier persona con interés en la moral o de la ley = 1 año desde la celebración del matrimonio
+
+
+	Efectos de la declaración de nulidad
+
+	- retroactivamente
+	- debe subinscribirse al margen de la respectiva inscripción matrimonial
+	- si uno de los cónyuges hubiese contraído matrimonio nuevamente, es válido
+	- las capitulaciones matrimoniales caducan
+	- no ha habido sociedad conyugal ni participación en los gananciales
+	- no ha habido parentesco por afinidad
+	- los hijos son matrimoniales
+	- se presume que los cónyuges han contraído matrimonio de buena fe y justa causa de error
+
+- El Divorcio
+
+	- unilateral
+		- atentado contra la vida o malos tratamientos graves contra la integridad física o psíquica del cónyuge o de algunos de los hijos
+		- trasgresión grave y reiterada de los deberes de convivencia, socorro y fidelidad propios del matrimonio
+		- condena ejecutoriada por la comisión de crímenes o simples delitos contra el orden de las familias y contra la moralidad pública
+		- conducta homosexual
+		- alcoholismo o drogadicción
+		- tentativa de prostituir al otro o sus hijos
+	- de común acuerdo
+		- cese de convivencia mayor de 1 año
+		- debe acompañarse acuerdo completo y suficiente
+	- por trascurso del tiempo
+		- 3 años de cese de convivencia
+
+	- Efectos:
+		- desde que la sentencia quede ejecutoriada
+		- deberá subinscribirse
+		- crea el estado civil de divorciado
+		- pone fin a las obligaciones y derechos de carácter patrimonial que se fundan en el matrimonio
+
+	- Reglas comunes a la separación, nulidad y divorcio
+		- Compensación económica
+		- Conciliación
 
 
 # 8. Derecho Sucesorio
