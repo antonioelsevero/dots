@@ -82,6 +82,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Asignación Forzosa**: Son aquellas que el testador es obligado a hacer y que se cumplen cuando no las ha hecho, aún con perjuicio de sus disposiciones testamentarias expresas.
 
+**Auto Acordado**: Son normas permanentes, generales y obligatorias que dictan los tribunales superiores de justicia y que tienen la finalidad de llenar los vacíos de las leyes o complementarlas, o que se dictan en aras de una mejor administración de justicia.
+
 **Autocomposición**: Es una forma de solucionar los conflictos mediante la cual ambas partes mediante un acuerdo de voluntad o bien una de ellas pone término al litigio.
 
 **Autocontrato**: Es aquél por el cual se celebra entre una persona consigo misma y en el cual actúa a su vez por sí y como representante de ambas partes.
@@ -89,6 +91,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Autotutela o Autodefensa**: Es la relación directa y personal de quién hace justicia por sí mismo.
 
 **Ausente**: Persona a la cual se desconoce si vive o si habita en el territorio de la República.
+
+**Avenimiento**: Acuerdo que logran directamente las partes en virtud del cual ponen termino a su conflicto pendiente de resolución judicial, expresándolo así al tribunal que está conociendo el asunto.
 
 
 
@@ -180,6 +184,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Corte IDH**: Es una institución judicial autónoma cuyo objeto es la aplicación e interpretación de la Convención Americana sobre Derechos Humanos.
 
 **Costas**: Son los gastos que deben solventar las partes a fin de poder hacer convenientemente sus derechos.
+
+**Conciliación**: Acto jurídico bilateral en virtud del cual las partes, a iniciativa del juez que conoce el proceso, logran durante su desarrollo ponerle fin por mutuo acuerdo.
 
 **Convención**: Acuerdo de voluntades destinado a crear, modificar o extinguir derechos y obligaciones
 
@@ -502,6 +508,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Matrimonio Putativo**: El matrimonio nulo que ha sido celebrado o ratificado ante el oficial del Registro Civil produce los mismos efectos civiles que el válido respecto del cónyuge que de buena fe y con justa justa causa de error lo contrajo pero dejará de producir efectos civiles desde que falte la buena fe por parte de ambos cónyuges.
 
 **Mecanismos Extraconvencionales del Sistema Universal de los Derechos Humanos**: Implican procedimientos que establecen órganos de control con miras a vigilar y examinar posibles violaciones a los derechos humanos fuera del marco convencional.
+
+**Mediación**: Procedimiento no adversarial en el cual un tercero imparcial ayuda a las partes a negociar para llegar a un acuerdo mutuamente aceptable.
 
 **Medida Cautelar**: Son resoluciones que pueden ser dictados durante el curso del proceso y que tienen por objeto otorgar al actor la participación provisoria de ciertos efectos de la providencia definitiva, para prevenir un daño jurídico que podría derivar del retardo en la dictación de la misma.
 

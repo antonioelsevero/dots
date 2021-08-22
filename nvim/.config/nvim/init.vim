@@ -14,13 +14,15 @@ Plug 'junegunn/goyo.vim'
 Plug 'jreybert/vimagit'
 Plug 'lukesmithxyz/vimling'
 Plug 'vimwiki/vimwiki'
-Plug 'bling/vim-airline'
+Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-commentary'
 Plug 'ap/vim-css-color'
+Plug 'morhetz/gruvbox'
 call plug#end()
 
 set title
-set bg=light
+set bg=dark
 set go=a
 set mouse=a
 set nohlsearch
@@ -29,6 +31,10 @@ set noshowmode
 set noruler
 set laststatus=0
 set noshowcmd
+set scrolloff=999
+set cursorline
+setlocal spell! spelllang=es
+colorscheme gruvbox
 
 " Some basics:
 	nnoremap c "_c
@@ -44,7 +50,7 @@ set noshowcmd
 " Perform dot commands over visual blocks:
 	vnoremap . :normal .<CR>
 " Goyo plugin makes text more readable when writing prose:
-	map <leader>f :Goyo \| set bg=light \| set linebreak<CR>
+	map <leader>f :Goyo \| set bg=dark \| set linebreak<CR>
 " Spell-check set to <leader>o, 'o' for 'orthography':
 	map <leader>o :setlocal spell! spelllang=es<CR>
 " Splits open at the bottom and right, which is non-retarded, unlike vim defaults.
@@ -72,6 +78,9 @@ set noshowcmd
 	map <C-k> <C-w>k
 	map <C-l> <C-w>l
 
+	xnoremap K :move '<-2<CR>gv-gv
+	xnoremap J :move '>+1<CR>gv-gv
+
 " Replace ex mode with gq
 	map Q gq
 
@@ -90,6 +99,9 @@ set noshowcmd
 
 " Open corresponding .pdf/.html or preview
 	map <leader>p :!opout <c-r>%<CR><CR>
+
+" Open Markdown Preview
+	map <leader>m :MarkdownPreview<CR>
 
 " Runs a script that cleans out tex build files whenever I close out of a .tex file.
 	autocmd VimLeave *.tex !texclear %

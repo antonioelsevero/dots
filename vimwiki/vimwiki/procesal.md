@@ -1,6 +1,11 @@
+---
+title: Derecho Procesal
+author: Lucas Fernandez
+---
+
+
 # Derecho Procesal
 
----
 
 # 1. Derecho Procesal
 
@@ -35,6 +40,33 @@
     2. indirectas = dº histórico, dº extranjero, jurisprudencia, doctrina,
        usos, costumbre y equidad.
 
+
+- Vigencia
+
+	- en cuanto al tiempo
+
+		- Dictada una ley procesal ella rige de inmediato para todos los juicios que van a iniciarse y también para los que ya están en tramitación. Conforme a la jurisprudencia, la ley procesal rige inmediatamente (in actum).
+		- Nunca una ley procesal puede afectar un juicio ya terminado y en el cual se ha dictado sentencia que se encuentre firme o ejecutoriada.
+		- Los plazos que hubieren empezado a correr y las actuaciones y diligencias que ya estuvieren iniciadas se rigen se rigen por la ley vigente al tiempo de su iniciación
+		- los actos o contratos válidamente celebrados bajo el imperio de una ley pueden probarse bajo el imperio de otra con los medios que aquéllas establecen para su justificación, pero la forma de rendirla está subordinada a la ley vigente en el tiempo que se rinda
+
+	- en cuanto al espacio
+
+		- art. 14 CC ppio de territorialidad, que se refleja en el aforismo *lex locus regit actum* que rigen las siguientes normas:
+			- organización y atribuciones de los TRB de justicia
+			- competencia de los TRB
+			- normas relativas a los procedimientos contenciosos o no
+			- respecto a los medios de prueba
+			- respecto a la ejecución de las resoluciones dictadas por TRB nacionales.
+
+		- excepciones a este ppio:
+		  	- normas procesales internacionales, como aquellas sobre la tramitación de exhortos internacionales, cumplimiento de sentencias extranjeras, y sobre la extradición.
+			- las señaladas en el art. 6 del COT
+
+			![art. 6 COT](6cot.png)
+
+
+
 # 2. Jurisdicción
 
 - concepto
@@ -44,6 +76,10 @@
     juicio se determina el derecho de las partes, con el objeto de dirimir sus
     conflicto, controversias de relevancia jurídica mediante decisiones con
     autoridad de cosa juzgada eventualmente factible de ejecución
+
+	Se dice que es factible de ejecución porque en un juicio no sólo interesa obbbtener una declaración favorable, sino que, el vencido cumpla con la prestación a que ha sudo condenado.
+
+- Jurisdicción en la legislación:
 
     art. 76 CPR "la facultad de conocer de las causas civiles y criminales, de
     resolverlas y de hacer ejecutar lo juzgado, pertenece exclusivamente a los
@@ -56,19 +92,41 @@
 - características
     1. origen constitucional
     2. unidad conceptual
-    3. inderogable
+    3. inderogable (por eso es nulo por objeto ilícito el de someterse a jurisdicción extranjera art. 1462)
     4. indelegable
     5. irrenunciable
     6. improrrogable
     7. territorial
     8. produce efecto de cosa juzgada
     9. está amparada por el imperio
+
+
+- Momentos Jurisdiccionales:
+	- *Notio*:
+
+		El TRB toma en conocimiento de las pretensiones de las partes y de sus defensas, además de las pruebas aportadas.
+	- *Decisio*:
+
+		TRB resuelve la contienda jurídica lo que se efectúa a través de la sentencia.
+
+		Las sentencias contienen tres partes:
+
+		- *parte expositiva*: se individualiza las partes y se consignan sus alegaciones
+		- *parte considerativa*: se efectúa los razonamientos y análisis de las alegaciones y de la prueba rendida
+		- *parte resolutiva*: se señala la decisión del asunto controvertido
+	- *Executio*:
+
+		Se lleva a efecto el cumplimiento de lo resuelto utilizando, si fuera necesario, la fuerza para ello, denominado imperio.
+		Cumplimiento es un concepto amplio que implica llevar a cabo lo dispuesto en la sentencia en la forma que disponga la ley.
+		Ejecutar, se refiere a la ejecución forzada.
+
 - equivalentes jurisdiccionales
     - conciliación
 
 	es aquella en que se logra la solución de un conflicto entre las partes
 	mediante un acuerdo de ellas, obtenido en un proceso con la
 	participación activa del juez.
+
 
     - avenimiento
 
@@ -95,7 +153,18 @@
 	que podría haberse dictado en el país a través del procedimiento
 	denominado exequátur.
 
+
+- Lo Contencioso Administrativo
+
+	Son todos aquellos conflictos que surgen entre un particular cualquiera y la Administración del Estado a consecuencia de algún acto administrativo.
+
+
 # 3. Actos Judiciales no Contenciosos y Atribuciones Conexas
+
+- Actos Judiciales no Contenciosos
+
+  	No es correcto el nombre "Jurisdicción no Contenciosa", sino que, los actos judiciales no contenciosos revisten simplemente, la naturaleza de una actividad administrativa.
+
 
 - ¿Cuales son las Atribuciones Conexas ?
 
@@ -111,12 +180,12 @@
     virtud los **órganos estatales no deben rebasar los límites de la actividad
     que la CPR y las leyes le han asignado**.
 
-- Qué asuntos quedan comprendidos dentro de la Facultad Conservadora?
-    1. El Recurso de Amparo art. 19 Nª 7 y 21 CPR
-    2. El Recurso de Protección art. 20 CPR
-    3. La institución del Privilegio de Pobreza, la cual tiene su fundamento en
-       la garantía señalada en el art. 19 Nª 2 CPR
-    4. Las Visitas que deben realizar los JG a establecimientos penitenciarios,
+	- Qué asuntos quedan comprendidos dentro de la Facultad Conservadora?
+	    1. El Recurso de Amparo art. 19 Nª 7 y 21 CPR
+	    2. El Recurso de Protección art. 20 CPR
+	    3. La institución del Privilegio de Pobreza, la cual tiene su fundamento en
+	       la garantía señalada en el art. 19 Nª 2 CPR
+    	4. Las Visitas que deben realizar los JG a establecimientos penitenciarios,
        en forma semanal o semestral art. 567 y ss. COT
 - Qué es la Facultad Disciplinaria?
 
@@ -133,7 +202,43 @@
 
 # 4. Órganos Jurisdiccionales
 
-- Buscar ítem del Temario "BASES DE LA ADMINISTRACIÓN DE JUSTICIA"
+- Bases de la Administración de Justicia
+
+	- Ppio de Legalidad
+		- la organización y atribuciones de los órganos jurisdiccionales debe estar fijado por ley = art. 76 CPR, art. 1 COT
+		- los órganos jurisdiccionales deben observar rigurosamente las leyes procesales, ya que la sentencia debe fundarse en un proceso previo legalmente tramitado
+	- Ppio de Territorialidad
+
+		art. 7 COT los TRB sólo ejercen su potestad en los negocios y dentro del territorio que la ley les hubiere respectivamente asignado
+	- Ppio de Independencia
+
+		art. 12 COT El poder judicial es independiente de toda otra autoridad en el ejercicio de sus funciones.
+
+		art. 7 y 76 CPR, 222 CP, 4 COT.
+	- Ppio de Jerarquía
+
+		El sistema de administración de justicia debe ser aplicado por diversos órganos jurisdiccionales ordenados jerárquicamente, en una estructura piramidal, para distribuir la competencia y permitir que los juicios sean fallados a lo menos por dos TRB.
+		Se encuentra vinculado con un sistema de recursos de doble instancia.
+	- Ppio de Publicidad
+
+		art. 9 COT Los actos de los TRB son públicos, salvo las excepciones expresamente establecidas por la ley
+	- Ppio de Pasividad
+
+		art. 10 Los TRB no podrán ejercer su ministerio sino a petición de parte, salvo los casos en que la ley los faculte para proceder de oficio
+	- Ppio de Inamovilidad
+
+		art. 80 CPR Privilegio o garantía consagrado en beneficio de los magistrados judiciales. Tiene las ss. excepciones:
+			- en caso de delitos
+			- mal comportamiento
+			- causales de orden constitucional
+	- Ppio de la Inexcusabilidad
+	- Ppio de Responsabilidad
+
+
+
+
+
+
 - Qué se entiende por Órgano Jurisdiccional?
 
     Son órganos públicos, que realizan la función de jurisdicción, es decir, la
