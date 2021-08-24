@@ -163,8 +163,7 @@ author: Lucas Fernandez
 
 - Actos Judiciales no Contenciosos
 
-  	No es correcto el nombre "Jurisdicción no Contenciosa", sino que, los actos judiciales no contenciosos revisten simplemente, la naturaleza de una actividad administrativa.
-
+	Lo primero que hay que decir, es que no existe una "Jurisdicción No Contenciosa", sino que la ley exige que determinados actos requieren de la intervención de un juez y en los cuales no se promueven conflicto. Es por eso que se dice que se tratan más de una naturaleza administrativa.
 
 - ¿Cuales son las Atribuciones Conexas ?
 
@@ -232,11 +231,13 @@ author: Lucas Fernandez
 			- mal comportamiento
 			- causales de orden constitucional
 	- Ppio de la Inexcusabilidad
+
+		art. 10 COT una vez reclamada su intervención en forma legal y en negocios de su competencia, no podrán excusarse de ejercer su autoridad ni aun por falta de ley que resuelva la contienda sometida a su decisión.
+
+		Son excepciones: la incompetencia por causales de implicancia y recusación, o la acumulación.
 	- Ppio de Responsabilidad
 
-
-
-
+		art. 79 CPR y 13 COT, los jueces son personalmente responsables por los delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, denegación y torcida administración de justicia u toda prevaricación en el desempeño de sus funciones.
 
 
 - Qué se entiende por Órgano Jurisdiccional?
@@ -319,7 +320,7 @@ author: Lucas Fernandez
     Son: El Presidente de la CS, el Presidente de la CA  de Santiago y los
     Ministros de Corte de CA.
 
-    - (A)Cuales asuntos conocen los TRB unipersonales de excepción?
+    - Cuales asuntos conocen los TRB unipersonales de excepción?
 	- Un Ministro de CA conoce en 1ª instancia (Fuero Mayor):
 	    1. De las causas civiles en que sean parte o tengan interés las
 	       autoridades señaladas en el art. 50 COT.
@@ -432,7 +433,7 @@ author: Lucas Fernandez
 	2. Desde el punto de vista del Escalafón, pueden ser a) de comuna o
 	   agrupación de comuna, b) de ciudad asiento de capital de provincia,
 	   c) de ciudad asiento de Corte.
-    - (A)Qué asuntos conocen los JL art. 45 COT?
+    - Qué asuntos conocen los JL art. 45 COT?
 	- Conocen en única instancia:
 	    1. De las causas civiles y de comercio cuya cuantía no exceda de 10
 	       UTM
@@ -534,7 +535,7 @@ author: Lucas Fernandez
 	conocimiento pasa a otro TRB de superior jerarquía o a través de un
 	procedimiento distinto.
 
-	- (A)Casos en que procede el fuero en materia civil
+	- Casos en que procede el fuero en materia civil
 	    1. art 45 COT causas que conocería JL en única instancia (por
 	       tratarse de causas civiles o comerciales de cuantía inferior a
 	       10 UTM), cuando sea parte o tenga interés alguna de las
@@ -546,7 +547,7 @@ author: Lucas Fernandez
 	    3. art. 50 Nª 4 demandas civiles contra los jueces de letras para
 	       hacer efectiva la responsabilidad civil resultante del ejercicio
 	       de sus funciones ministeriales.
-	- (A)Señale las excepciones al fuero (casos en que no procede fuero)
+	- Señale las excepciones al fuero (casos en que no procede fuero)
 	    1. en los juicios de minas, posesorios, sobre distribución de
 	       aguas, participaciones, en los que se tramiten breve y
 	       sumariamente, en los asuntos no contenciosos y los demás que
@@ -576,75 +577,75 @@ author: Lucas Fernandez
 
 - Como se pueden clasificar la competencia:
     - Atendiendo a su fuente
-	- Competencia natural o propia
+     	- Competencia natural o propia
 
-	    Es la determinada por la ley
+     	    Es la determinada por la ley
 
-	- Competencia prorrogada
+     	- Competencia prorrogada
 
-	    Es aquella que las partes expresa o tácitamente le confieren a un
-	    TRB que no es naturalmente competente para conocer un asunto, los
-	    cuales solo se aplican a los asuntos contenciosos civiles
+     	    Es aquella que las partes expresa o tácitamente le confieren a un
+     	    TRB que no es naturalmente competente para conocer un asunto, los
+     	    cuales solo se aplican a los asuntos contenciosos civiles
 
-	- Competencia delegada
+     	- Competencia delegada
 
-	    Es la que tiene un TRB por habérsela delegado otro TRB, a través de
-	    exhortos o cartas rogatorias.
+     	    Es la que tiene un TRB por habérsela delegado otro TRB, a través de
+     	    exhortos o cartas rogatorias.
 
     - Atendiendo a su extensión
-	- Común
+     	- Común
 
-	    Es la que faculta al TRB para conocer indistintamente de asuntos en
-	    materia civil y penal
+     	    Es la que faculta al TRB para conocer indistintamente de asuntos en
+     	    materia civil y penal
 
-	- Especial
+     	- Especial
 
-	    Es la que faculta al TRB para conocer sólo determinados asuntos
+     	    Es la que faculta al TRB para conocer sólo determinados asuntos
 
     - Atendiendo al contenido (civil)
-	1. Contenciosa
-	2. No Contenciosa
+    	1. Contenciosa
+    	2. No Contenciosa
     - Atendiendo al numero de TRBs que pueden conocer del asunto
-	- Competencia privativa o exclusiva
+    	- Competencia privativa o exclusiva
 
-	    Es la que habilita a conocer un TRB a un determinado asunto con
-	    exclusión de otro TRB, como es el caso de la casación en el fondo y
-	    revisión por la CS
+    	    Es la que habilita a conocer un TRB a un determinado asunto con
+    	    exclusión de otro TRB, como es el caso de la casación en el fondo y
+    	    revisión por la CS
 
-	- Competencia acumulativa o preventiva
+    	- Competencia acumulativa o preventiva
 
-	    Es la que faculta a más de un TRB para conocer un asunto, pero que
-	    previniendo cualquiera de ellos en el asunto hace cesar la
-	    competencia de los demás
+    	    Es la que faculta a más de un TRB para conocer un asunto, pero que
+    	    previniendo cualquiera de ellos en el asunto hace cesar la
+    	    competencia de los demás
 
     - Atendiendo al grado en que un asunto puede ser conocido por un TRB
-	- Competencia de única
+    	- Competencia de única
 
-	    Es la que faculta para conocer un asunto por un sólo TRB sin
-	    posibilidad de examen por TRB superior a través de apelación
+    	    Es la que faculta para conocer un asunto por un sólo TRB sin
+    	    posibilidad de examen por TRB superior a través de apelación
 
-	- Competencia de 1ª instancia
+    	- Competencia de 1ª instancia
 
-	    Es la que faculta el conocimiento del asunto fallado por un TRB
-	    superior a través de apelación
+    	    Es la que faculta el conocimiento del asunto fallado por un TRB
+    	    superior a través de apelación
 
-	- Competencia de 2ª instancia
+    	- Competencia de 2ª instancia
 
-	    Es la que ejerce el TRB superior jerárquico al conocer del recurso
-	    de apelación cuando éste se ha interpuesto contra resolución de 1ª
-	    instancia.
+    	    Es la que ejerce el TRB superior jerárquico al conocer del recurso
+    	    de apelación cuando éste se ha interpuesto contra resolución de 1ª
+    	    instancia.
 
     - Atendiendo a la generalidad o precisión con que se determina el TRB
       competente
-	- Competencia absoluta
+    	- Competencia absoluta
 
-	    Es la que determina la jerarquía del TRB que es llamado a conocer
-	    un negocio determinado
+    	    Es la que determina la jerarquía del TRB que es llamado a conocer
+    	    un negocio determinado
 
-	- Competencia relativa
+    	- Competencia relativa
 
-	    Es la que permite precisar qué TRB dentro de una determinada
-	    jerarquía es el llamado a conocer de un asunto
+    	    Es la que permite precisar qué TRB dentro de una determinada
+    	    jerarquía es el llamado a conocer de un asunto
 
 - Cuales son las llamadas "Reglas Generales de Competencia"?
 
@@ -682,7 +683,7 @@ author: Lucas Fernandez
 	art. 113 y 114 la ejecución de las resoluciones corresponde a los TRB
 	que las han pronunciado en 1ª o única instancia.
 
-	- (A)Señale las excepciones a la regla general de ejecución
+	- Señale las excepciones a la regla general de ejecución
 	    1. Sentencias penales y medidas de seguridad previstas en la ley
 	       procesal penal es competencia del JG que haya intervenido
 	    2. Los TRB que conozcan de **la revisión, apelación, casación o
@@ -694,7 +695,13 @@ author: Lucas Fernandez
 	       iniciación de un nuevo juicio podrá deducirse ante el TRB que
 	       haya conocido en 1ª o única instancia o ante el que sea
 	       competente conforme a las reglas generales.
-- Reglas de competencia relativa en materia civil
+
+- Reglas de competencia absoluta:
+
+	Son aquellas que determinan la jerarquía del TRBB llamado a intervenir en el conocimiento de un negocio. Son: la materia, el fuero y la cuantía.
+
+
+- Reglas de competencia relativa:
     - Regla general en materia contenciosa
 
 	art. 134 del domicilio del demandado
@@ -1073,6 +1080,20 @@ author: Lucas Fernandez
 # 8. Tribunales Especiales Integrantes del Poder Judicial
 
 - Juzgados de Familia
+
+	Forman parte del Poder Judicial y tienen la estructura, organización y competencia que la ley establece y, en lo no previsto en ella, se rigen por las disposiciones del COT y las leyes que lo complementan.
+
+	Cuentan con un Consejo Técnico, un administrador y una planta de empleados de secretaría y se organizarán en unidades administrativas para el cumplimiento eficaz y eficiente de sus funciones.
+
+	Competencia:
+
+	- Las causas relativas al derecho de cuidado personal de los NNA
+	- Las causas relativas al derecho y el deber del padre o de la madre que no tenga el cuidado personal del hijo, a mantener una relación directa y regular
+	- Causas relativas al derecho de alimentos
+	- Las acciones de filiación y todas aquellas que digan relación con la constitución o modificación del estado civil de las personas, incluyendo la citación a confesar paternidad o maternidad a que se refiere el art. 188 del CC
+	- El procedimiento de adopción
+	- Las acciones de separación, nulidad y divorcio reguladas en la LMC
+	- Los actos de violencia intrafamiliar
 - Juzgados de Letras del Trabajo
 
     Están conformados colegiadamente (art. 415) pero desempeñan su jurisdicción
@@ -1249,7 +1270,7 @@ author: Lucas Fernandez
 
 	- autotutela
 
-	    relación directa y personal de quién se hace justicia por sí mismo
+	    Relación directa y personal de quién se hace justicia por sí mismo
 
 	    se encuentra prohibido por lo general (como sería el terrorismo o
 	    el secuestro político), siendo aceptado en algunos casos como en el
@@ -2400,7 +2421,7 @@ author: Lucas Fernandez
 
     Las sentencias interlocutorias y definitivas producen 2 efectos:
 
-    - desasimiento del TRB art. 182
+    - **desasimiento** del TRB art. 182
 
 	es el efecto que producen las sentencias interlocutorias y definitivas
 	en virtud del cual  **una vez que han sido notificadas a alguna de las
@@ -2435,7 +2456,7 @@ author: Lucas Fernandez
 	    estén notificadas a las partes pueden enmendarse por el TRB a
 	    través del recurso de reposición.
 
-    - cosa juzgada art. 175 y 182
+    - **cosa juzgada** art. 175 y 182
 
 	consiste en el efecto de que no se pueda discutir de nuevo en el mismo
 	proceso ni en ningún otro en el futuro lo ya resuelto en una sentencia
@@ -3040,6 +3061,8 @@ author: Lucas Fernandez
 
 - tramitación ordinaria
 
+    ![Esquema Tramitación](eti.jpeg)
+
     es la que se aplica tratándose de cualquier cuestión accesoria que merezca
     pronunciamiento especial por parte del TRB (un incidente) y que no tengan
     señalado una tramitación especial
@@ -3450,6 +3473,9 @@ author: Lucas Fernandez
 	    procesal
 
 # 21. Medidas Cautelares, Prejudiciales y Precautorias
+
+
+
 
 # 22. Del Juicio Ordinario
 

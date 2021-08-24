@@ -12,6 +12,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **A fortiori**: Con mayor razón.
 
+**Acción**: La acción es el poder o la facultad de provocar la actividad jurisdiccional del Estado.
+
 **Acción de Petición de Herencia**: Es aquella que compete al heredero verdadero para obtener la restitución de la universalidad de la herencia y las cosas comprendidas en ella, contra el falso heredero que está en posesión de ellas.
 
 **Acción de Reforma de Testamento**: Es aquella que corresponde a los legitimarios y al cónyuge sobreviniente para el caso que el testador no haya respetado las legitimas o la cuarta de mejoras, y obtener que se modifique el testamento, respetando sus asignaciones forzosas.
@@ -41,6 +43,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Acervo Líquido**: Es el conjunto de bienes de propiedad del causante, quedados a su fallecimiento deducidas las bajas generales de la herencia.
 
 **Actos Judiciales no Contenciosos** (art. 817 CPC): Son aquellos que según la ley requieren la intervención del juez y en que no se promueven contienda alguna entre las partes.
+
+**Actos Jurídicos Procesales**: Toda manifestación de voluntad relativa al desenvolvimiento del proceso, sea cual fuere el sujeto del que emana.
 
 **Acuerdo Completo y Suficiente**: En materia de familia, se entiende por la petición por parte del os cónyuges que regula de forma completa y suficiente sus relaciones mutuas y con respecto a sus hijos. Será completo si regula todas y cada una de las materias indicadas en el art. 21 LMC. Será suficiente si resguarda el interés superior de los hijos, procura aminorar el menoscabo económico que pudo causar la ruptura y establecer relaciones equitativas, hacia el futuro entre los cónyuges cuya separación se solicita.
 
@@ -217,6 +221,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Declaraciones Dispositivas**: Son aquellas que se hacen con el fin de expresar el consentimiento.
 
 **Declaraciones Enunciativas**: Se trata de aquellas declaraciones que se refieren a hechos.
+
+**Defensores Públicos**: Son auxiliares de la administración de justicia encargados de defender ante los tribunales, los derechos de los menores, de los incapaces, de los ausentes y de las obras pías o de beneficencia.
 
 **Déficit**: Exceso del debe sobre el haber, o de los gastos o pérdidas sobre los ingresos. Falta o escasez de algo que se considera necesario o adecuado.
 
@@ -403,6 +409,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 **Impulso Procesal**: Fuerza o actividad que pone en movimiento el proceso y lo hace avanzar hasta su fin, una vez iniciado.
 
 **Impunidad**: Se entiende por tal, la inexistencia de hecho o derecho de responsabilidad penal por parte de los autores de violaciones, así como de responsabilidad civil, administrativa o disciplinaria porque escapan a toda investigación con miras a su inculpación, detención, y procesamiento y en caso de ser reconocidos culpables condena a penas apropiadas, incluso a la indemnización del daño causado a sus víctimas.
+
+**Incidente** (art. 82 CPC): Toda cuestión accesoria de un juicio que requiera pronunciamiento especial con audiencia de las partes, se tramitará como incidente y se sujetará a las normas establecidas en los art. 82 y siguientes, si no tiene señalada por la ley una tramitación especial.
 
 **Indemnización de Perjuicios**: Es el derecho del acreedor para exigir del deudor el pago de una suma de dinero equivalente al beneficio que le habría reportado el cumplimiento íntegro y oportuno de la obligación.
 
@@ -703,6 +711,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 ## R
 
+**Receptores**: Son ministros de fe pública encargados de hacer saber a las partes, fuera de las oficinas de los secretarios, las resoluciones de los tribunales de justicia y evacuar todas aquellas diligencias que los mismos tribunales les cometieren.
+
 **Recompensas**: Son las indemnizaciones pecuniarias a que los patrimonios del marido, de la mujer y de la sociedad conyugal están obligados entre si.
 
 **Recurso de Aclaración, Rectificación o Enmienda**: Es el medio que la ley concede a las partes para obtener que el mismo tribunal que dictó una resolución aclare los puntos obscuros o dudosos, salve las omisiones o rectifique los errores de copia de referencia o de cálculo numérico, que aparezcan de manifiesto en la sentencia.
@@ -751,6 +761,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Resciliación**: Convención en virtud de la cual las partes de común acuerdo estipulan dejar sin efecto un contrato válidamente celebrado en la medida que sus efectos no estén totalmente cumplidos.
 
+**Resolución**: Son actos procesales que realiza o ejecuta el tribunal resolviendo las peticiones de las partes u ordenando el cumplimiento de determinadas medidas procesales.
+
 **Restringir** (un derecho): Implica reducir el ámbito de su ejercicio, en principio por consideraciones externas, ya sea para conciliarlos con otros derechos, con bienes jurídicos protegidos constitucionalmente o con intereses estatales apremiantes.
 
 **Revocación** (art. 2165 CC): Es el acto por el cual una persona titular o sujeto de un acto o declaración unilateral lo deja sin efecto.
@@ -759,6 +771,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 ## S
 
 **Sesiones Sucesivas** (art. 282 CPP): Aquellas que tuvieren lugar el día siguiente o subsiguiente de funcionario ordinario del tribunal.
+
+**Secretario**: Es un ministro de fe pública, auxiliar de la administración de justicia, encargado de autorizar, salvo excepciones legales, todas las providencias, despachos y actos emanados de aquellas autoridades, y de custodiar los procesos y todos los documentos y papeles que sean presentados a la Corte o Juzgado en que cada uno de ellos debe prestar sus servicios.
 
 **Secuestro** (en civil): Es el deposito de una cosa que se disputan dos o más personas en manos de otro que debe restituirla al que obtenga una decisión a su favor, llamado secuestre.
 
