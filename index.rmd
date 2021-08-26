@@ -13,10 +13,10 @@ author: lucascfernandez
 
 Para acceder a los apuntes personales, ir:
 
-* [Apuntes Civil](https://github.com/lucascfernandez/dots/blob/main/vimwiki/vimwiki/civil.html)
-* [Apuntes Procesal](https://github.com/lucascfernandez/dots/blob/main/vimwiki/vimwiki/procesal.html)
-* [Apuntes Humanos](https://github.com/lucascfernandez/dots/blob/main/vimwiki/vimwiki/humanos.html)
-* [Glosario de Conceptos](https://github.com/lucascfernandez/dots/blob/main/vimwiki/vimwiki/conceptos.html)
+* [Apuntes Civil](https://github.com/lucascfernandez/dots/blob/main/civil.html)
+* [Apuntes Procesal](https://github.com/lucascfernandez/dots/blob/main/procesal.html)
+* [Apuntes Humanos](https://github.com/lucascfernandez/dots/blob/main/humanos.html)
+* [Glosario de Conceptos](https://github.com/lucascfernandez/dots/blob/main/conceptos.html)
 
 *Estos materiales están en constante modificación y no representan un trabajo concluido.*
 
