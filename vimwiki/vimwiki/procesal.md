@@ -3474,10 +3474,389 @@ author: Lucas Fernandez
 
 # 21. Medidas Cautelares, Prejudiciales y Precautorias
 
+- Campo de aplicación:
+
+	Conforme al art. 3 del CPC, son aplicables a cualquier tipo de procedimiento.
+
+- Puede tener por finalidad:
+
+	a) Obtener datos para la elaboración y redacción de la dda: 1-4 art. 273
+
+	b) Procurar medios de prueba sobre hechos que puedan desaparecer: art. 273 n° 5, art. 281, 284 y 286
+
+	c) Asegurar los resultados del juicio: art. 290.
+
+- Medidas Prejudiciales:
+
+	- TRB competente:
+
+		La ley no señala, por lo que sería el TRB competente para conocer del juicio, teniendo presente lo que se tiene establecido para la prórroga de la competencia.
+
+	- Tramitación:
+
+		art. 289 "[estas diligencias] *pueden* decretarse sin audiencia [...], salvo los casos en que expresamente se exige su intervención".
+
+		Por lo que, puede ser decretada *de plano*, una vez presentada la petición, estudiando los antecedentes aportados por la parte interesada, debiéndose notificar a la contraparte para que luego sea cumplida, o *con audiencia*, decretando traslado (dando nacimiento a un incidente).
+
+- Medidas Precautorias:
+
+	- Oportunidad:
+		- aun cuando no esté contestada la dda
+		- incluso después de COS (lo que es una excepción)
+
+	- Son medidas precautorias ordinarias:
+		- el secuestro
+		- nombramiento de interventores
+		- retención de bienes
+		- prohibición de celebrar actos o cttos
+
+	- Requisitos:
+		- dte debe acompañar comprobantes que constituyan al menos presunción grave del derecho que se reclama
+		- rendir caución
+		- las circunstancias del caso no deben ofrecer seguridad del cumplimiento de la sentencia
+		- la medida debe estar relacionada a bienes determinados y estrictamente necesarios
+
+	- Tramitación:
+		- traslado y tramitación de un incidente, que se ventila conforme a las reglas generales
+
+	- Medidas Prejudiciales Precautorias
+
+		- Requisitos:
+			- los generales para toda medida prejudicial: expresar la acción que se pretende y sus fundamentos
+			- comprobantes presunción grave de derecho que se reclama
+			- motivos graves y calificados
+			- determine el monto de los bienes sobre los cuales debe recaer
+			- que se rinda caución suficiente
+			- dte tiene plazo de 10 días (ampliables a 30) para presentar dda
+			- pedir que se mantengan las medidas decretadas
+			- será responsable de los perjuicios causados considerándose doloso si: a) no deduce dda en el tiempo, b) no pide que se mantengan las medidas, c) TRB no las mantiene, habiéndose pedido
+
+	- Medidas Precautorias Extraordinarias
+
+		art. 298: "[...] cuando lo estimare necesario y no tratándose de medidas expresamente autorizadas por la ley, exigir caución al actor para responder de los perjuicios que se originen".
+
+	- Medidas Precautorias Especiales
+
+		art. 300 "Estas providencias no excluyen las demás que autorizan las leyes"
 
 
 
 # 22. Del Juicio Ordinario
+
+- Etapas
+
+	![Esquema](esq.jpeg)
+
+## Etapa de Discusión
+- Formas de Iniciar el Juicio Ordinario (art. 253):
+	- dda
+	- medida prejudicial
+
+- Importancia de la Dda:
+	- es la base del juicio
+	- se concreta las pretensiones del acto, limitando la sentencia
+	- en base a la dda y su contestación será la prueba que se rinda
+
+- Requisitos de la Dda:
+	- Requisitos comunes a todo escrito:
+		- suma
+		- patrocinio y poder
+
+	- Requisitos especiales de la dda:
+		- art. 254
+
+	- Omisión de los requisitos:
+		- 1-3 art. 254 = juez puede de oficio no dar curso a la dda.
+		- falta de algún requisitos legal en el modo de proponer la dda = excepción dilatoria de ineptitud del libelo
+		- no designa domicilio = notificaciones que se deban hacerse por cédula se harán por estado diario
+
+	- Forma de notifiación:
+		- dte = por estado diario
+		- ddo = personalmente si es la primera
+
+	- Situaciones que pueden producirse una vez presentada:
+		- no haya sido notificada = actor puede retirarla sin trámite alguno y se tiene por no presentada
+		- dda fue notificada = dte puede desistirse de la misma en cualquier estado del juicio
+		- dda notificada y antes que conteste = dte puede hacer en ella las ampliaciones o rectificaciones que estime conveniente, que se considerarán como una nueva dda para los efectos de su notificación.
+
+	- Efectos de la dda:
+		- queda abierta la instancia y el juez está obligado a conocer de las petición y tramitación de la causa
+		- el actor manifiesta su intención (si la hubiere), de prorrogar tácitamente la competencia
+		- en algunos casos se entiende que el derecho que se reclama existe desde la presentación de la dda = derecho de alimentos art. 331
+
+- Efectos del Emplazamiento
+
+	- relación procesal de las partes entre sí y con el TRB
+	- crea la carga para el ddo de comparecer ante el juez e intervenir en el juicio
+	- dte no puede hacer el retiro de la dda
+	- juicio queda radicado
+	- efectos de la sentencia se retrotraen a la época de la notificación de la dda
+
+- Plazo de Emplazamiento
+
+	- ddo es notificado en la comuna de funcionamiento del TRB = 15 días hábiles
+	- ddo, en el mismo territorio jurisdiccional pero fuera de la comuna = 18 días hábiles
+	- ddo fuera del territorio jurisdiccional = 18 días más tabla
+	- pluralidad de dtes = se aumenta 1 día por cada 3 dtes sobre 10, que existan, no pudiendo superar 30 días
+	- pluralidad ddos = término corre hasta que expire el último término parcial
+
+- Actitudes del ddo:
+	- excepciones dilatorias
+	- aceptar dda
+	- permanecer inactivo
+	- defenderse
+	- reconvenir
+
+- Excepciones Dilatorias
+
+	art. 303
+	- n° 1 incompetencia
+		de efectos permanentes.
+		- absoluta = puede ser alegada en cualquier estado del juicio, irrenunciable y de orden público
+		- relativa = sólo dentro del término de emplazamiento
+	- n° 2 falta de capacidad
+		- falta de capacidad del dte
+		- falta de personería
+		- falta de representación legal
+	- n° 3 litis pendencia
+		- respecto a las partes
+		- causa de pedir
+		- objeto pedido
+	- n° 4 ineptitud del libelo
+	- n° 5 beneficio de excusión
+		- art. 2355 y 2357 CC
+	- n° 6 toda aquella que se refiera a la corrección del procedimiento
+
+- Oportunidad
+	- deben oponerse todas en un mismo escrito, dentro del emplazamiento y antes de contestar la dda
+- Tramitación
+	- como incidentes
+	- art. 306 se fallan a la vez, pero si figura la incompetencia, debe abstenerse de pronunciarse sobre las demás
+	- la resolución que se pronuncia sobre ellas puede ser de dos tipos:
+		- acoge las excepciones = dte no tiene plazo para corregir (abandono del procedimiento), efectuada las correcciones ddo tiene plazo de 10 días para contestar (cualquier lugar), apelable en el sólo efecto devolutivo
+		- rechaza excepciones = ddo tiene 10 días para contestar, es apelable en el sólo efecto devolutivo
+
+- Acepta la dda
+	- TRB da traslado de la replica, el dte para la dúplica y luego COS, lo mismo ocurre cuando las partes piden que se falle el pleito sin más trámite.
+	- se procede a COS en los ss casos:
+		- ddo acepta llanamente
+		- ddo no contradice en materia substancial y pertinente los hechos
+		- las partes piden que se falle sin más trámite
+		- vencido el plazo (de 10 días) para efectuar observaciones a la prueba
+
+- Permanecer inactivo:
+	- da lugar a rebeldía, la cual no tiene un carácter general para todo el juicio, es decir, sólo para esta diligencia
+
+- Defenderse:
+	- alegaciones o defensas y excepciones
+	- las excepciones pueden ser:
+		- perentorias
+		- mixtas
+
+	- Oportunidad:
+		- rg. en el escrito de contestación de la dda
+		- p. excp.: excepciones anómalas
+
+	- Tramitación:
+		- en 1° inst. después de recibida la causa a prueba = como incidentes
+		- en 1° inst. antes de recibir la causa a prueba = como incidente
+		- en 2° inst. = como incidentes, pero se pronuncia en única instancia
+
+- Contestación
+
+	Contestación queda integrada la relación procesal y quedan fijados los hechos sobre los cuales van a recaer la prueba y la sentencia definitiva.
+	- Requisitos:
+		- Requisitos comunes a todo procedimiento: suma, patrocinio y poder
+		- Requisitos especiales de la contestación (art. 309):
+			- la designación del TRB
+			- nombre domicilio, profesión u oficio del ddo
+			- excepciones
+			- enunciación precisa y clara, consignada en la conclusión, de las peticiones
+	- Efectos:
+		- queda integrada la relaición procesal
+		- queda delimitada la cuestión controvertifa
+		- se produce la prórroga de la competencia (si fuere el caso)
+		- demandado no puede oponer excepciones dilatorias
+
+- Reconvenir
+	- Requisitos:
+		- que el juez sea competente
+		- debe formularla en el escrito de contestación de la demanda, siguiendo las reglas establecidas en los art. 254 y 261
+		- debe estar sujeta al mismo procedimiento que la demanda
+
+	- Tramitación:
+		- art. 316 se substancia y falla conjuntamente con la dda principal
+		- en contra de la reconvención las excepciones dilatorias se deben presentar dentro de 6 días
+		- si es acogida el actor reconvencional debe subsanar los defectos dentro de 10 días
+
+- Réplica y Dúplica
+
+	Al demandante le corresponde la réplica y tiene 6 días para evacuarlo, luego de la contestación de la demanda
+
+	El ddo tiene el mismo plazo para evacuar la dúplica.
+
+	Con el escrito de dúplica queda terminado el período de discusión del juicio ordinario.
+
+## Etapa de Conciliación
+
+art. 262 salvo en:
+- juicio ejecutivo
+- gestiones relativas a la declaración del derecho legal de retención
+- citación de la evicción
+- juicios de hacienda
+- juicios sobre el estado civil de las personas
+- juicio de nulidad del matrimonio
+- juicio de separación de bienes
+
+Una vez agotados los tramites de discusión y **siempre que hayan hechos substanciales, pertinentes y controvertidos**, el juez llamará a las partes a conciliación.
+
+- Requisitos:
+	- juicio civil
+	- no se trate de aquellos juicios exceptuados por ley
+	- que recaiga sobre derechos susceptibles de transacción
+	- que no se trate de los casos del art. 313 en que procede COS
+
+- Oportunidad:
+	- una vez agotado los trámites de discusión
+	- en cualquier estado de la causa una vez evacuado el trámite de contestación
+
+- Tramitación:
+	- TRB cita a audiencia a las partes, no antes de 5 días ni más allá de 15 días. Si el procedimiento contempla una audiencia para la contestación, se realizará en ella
+	- notificación por cédula (ordena la comparecencia de las partes)
+	- la conciliación sólo produce efecto respecto de las partes que concurrieron
+	- art. 263 juez obra como amigable componedor y trata de obtener un avenimiento total o parcial
+	- Si este comparendo es rechazado o no se lleva a cabo, el secretario certificará el hecho de inmediato, entregando los autos al juez para su examen a fin de determinar si existen hechos substanciales, pertinentes y controvertidos para recibir la causa a prueba
+	- de la conciliación se levanta acta, con las especificaciones del arreglo y será firmado por el juez, las partes y el secretario. Dicha acta, se estima como sentencia ejecutoriada.
+
+## Etapa de Prueba
+
+No tratándose de los casos señalados en el art. 313, el TRB debe examinar por sí mismos los autos y si estima que hay o puede haber controversia sobre algún hecho sustancial y pertinente en el juicio recibirá la causa a prueba, fijando en la misma resolución los hechos sustanciales, pertinentes y controvertidos sobre los que debe recaer.
+
+- Requisitos:
+	- controversia
+	- debe referirse a hechos
+	- los hechos sobre los cuales recae la controversia deben ser **substanciales y pertinentes**
+
+- Naturaleza Jurídica
+
+La resolución que recibe la causa a prueba es una sentencia interlocutoria (de 2° grado) que resuelve un trámite que va a servir de base para el pronunciamiento de otra sentencia.
+
+- Contenido de la Resolución:
+	- orden de recibir la causa a prueba
+	- fijación de los puntos de prueba
+	- eventualmente puede contener la fijación de las audiencias para que las partes rindan prueba testimonial
+
+- Recursos:
+	- reposición
+
+		dentro del 3° día art. 319.
+	- apelación
+
+		Sólo en subsidio del recurso de reposición en caso de que este no sea acogido por el TRB.
+
+- Ampliación de la Prueba
+
+	art. 321 en los ss casos:
+	- cuando dentro del término ocurre algún hecho substancialmente relacionado con el hecho que se ventila
+	- cuando la ampliación se refiere a hechos verificados y no alegados antes de recibirse a prueba la causa tal que jure el que los aduce que sólo entonces han llegado a su conocimiento
+
+	Se tramitan como incidente en cuadernos separados.
+
+- Cuestiones sobre la prueba testimonial
+
+	Se debe presentar lista de testigos y minuta de los puntos de prueba, dentro de los 5 días desde: a) la primera notificación de la resolución que se refiere el art. 318 cuando no se haya pedido reposición, b) desde la notificación por estado diario de la resolución que se pronuncie sobre la última solicitud de reposición, cuando se haya pedido reposición
+
+	En el caso de que no se presente la lista de testigos la sanción es que no se podrá rendir prueba testimonial, en el caso de que no se presente minuta sobre los puntos de prueba, su sanción es, conforme a la jurisprudencia, que los testigos sólo declararan al tenor de los hechos controvertidos fijados por el juez.
+
+- Término Probatorio
+	- Características:
+		- término fatal para rendir la prueba testimonial
+		- puede ser legal, judicial o convencional
+		- es común
+		- improrrogable
+		- puede ser reducido por acuerdo unánime de las partes (plazo convencional)
+		- no se suspende en caso alguno, salvo acuerdo de las partes
+		- dentro de él se debe solicitar toda diligencia probatoria que no se haya solicitado con anterioridad
+		- todo incidente debe ser substanciado en cuaderno separado
+
+- Clases
+	- ordinario
+
+		En el cual se puede rendir prueba en cualquier punto de la República o fuera de ella, art 334.
+	- extraordinario
+
+		Vencido el término ordinario sólo puede rendirse prueba en aquellos lugares para los cuales se haya otorgado el aumento extraordinario, el cual empieza a correr una vez que se extingue el término ordinario
+	 	Diferencias respecto si el término extraordinario es rendido dentro o fuera del territorio de la República:
+
+		![Tabla](t.jpeg)
+		![Tabla](ta.jpeg)
+
+		Sanción: art. 337
+	- especial
+
+		art. 339, podrá, el TRB, otorgar un término especial:
+		- por el número de días que haya durado el entorpecimiento
+		- sólo en aquél lugar a que dicho entorpecimiento se refiera
+
+		Son ejemplos:
+		- inc. final art 339
+		- art. 340 (respecto de diligencias solicitadas en tiempo hábil)
+		- art. 340 (inasistencia del juez)
+
+### Los Medios de Prueba en Particular
+
+- Instrumento Público
+
+	- Iniciativa:
+		- p rg. a iniciativa de parte
+		- p excp. de parte del TRB en las MPR
+
+	- Formas de acompañar:
+		- documentos que la parte tiene en su poder:
+			- i. público = con citación, 3 días para objetarlo
+			- si se acompaña en la dda = término de emplazamiento
+			- i. en lengua extranjera = 6 días
+		- i. que esté en mandos de la contraria o tercero:
+			- debe tener relación directa con la cuestión debatida y no revestir el carácter de secreto
+			- costos por parte de la parte solicitante
+			- sanción por incumplimiento: multas que no excedan de 2 sueldos vitales y arrestos hasta por 2 meses
+	- Oportunidad:
+		- cualquier estado del juicio **hasta el vencimiento del término probatorio** en 1° inst. y **hasta la vista de la causa** en 2° inst.
+
+	- I. Otorgados Fuera de Chile
+		- art. 345 deben ser presentados legalizados
+		- art. 345 bis apostillados respecto a aquellos Estados Parte de dicho tratado
+
+	- Valor Probatorio I. Público
+		- entre las partes
+			- hacen plena prueba respecto a:
+				- haberse otorgado por las personas y de la manera que se expresa
+				- fecha
+				- declaraciones dispositivas
+			- no hacen plena prueba:
+				- declaraciones enunciativas, salvo que tengan relación directa con lo dispositivo
+			- respecto a terceros:
+				- fecha
+				- hecho de haberse otorgado
+				- declaraciones dispositivas
+
+	- Impugnación
+		- por falta de autenticidad
+		- por nulidad
+		- por falta de verdad de las declaraciones
+	- Forma de impugnación:
+		- vía ppal.: procedimiento declarativo
+		- vía incidental: se impugna dentro del término de citación, por haberse acompañado dicho i.
+
+- Instrumentos Privados
+
+	Solamente tienen valor probatorio si son reconocidos en juicio. Se tienen por reconocidos (art. 346):
+	-
+
+
+
+
+## Etapa de Sentencia
 
 # 23. Juicio Sumario
 
@@ -3574,34 +3953,36 @@ author: Lucas Fernandez
   comunicación se pudiera frustrar la diligencia.  Sin embargo, si implican:
 	+ documentos
 	+ información
-	+ elementos Cuyo conocimiento pudiere afectar la *seguridad nacional*,
-	  la persona a cargo del recinto informará de inmediato y fundadamente
-	  al **Ministro de Estado** correspondiente, quien podrá, si lo estima
-	  conveniente, oficiará al fiscal manifestando su oposición.  En el
-	  caso que el fiscal persista deberá remitir los antecedentes al fiscal
-	  regional, quien si comparte la decisión, deberá solicitar a la
-	  **Corte Suprema** que resuelva la controversia.  En estos casos, se
-	  aplicará el secreto (art.182) a dichos antecedentes. Es decir,
-	  disponiendo que dichas actuaciones sean mantenidas en secreto
-	  respecto del imputado o de los demás intervinientes por 40 días,
-	  ampliables, cuando lo considere necesario para la eficacia de la
-	  investigación.  Rigiendo en lo pertinente el art. 19 sobre
-	  *requerimientos de información, contenido y fomalidades*. El cual
-	  señala que las autoridades deben realizar las diligencias sin demora,
-	  pero que tratándose de información de carácter secreto se atenderá a
-	  lo prescrito por las leyes respectivas o, en su defecto, adoptándose
-	  las precauciones de que dicha información no será **divulgada**. En
-	  tal situación, si la autoridad se retardare en el envío de los
-	  antecedentes bajo el pretexto del carácter de secreto o reservado, el
-	  fiscal deberá remitir los antecedentes al fiscal regional, que si
-	  compartiere la decisión, solicitará a la Corte de Apelaciones, previo
-	  informe de la autoridad, que resuelva la controversia.  En el caso de
-	  que la publicidad pudiera afectar la seguridad nacional será resuelta
-	  por la Corte Suprema.  Aun cuando rechace el requerimiento, podrá
-	  ordenar que se suministren al ministerio público o al tribunal los
-	  datos que le parecieren necesarios para la adopción de decisiones
-	  relativas a la investigación o para el pronunciamiento de
-	  resoluciones judiciales.
+	+ elementos
+
+	Cuyo conocimiento pudiere afectar la *seguridad nacional*,
+		  la persona a cargo del recinto informará de inmediato y fundadamente
+		  al **Ministro de Estado** correspondiente, quien podrá, si lo estima
+		  conveniente, oficiará al fiscal manifestando su oposición.  En el
+		  caso que el fiscal persista deberá remitir los antecedentes al fiscal
+		  regional, quien si comparte la decisión, deberá solicitar a la
+		  **Corte Suprema** que resuelva la controversia.  En estos casos, se
+		  aplicará el secreto (art.182) a dichos antecedentes. Es decir,
+		  disponiendo que dichas actuaciones sean mantenidas en secreto
+		  respecto del imputado o de los demás intervinientes por 40 días,
+		  ampliables, cuando lo considere necesario para la eficacia de la
+		  investigación.  Rigiendo en lo pertinente el art. 19 sobre
+		  *requerimientos de información, contenido y fomalidades*. El cual
+		  señala que las autoridades deben realizar las diligencias sin demora,
+		  pero que tratándose de información de carácter secreto se atenderá a
+		  lo prescrito por las leyes respectivas o, en su defecto, adoptándose
+		  las precauciones de que dicha información no será **divulgada**. En
+		  tal situación, si la autoridad se retardare en el envío de los
+		  antecedentes bajo el pretexto del carácter de secreto o reservado, el
+		  fiscal deberá remitir los antecedentes al fiscal regional, que si
+		  compartiere la decisión, solicitará a la Corte de Apelaciones, previo
+		  informe de la autoridad, que resuelva la controversia.  En el caso de
+		  que la publicidad pudiera afectar la seguridad nacional será resuelta
+		  por la Corte Suprema.  Aun cuando rechace el requerimiento, podrá
+		  ordenar que se suministren al ministerio público o al tribunal los
+		  datos que le parecieren necesarios para la adopción de decisiones
+		  relativas a la investigación o para el pronunciamiento de
+		  resoluciones judiciales.
 
 - Entrada y registro en lugares que gozan de inviolabilidad diplomática Juez
   pedirá, por conducto del Ministerio de Relaciones Exteriores, su
@@ -3617,21 +3998,21 @@ author: Lucas Fernandez
 
 ## Defensa
 
-	Tener presente art 103 bis, el cual señala sanciones al defensor que se
-	ausentare, renunciare, o abandonare injustificadamente audiencias de:
-	+ APJO (dentro de los 7 días anteriores)
-	+ JO (dentro de los 10 días)
-	+ JA Suspensión del ejercicio de la profesión entre 15 a 60 días.  Es
-	  importante recordad el art. 103 que señala que la ausencia del
-	  defensor en cualquiera de las actuaciones que la ley exigiere
-	  expresamente su presencia produce **nulidad** de la misma.
+Tener presente art 103 bis, el cual señala sanciones al defensor que se
+ausentare, renunciare, o abandonare injustificadamente audiencias de:
++ APJO (dentro de los 7 días anteriores)
++ JO (dentro de los 10 días)
++ JA Suspensión del ejercicio de la profesión entre 15 a 60 días.  Es
+  importante recordad el art. 103 que señala que la ausencia del
+  defensor en cualquiera de las actuaciones que la ley exigiere
+  expresamente su presencia produce **nulidad** de la misma.
 
 ## Querellante
 
-	+ la víctima, su representante legal o su heredero testamentario
-	+ cualquier persona (delitos terroristas, por funcionarios públicos que
-	  afecten derechos garantizados por la CPR, probidad pública)
-	+ órganos y servicios públicos cuando sus propias leyes orgánicas los
++ la víctima, su representante legal o su heredero testamentario
++ cualquier persona (delitos terroristas, por funcionarios públicos que
+  afecten derechos garantizados por la CPR, probidad pública)
++ órganos y servicios públicos cuando sus propias leyes orgánicas los
 	  autorice.
 
 
@@ -3675,16 +4056,16 @@ author: Lucas Fernandez
 
 # 54. Procedimientos Especiales de Trabajo y Familia
 
-	Procedimientos de doble audiencia. Estructuras general de estos
-	procedimientos. Principios Procesales En Los Procedimientos De
-	Audiencias. Similitudes y diferencias.
-	El procedimiento se estructura sobre la base de dos audiencias: una de
-	carácter preparatoria y otra de juicio propiamente tal.  La finalidad
-	de la audiencia preparatoria es despejar todas las cuestiones previas a
-	la producción de la prueba.  Se trata de un procedimiento
-	predominantemente oral.  Respecto a la competencia de los TRB
-	laborales, el factor cuantía determina el procedimiento aplicable,
-	monitorio o el procedimiento de aplicación general.
+Procedimientos de doble audiencia. Estructuras general de estos
+procedimientos. Principios Procesales En Los Procedimientos De
+Audiencias. Similitudes y diferencias.
+El procedimiento se estructura sobre la base de dos audiencias: una de
+carácter preparatoria y otra de juicio propiamente tal.  La finalidad
+de la audiencia preparatoria es despejar todas las cuestiones previas a
+la producción de la prueba.  Se trata de un procedimiento
+predominantemente oral.  Respecto a la competencia de los TRB
+laborales, el factor cuantía determina el procedimiento aplicable,
+monitorio o el procedimiento de aplicación general.
 
 
 # 55. Procedimiento de Aplicación General del Trabajo
@@ -3707,28 +4088,28 @@ author: Lucas Fernandez
 
 # 56. Procedimiento Monitorio
 
-	Es el procedimiento aplicable respecto aquellas contiendas cuya cuantía
-	sean igual o inferior a diez ingresos mínimos mensuales, sin considerar
-	en su caso, los aumentos que hubiere lugar por aplicación de los inc. 4
-	y 7 del art. 162, y de las contiendas a que se refiere el art. 201 del
-	CT El Procedimiento monitorio y el de tutela labor se tratan de dos
-	procedimientos especiales.  Art. 496 A 502 C.DEL TRABAJO
+Es el procedimiento aplicable respecto aquellas contiendas cuya cuantía
+sean igual o inferior a diez ingresos mínimos mensuales, sin considerar
+en su caso, los aumentos que hubiere lugar por aplicación de los inc. 4
+y 7 del art. 162, y de las contiendas a que se refiere el art. 201 del
+CT El Procedimiento monitorio y el de tutela labor se tratan de dos
+procedimientos especiales.  Art. 496 A 502 C.DEL TRABAJO
 
 # 57. Procedimiento de Tutela Laboral
 
-	Art. 485 y siguientes. Protección constitucional. Causales,
-	finalidades,  Comparecientes individuales y colectivos, capacidades,
-	indicios y valoración de la prueba, estructura del juicio. Causal de
-	indemnidad.
+Art. 485 y siguientes. Protección constitucional. Causales,
+finalidades,  Comparecientes individuales y colectivos, capacidades,
+indicios y valoración de la prueba, estructura del juicio. Causal de
+indemnidad.
 
 
 # 58. Tramitación ante los Tribunales de Familia
 
-	Ley 19.968. Competencia de los Tribunales de Familia. Jurisdicción.
-	Mediación. Estructura del juicio. Medios de prueba. Recursos.
+Ley 19.968. Competencia de los Tribunales de Familia. Jurisdicción.
+Mediación. Estructura del juicio. Medios de prueba. Recursos.
 
 
 # 59. Del Recurso de Nulidad en los Procedimientos del Trabajo y de Familia
 
-	Concepto, descripción, finalidad, carácter del recurso. Objetivos.
-	Similitudes.
+Concepto, descripción, finalidad, carácter del recurso. Objetivos.
+Similitudes.

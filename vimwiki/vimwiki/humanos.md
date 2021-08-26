@@ -958,9 +958,6 @@
 - Convención Contra la Tortura, Tratos o Penas Crueles, Inhumanos o Degradantes
 
 
-
-
-
 - Derecho a la Verdad
 
 	Tiene su origen en el DIH como aquél derecho que tienen los familiares
@@ -1223,11 +1220,11 @@
 	admisión de inmunidad.
 
 ## Referencias a la Ayuda Humanitaria
-	+ Declaración y Programa de Acción de Viena, reafirma el derecho de
-	  buscar refugio contra persecuciones y la obtención de soluciones
-	  duraderas y la prestación de ayuda humanitaria a las víctimas de
-	  cualquier tipo de catastrofe natural o humana.
-	+ Convención de los Derechos del Niño
++ Declaración y Programa de Acción de Viena, reafirma el derecho de
+  buscar refugio contra persecuciones y la obtención de soluciones
+  duraderas y la prestación de ayuda humanitaria a las víctimas de
+  cualquier tipo de catastrofe natural o humana.
++ Convención de los Derechos del Niño
 
 ## Convención sobre el Estatuto de los Refugiados, 1951 Definición de
 refugiado: persona que es perseguida o tiene fundado temor de persecusión, por
@@ -1241,59 +1238,59 @@ persecución.
 Institucionales Chile se obliga a través de todas las autoridades a hacer
 respetar, promover, cumplir y exigir el respeto a los derechos humanos.
 
-	- La Subsecretaría de Derechos Humanos, Ministerio de Justicia y DDHH
-	  Tiene por funcion:
-	+ prestar asesoría y colaboración directa al Ministro de Justicia en el
-	  diseño y elaboración de las políticas, planes y programas relativos a
-	  la promoción y protección de los derechos humanos.
-	+ promover la elaboración de políticas, planes y programas en materia
-	  de derechos humanos en los organos del Estado
-	+ elaborar y proponer el Plan Nacional de Derechos Humanos, presentarlo
-	  al Comite Interministerial, coordinar su seguimiento y evaluación
-	+ asistir al Ministro de Justicia en el estudio crítico del derecho
-	  interno para proponer al Presidente las reformas pertinentes para
-	  adecuar su contenido a los tratados internacionales
-	+ prestar asesoría al Ministerio de Relaciones Exteriores ante los
-	  tribunales u organismos internacionales y en el seguimiento de
-	  informes y resoluciones
-	+ diseñar, fomentar, y coordinar programas de capacitación y promoción
-	  de los derechos humanos para funcionarios de la administración del
-	  Estado
-	+ generar instancias de participación con la sociedad civil
-	+ secretaria ejecutiva del Comite Interministerial de DD.HH.
-	+ celebrar convenios con organismos públicos, privados, nacionales e
-	  internacionales
+- La Subsecretaría de Derechos Humanos, Ministerio de Justicia y DDHH
+  Tiene por funcion:
++ prestar asesoría y colaboración directa al Ministro de Justicia en el
+  diseño y elaboración de las políticas, planes y programas relativos a
+  la promoción y protección de los derechos humanos.
++ promover la elaboración de políticas, planes y programas en materia
+  de derechos humanos en los organos del Estado
++ elaborar y proponer el Plan Nacional de Derechos Humanos, presentarlo
+  al Comite Interministerial, coordinar su seguimiento y evaluación
++ asistir al Ministro de Justicia en el estudio crítico del derecho
+  interno para proponer al Presidente las reformas pertinentes para
+  adecuar su contenido a los tratados internacionales
++ prestar asesoría al Ministerio de Relaciones Exteriores ante los
+  tribunales u organismos internacionales y en el seguimiento de
+  informes y resoluciones
++ diseñar, fomentar, y coordinar programas de capacitación y promoción
+  de los derechos humanos para funcionarios de la administración del
+  Estado
++ generar instancias de participación con la sociedad civil
++ secretaria ejecutiva del Comite Interministerial de DD.HH.
++ celebrar convenios con organismos públicos, privados, nacionales e
+  internacionales
 
-	- Comité Interministerial de DD.HH.  Su funcion es asesorar al
-	  Presidente en la determinación de los lineamientos de la política
-	  intersectorial del gobierno en materia de derechos humanos,
-	  constituyendo una instancia de información, orientación, coordinación
-	  y acuerdo para los ministerios y servicios que lo integran.
+- Comité Interministerial de DD.HH.  Su funcion es asesorar al
+  Presidente en la determinación de los lineamientos de la política
+  intersectorial del gobierno en materia de derechos humanos,
+  constituyendo una instancia de información, orientación, coordinación
+  y acuerdo para los ministerios y servicios que lo integran.
 
 
 
-	- Plan Nacional de Derechos Humanos Tiene una duración de 4 años y
-	  contiene el diseño e implementación de las políticas encaminadas al
-	  respeto, promoción, y protección de los derechos humanos,
-	  estableciendo metas, identificando responsables, recursos, mecanismos
-	  de seguimiento y evaluación de resultados.  Es elaborado a partir de
-	  las prioridades sectoriales, intersectoriales, y de política exterior
-	  propuestas por el Comite Interministerial de DD.HH. y en su formación
-	  deberá tener en consideración:
-	+ la opinión civil
-	+ informes, propuestas, recomendaciones conforme sea pertinente, del
-	  INDH, SIDH y el SUDH.  Abordando al menos especialmente las
-	  siguientes materias:
-	+ la promoción de la investigación, sanción y reparación de los
-	  crímenes de lesa humanidad y genocidios, y crímenes y delitos de
-	  guerra
-	+ la preservación de la memoria historica de las violaciones de los
-	  derechos humanos
-	+ la promoción de la no discriminación arbitrária
-	+ la promoción de la educación y formación en derechos humanos tanto
-	  respecto a la sociedad civil como en autoridades.
-	+ la promoción del cumplimiento de las sentencias internacionales en
-	  que sea parte Chile tanto del SIDH como del SUDH.
+- Plan Nacional de Derechos Humanos Tiene una duración de 4 años y
+  contiene el diseño e implementación de las políticas encaminadas al
+  respeto, promoción, y protección de los derechos humanos,
+  estableciendo metas, identificando responsables, recursos, mecanismos
+  de seguimiento y evaluación de resultados.  Es elaborado a partir de
+  las prioridades sectoriales, intersectoriales, y de política exterior
+  propuestas por el Comite Interministerial de DD.HH. y en su formación
+  deberá tener en consideración:
++ la opinión civil
++ informes, propuestas, recomendaciones conforme sea pertinente, del
+  INDH, SIDH y el SUDH.  Abordando al menos especialmente las
+  siguientes materias:
++ la promoción de la investigación, sanción y reparación de los
+  crímenes de lesa humanidad y genocidios, y crímenes y delitos de
+  guerra
++ la preservación de la memoria historica de las violaciones de los
+  derechos humanos
++ la promoción de la no discriminación arbitrária
++ la promoción de la educación y formación en derechos humanos tanto
+  respecto a la sociedad civil como en autoridades.
++ la promoción del cumplimiento de las sentencias internacionales en
+  que sea parte Chile tanto del SIDH como del SUDH.
 
 
 
@@ -1492,13 +1489,13 @@ respetar, promover, cumplir y exigir el respeto a los derechos humanos.
 
 # 19. Derecho Internacional Humanitario
 
-	El CICR (Comité Internacional de la Cruz Roja) entiende por tal, las
-	normas internacionales, de origen convencional o consuetudinario,
-	especialmente destinadas a solucionar los problemas de índole
-	humanitaria que se derivan directamente de los conflictos armados, ya
-	sean éstos internacionales o no, y limitan, por razones humanitarias,
-	el derecho de las partes en conflicto a utilizar los métodos y medios
-	de hacer la guerra.
+El CICR (Comité Internacional de la Cruz Roja) entiende por tal, las
+normas internacionales, de origen convencional o consuetudinario,
+especialmente destinadas a solucionar los problemas de índole
+humanitaria que se derivan directamente de los conflictos armados, ya
+sean éstos internacionales o no, y limitan, por razones humanitarias,
+el derecho de las partes en conflicto a utilizar los métodos y medios
+de hacer la guerra.
 
 - La Comisión Internacional de Encuesta
 

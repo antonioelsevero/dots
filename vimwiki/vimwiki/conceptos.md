@@ -58,6 +58,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Albaceas o Ejecutores Testamentarios**: Son aquellos a quienes el testador da el encargo de hacer ejecutar sus disposiciones.
 
+**Alegaciones o Defensas**: Actitud que puede tener el demandado, la cual consiste en desconocer la existencia del derecho objeto de la acción deducida, es decir, niega la existencia del derecho reclamado.
+
 **Alegatos**: Son las exposiciones orales que hacen los abogados de las partes acerca de las cuestiones de hecho y de derecho sometidas a la decisión del tribunal.
 
 **Allanamiento**: El acto por el cual el demandado admite, más que la exactitud de los hechos, la legitimidad de las pretensiones del actor.
@@ -191,6 +193,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Conciliación**: Acto jurídico bilateral en virtud del cual las partes, a iniciativa del juez que conoce el proceso, logran durante su desarrollo ponerle fin por mutuo acuerdo.
 
+**Contestación de la Demanda**: Es el acto procesal que corresponde cumplir al demandado y que realiza, expresa o tácitamente, para enfrentarse a la demanda deducida en su contra por el actor. Es expresa cuando el demandado lo realiza a través del acto procesal contenido en el escrito y es tácito cuando la contestación se tiene por evacuada en rebeldía del demandado.
+
 **Convención**: Acuerdo de voluntades destinado a crear, modificar o extinguir derechos y obligaciones
 
 **Cotejo de Letras**: Consiste en la comparación de la letra o firma de un documento privado cuestionado con la de otro documento indubitado, es decir, con otro respecto del cual no exista duda que ha sido escrito o firmado por la misma persona que aparece haber escrito o firmado el que se ha controvertido.
@@ -304,7 +308,7 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Donaciones Revocable**: Es un acto jurídico unilateral por el cual una persona da o promete dar a otra una cosa o derecho para después de su muerte, conservando la facultad de revocarla mientras viva.
 
-**Duplica**: Es el escrito que tiene por objeto ampliar, adicionar o modificar las excepciones que haya formulado el demandado en la contestación de la demanda pero sin que pueda alterar las excepciones que sean objeto principal del juicio.
+**Dúplica** (art. 312): Es el escrito que tiene por objeto ampliar, adicionar o modificar las excepciones que haya formulado el demandado en la contestación de la demanda pero sin que pueda alterar las excepciones que sean objeto principal del juicio.
 
 
 
@@ -340,9 +344,15 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Evicción**: Se produce cuando el comprador es privado de todo o parte de la cosa por sentencia judicial anterior a la compra.
 
-**Excepciones**: Consisten en la afirmación de la existencia de elementos de hecho o derecho que tienen eficacia extintiva, impeditiva o invalidativa del efecto jurídico afirmado como fundamento de la pretensión del demandante.
-
 **Excepción de Subrogación**: Se extingue la fianza respecto del acreedor, por haber perdido, por hecho o culpa suya, las acciones en que el fiador tenía derecho a subrogarse.
+
+**Excepciones**: Consisten en la afirmación de la existencia de elementos de hecho o derecho que tienen eficacia extintiva, impeditiva o invalidativa del efecto jurídico afirmado como fundamento de la pretensión del demandante. Tiene por diferencia, con las meras defensas o alegaciones, que, suponen que el derecho ha existido pero que, por un hecho independiente de la constitución y existencia de él, éste ha caducado.
+
+**Excepciones Anómalas**: Son aquellas excepciones perentorias que, por excepción, pueden oponerse en cualquier estado del juicio, antes de la citación a oír sentencia en primera instancia y antes de la vista de la causa en segunda instancia. Son: prescripción, cosa juzgada, transacción, pago efectivo de la deuda cuándo ésta se funde en un antecedente escrito.
+
+**Excepciones Mixtas**: Son aquellas que por su naturaleza son perentorias, pero que la ley faculta al demandado para oponerlas como dilatorias. Son: cosa juzgada, transacción.
+
+**Excepciones Perentorias**: Son aquellas que tienen por objeto enervar la acción deducida y se dirigen al fondo del asunto debatido. Normalmente están constituidas por los modos de extinguir las obligaciones.
 
 **Expensas Necesarias**: Son aquellas que aseguran la conservación de la cosa, que de no realizarse producen su detrimento, menoscabo o pérdida.
 
@@ -391,7 +401,9 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Haber Relativo**: Esta formado por aquellos bienes que entran a formar parte del patrimonio social, pero confieren al cónyuge propietario un crédito contra la sociedad equivalente al valor de ellos que se hace efectivo a la época de su disolución.
 
-**Hecho Jurídico**: Es todo suceso del hombre oo la naturaleza que produce efectos juridicos.
+**Hecho Jurídico**: Es todo suceso del hombre oo la naturaleza que produce efectos jurídicos.
+
+**Hechos Controvertidos, Substanciales y Pertinentes**: Son substanciales cuando tienen una decidida importancia en la litis. Son pertinentes aquellos que tienen relación con la materia debatida.
 
 **Herencia Yacente**: Se tiene por tal a aquella que trascurridos más de 15 días desde la apertura de la sucesión, no ha sido aceptada por ningún heredero, ni exista albacea  con tenencia de bienes que haya aceptado el cargo, o si habiéndolo, éste no ha aceptado el cargo.
 
@@ -715,6 +727,8 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Recompensas**: Son las indemnizaciones pecuniarias a que los patrimonios del marido, de la mujer y de la sociedad conyugal están obligados entre si.
 
+**Reconvención**: Es la demanda que el demandado deduce contra el actor en el escrito de contestación de la demanda ejercitando cualquier acción que tenga en su contra.
+
 **Recurso de Aclaración, Rectificación o Enmienda**: Es el medio que la ley concede a las partes para obtener que el mismo tribunal que dictó una resolución aclare los puntos obscuros o dudosos, salve las omisiones o rectifique los errores de copia de referencia o de cálculo numérico, que aparezcan de manifiesto en la sentencia.
 
 **Recurso de Casación**: Es el medio extraordinario que la ley otorga a las partes para obtener la invalidación de una sentencia cuando se ha dictado en un procedimiento viciado o con omisión de formalidades legales o cuando el tribunal ha fallado con infracción de ley.
@@ -825,7 +839,7 @@ Tener presente que los conceptos empiezan en *mayúscula*.
 
 **Tercerías**: Es el procedimiento por el cual interviene un extraño al juicio invocando derechos incompatibles con los de las partes (testigos excluyentes), derechos independientes (testigos independientes), o derechos armónicos con los de las partes (testigos coadyuvantes).
 
-**Término Especial Probatorio**: Es aquél que se concede cada vez que durante el término probatorio ocurra algún entorpecimiento, es decir, cuando sucede algún hecho o sobrevenga cualquier situación en el proceso que impida real y legítimamente la recepción de la prueba.
+**Término Probatorio Especial**: Es aquél que se concede cada vez que durante el término probatorio ocurra algún entorpecimiento, es decir, cuando sucede algún hecho o sobrevenga cualquier situación en el proceso que impida real y legítimamente la recepción de la prueba.
 
 **Término Probatorio Extraordinario** (en juicio ordinario): Es aquél que la ley concede para el caso que haya que rendirse prueba en otro territorio jurisdiccional o fuera de la República y consiste en el aumento del término ordinario por un número de días igual que al aumento del emplazamiento.
 
